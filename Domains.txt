@@ -11,6 +11,7 @@ apple.com.account-update.syaria.net
 appleidalert.services
 appleid.appleaccountloginreviewactivity.idxappele.cf
 appleid.appleaccountloginreviewactivity.idxapple.cf
+appleid.apple.betreeand.com
 appleid.apple.com---log.in
 appleid.apple.com-recent-verification-update-account.com
 appleid.apple.locked-account-support.com
@@ -21,6 +22,7 @@ appleid.sign-ld.com
 appleidsuspended.dragonzkings.is
 applemixx.rac3.com.br
 apple-palace-store.com.ua
+applesdonthavebones.com.websitebuilder.prositehosting.co.uk
 authpaymentupdate-securecontactverify.banyulangits.com
 autodiscover.giftappleinc.ml
 bankofamerica.gskworld.com
@@ -79,6 +81,7 @@ paypal-disabled.servehttp.com
 paypal.online-gb.co.uk
 paypalsecureonlineverificationpage.pacifictechnologybd.com
 paypal-security-center.com.christchapel.org.ng
+paypalsupportaccountlimitedwebappsid404.kentotskan11.com
 rbxverify.win
 reviewpayment-updatecontactverify.banyulangits.com
 secure2store-idmsa.com-ap-idwebauth.signin.in-sg.cf
@@ -153,6 +156,7 @@ www.paypal-account.sslt.cf
 www.paypal.christchapel.org.ng
 www.paypalsecureonlineverificationpage.pacifictechnologybd.com
 www.paypal-security-center.com.christchapel.org.ng
+www.paypalsupportaccountlimitedwebappsid404.kentotskan11.com
 www.reviewpayment-updatecontactverify.banyulangits.com
 www.secure2store-idmsa.com-ap-idwebauth.signin.in-sg.cf
 www.secure.appleid.apple.com-app-de-90188926.com
