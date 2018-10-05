@@ -22,6 +22,7 @@ alertpayment.updated.milmag.ro
 all-customer-service.us
 amazon-customer-service.website
 amazonruru.twitter.mixh.jp
+amazon-secure.confirmboa.ga
 americanexpress.com-login.t-online.flu.cc
 americanexpresscomsecureservice.jalwa.com.pk
 analyze-top-analytic-service.review
@@ -30,6 +31,7 @@ api.twitter.com.testwitter.club
 app-applesupport.serveftp.com
 appelid-appel.com.login.profile.com-cancel-subscription.cc
 appelid.appel.com.login.profile.com-cancel-subscription.cc
+apple-account-verification.bacodefavores.com
 apple-action-activation.ml
 apple-appleid-com.requird-verify-secure0-sereivc.tk
 apple.appleid.com-servecenterunlocked1.com
@@ -39,6 +41,7 @@ apple-br.support
 apple.com.account-update.syaria.net
 apple.com.au-update.mobi
 apple.com-isignin.review
+apple.com.pv7.me
 apple-com-recovery-update.com.terjemahhan6777.net
 appleconnect.apple.com.paraguacupaulista.com.br
 apple-error-alert.tk
@@ -49,9 +52,15 @@ appleid.appleaccountloginreviewactivity.idxappele.cf
 appleid.appleaccountloginreviewactivity.idxapple.cf
 appleid.apple.betreeand.com
 appleid.apple.com.accountverification-applesystem.com
+appleid-apple.com.apps-secure-information.ga
+appleid.apple.com-en.secure1.yer-locked.com
 appleid.apple.com.info-login-another-security.com
 appleid.apple.com.jesusconnectionchurch.co.za
+appleid.apple.com.lckedapptot.com
 appleid.apple.com---log.in
+appleid.apple.com.managecanceledorder.com
+appleid.apple.com.managecanceledorder.info
+appleid.apple.com.managecanceledorder.net
 appleid.apple.com.medentic.cl
 appleid.apple.com.msg38.site
 appleid.apple.com-recent-verification-update-account.com
@@ -71,6 +80,7 @@ appleid-apple.us
 appleid-apple.w-a-b-s.com
 appleid-apple.web2scurepp.com
 appleid-center.ir
+appleid-check-secure.ooo
 appleid-checksupport.ooo
 appleid.com-es.ooo
 appleid.com-index-reviews-manager-cancel-purchase-account.usa.cc
@@ -82,11 +92,13 @@ appleid-helpingcentury-apple.com
 appleid.icloud.assistenzamail.com
 appleid-icloud.servehttp.com
 apple.idmsa.auth.corp.group.com.login.victorycollection.co.id
+appleidservice.ddnsking.com
 appleid-sign-apple.com.apps-boostertv.com
 appleid.sign-ld.com
 appleid.supportid293.com
 appleid-supports-isa-apple.com
 appleidsuspended.dragonzkings.is
+appleid-updates.com
 appleid-verfiy.serveirc.com
 appleid-verification-mailconfirmations-account-informations.com
 apple.inc-maps.us
@@ -97,6 +109,7 @@ apple-login-support.mondetrem.com.br
 applemixx.rac3.com.br
 apple-palace-store.com.ua
 apple-pay-validations-iris.dev.frgcloud.com
+applere-updatebill.serveirc.com
 applesdonthavebones.com.websitebuilder.prositehosting.co.uk
 apple-service.co
 apple-service.gq
@@ -110,8 +123,10 @@ apple.support-log.me
 apple-support.statementaccount-update.hbj89u.com
 appleunlock.allgsmstore.net
 applid-securedlogin.redirectme.net
+appsservice.loginneppleid.customereserviceconfirmasion.com
 appsverifyaccounts.myftp.biz
 authpaymentupdate-securecontactverify.banyulangits.com
+auth-verif-appleid-support.info
 autodiscover.apple-service.co
 autodiscover.customersupporthelpline.in
 autodiscover.giftappleinc.ml
@@ -130,6 +145,7 @@ besttvshowsonnetflix.marketingblueprint.com.au
 bofa-comsecurebrowsing.cf
 bsgp-125-force-update.bsg-account-service.dev.sda-se.com
 caf-mon-compte-login.review
+cartruckpartscomputerchipcruisecontrol2014info.incartechsecuritydiyforspeakerssubwoofers2017.info
 central-support-appple.com.increstn.email
 chaseaccount.cf
 chaseaccount.ga
@@ -144,6 +160,7 @@ com-index-reviews-manager-cancel-purchase-account.usa.cc
 com-information-notice-updated.support
 companysupportggmd.tk
 com.paypal.verify.your.account.sinharinha.com.br
+compete.james-test-support.portals-dev.apset.xyz
 completeinfo-account.tk
 confirm-account-paypal.safehavenkidsph.org
 confirmationshortlyorder.ml
@@ -153,8 +170,13 @@ confirm-your-accounts-201366.ml
 connect.secure.wellsfargo.online.services.alert.gcarqtek.com
 contasnetflixgratis.ga
 cpanel.apple-action-activation.ml
+cpanel.appleid.apple.com.managecanceledorder.com
+cpanel.appleid.apple.com.managecanceledorder.info
+cpanel.appleid.apple.com.managecanceledorder.net
 cpanel.appleid.apple.com-unlocked-service.com
 cpanel.appleid.apple.locked-account-support.com
+cpanel.appleidservice.ddnsking.com
+cpanel.appleid-updates.com
 cpanel.apple-service.co
 cpanel.com-index-reviews-manager-cancel-purchase-account.usa.cc
 cpanel.customersupporthelpline.in
@@ -173,6 +195,7 @@ cpanel.support-netflixservices.com
 cpanel.supportservice.com.ar
 cpanel.verification-accountth.com
 cpanel.verifyoffice.ga
+cpanel.verifyonline.ga
 c-support.datacenter.xyz
 ctmed.secureserviceit.com.br
 cuentahotmail.com.mx
@@ -239,6 +262,7 @@ icloud.com-apple.us
 icloud.com.authid-sign.in
 icloud.com-check.review
 icloud.com-supported.in
+icloud.com-support.us
 icloud.com.viewmaps.review
 icloud-support-help.com
 id.app-id.com-cgi.bin.service-authorization.com
@@ -284,14 +308,22 @@ login-program285-info.win
 login-support-mukbang-authorize.actreportsdaily.net
 login.updateadobe.ml
 login.verifyoffice.ga
+log-in-websecure.loginaustria.com
+log-in-websecure.loginautriche.com
+log-in-websecure.loginvienna.net
 login.yahoo.com1389734723.ml
 login.yahoo.com.msg32.site
 mail.accounts.ramitsupport.com
 mail.alertpayment.updated.milmag.ro
 mail.apple-action-activation.ml
+mail.appleid.apple.com.managecanceledorder.com
+mail.appleid.apple.com.managecanceledorder.info
+mail.appleid.apple.com.managecanceledorder.net
 mail.appleid.apple.com-unlocked-service.com
 mail.appleid.apple.locked-account-support.com
 mail.appleid-center.ir
+mail.appleidservice.ddnsking.com
+mail.appleid-updates.com
 mail.appleid-verification-mailconfirmations-account-informations.com
 mail.apple-service.co
 mail.com-index-reviews-manager-cancel-purchase-account.usa.cc
@@ -319,6 +351,7 @@ mail.support-netflixservices.com
 mail.supportservice.com.ar
 mail.verification-accountth.com
 mail.verifyoffice.ga
+mail.verifyonline.ga
 manage.apple.com-account-noticeid-impotant.services
 manage.apple.com-account-noticeid.services
 manage.apple.com-account-noticeid-updated.support
@@ -340,11 +373,13 @@ myaccount.rswhostingservices.be
 myaccount.secure2.store.appleid.apple.verify-info.info
 myaccount.securedincomegroup.com
 my.telstra.com.au-myaccount-home.tahiramandarino.co.uk
+netfilx-secure-account.com
 netflix3.offer15.com
 netflixaccountbillingnetflix.comupdatecenter.sslaspx.eglbio.com
 netflix-activate.eerowifisystem.com
 netflix.cheats.host
 netflix.com-customerservice.secure.info.sepapbcn.org
+netflixdfgdfghtdrggferyhrtytertfcertertgetfertgert2fwe.pichos.tk
 netflixgeosupport.zendesk.com
 netflix.giftrewardprizes.com
 netflixgratis.online
@@ -384,6 +419,7 @@ paypal.culinaria-wuppertal.de
 paypal.dev.penepo-connect.com
 paypal-disabled.servehttp.com
 paypal.gb-online.org.uk
+paypalincommuniity.com.checkd-accound.megabronjong.com
 paypal.kubwa.de
 paypall.com.embalet.com.br
 paypal.likethepie.com
@@ -404,6 +440,7 @@ paypal-update.misteriodaessencia.com.br
 paypal.wahyuesgroup.id
 paypal.z6creation.net
 paypa.refundsecurity.update.milregalitos.com
+phone-service-free.review
 plano-premium-netflix.tk
 pl-netflix.fotiskaf.com
 pl-netflix.online
@@ -476,6 +513,7 @@ sharepoint.EMEA.microsoftonline.com.office.skyhigh4898.skyhigh4898.shnpoc.net
 sharepoint.microsoftonline.com.office.skyhigh4898.skyhigh4898.shnpoc.net
 sign.appleid.secured.info-member-account.com
 sign-in.appleid.apple.com.uretken.net
+sign-in.appleid.com-confirmation-secure.com
 signin-appleid.secure1-unlocked-account-apple.com
 signin-auth.appleid-confirm.identity.alaaelnsr.com
 signin-auth.appleid-verification.bigkokntols.com
@@ -489,6 +527,7 @@ submit-information-account.ml
 summaryweb-loginpaymentupdatestatus.banyulangits.com
 support5-uniterms-paqe.cf
 support-account-centers.com
+support-accountservice-verificatinid4272836.com
 support-apple.account-updatestatement.hbj89u.com
 support.apple.com-ios.es
 support.apple.com-manage-account-lockedinfo.net
@@ -510,6 +549,7 @@ support-service.vakalas.gr
 support-update.information.happyplacetea.com
 support.verifications.io
 targeted-chase.ml
+tescoupdate.onlinesecure.ivisionworld.com.tw
 twitter.com.testwitter.club
 twitter.hitechsupport.net
 ucfaa3e042a490c25503cd6456d5.dl.dropboxusercontent.com.eu.cas.ms
@@ -518,6 +558,7 @@ unsualaktifity-youaccountsecured.ml
 update-account-information.kemaliturizm.com
 update-center-drive.alterdata.com.br
 updateinformation-manage-account-confirmationcenter-access.com
+update-secure-your-account-information.ipclimatizar.com.ar
 updates.helpe.com.gr
 update-your-accounte-information.smpn1randublatung.com
 update.your.account.loveandcompassionofchrist.com
@@ -539,7 +580,9 @@ verify.api.service.barnehage.prodaws.visma.com
 verifybooks.store
 verifycar.com.br
 verify.cspanel.xyz
+verify-login-paypal-com.tk
 verifyoffice.ga
+verifyonline.ga
 verify.secure-payment-online.com
 verifystatementinfo-accountapps.com
 verify-your-account.bzcontadores.com
@@ -547,8 +590,13 @@ veriifying-accounts-unlocked.ml
 veriifying-accounts-unlocked.tk
 wdclp.security.online-banking.hsbc.com.eg
 webdisk.apple-action-activation.ml
+webdisk.appleid.apple.com.managecanceledorder.com
+webdisk.appleid.apple.com.managecanceledorder.info
+webdisk.appleid.apple.com.managecanceledorder.net
 webdisk.appleid.apple.com-unlocked-service.com
 webdisk.appleid.apple.locked-account-support.com
+webdisk.appleidservice.ddnsking.com
+webdisk.appleid-updates.com
 webdisk.apple-service.co
 webdisk.com-index-reviews-manager-cancel-purchase-account.usa.cc
 webdisk.customersupporthelpline.in
@@ -567,9 +615,15 @@ webdisk.support-netflixservices.com
 webdisk.supportservice.com.ar
 webdisk.verification-accountth.com
 webdisk.verifyoffice.ga
+webdisk.verifyonline.ga
 webmail.apple-action-activation.ml
+webmail.appleid.apple.com.managecanceledorder.com
+webmail.appleid.apple.com.managecanceledorder.info
+webmail.appleid.apple.com.managecanceledorder.net
 webmail.appleid.apple.com-unlocked-service.com
 webmail.appleid.apple.locked-account-support.com
+webmail.appleidservice.ddnsking.com
+webmail.appleid-updates.com
 webmail.apple-service.co
 webmail.com-index-reviews-manager-cancel-purchase-account.usa.cc
 webmail.customersupporthelpline.in
@@ -612,10 +666,12 @@ www.alertpayment.updated.milmag.ro
 www.amazoncustomer-service.tk
 www.amazon.fr.remboursement-commandes-ltd.online
 www.amazonruru.twitter.mixh.jp
+www.amazon-secure.confirmboa.ga
 www.americanexpress.com-login.t-online.flu.cc
 www.americanexpresscomsecureservice.jalwa.com.pk
 www.appelid-appel.com.login.profile.com-cancel-subscription.cc
 www.appelid.appel.com.login.profile.com-cancel-subscription.cc
+www.apple-account-verification.bacodefavores.com
 www.apple-action-activation.ml
 www.appleappstoreforandroidfreedownload.playapps.download
 www.apple-br.support
@@ -623,6 +679,7 @@ www.apple.com.account-update.syaria.net
 www.apple.com-cleant-account-refortion.com
 www.apple.com-isignin.review
 www.apple.com.izwqf.cn
+www.apple.com.pv7.me
 www.apple-com-recovery-update.com.terjemahhan6777.net
 www.apple.com-service-trmaksihsyangsmgabnykaya.com
 www.apple.com-soporte.us
@@ -630,6 +687,9 @@ www.appleconnect.apple.com.paraguacupaulista.com.br
 www.appleid.apple.com.accountverification-applesystem.com
 www.appleid.apple.com.jesusconnectionchurch.co.za
 www.appleid.apple.com---log.in
+www.appleid.apple.com.managecanceledorder.com
+www.appleid.apple.com.managecanceledorder.info
+www.appleid.apple.com.managecanceledorder.net
 www.appleid.apple.com.medentic.cl
 www.appleid.apple.com-secure01b-verification-account.com
 www.appleid.apple.com-transaction.furehz.com
@@ -646,9 +706,11 @@ www.appleid.com-view.location.appieid.support
 www.appleid.com.w1ep.cn
 www.appleid.forgot-support.me
 www.appleid-helpingcentury-apple.com
+www.appleidservice.ddnsking.com
 www.appleid.sign-ld.com
 www.appleid.supportid293.com
 www.appleidsuspended.dragonzkings.is
+www.appleid-updates.com
 www.appleid-verification-mailconfirmations-account-informations.com
 www.apple.login-device.me
 www.apple-login-support.mondetrem.com.br
@@ -662,6 +724,7 @@ www.apple.support-log.me
 www.apple-support.statementaccount-update.hbj89u.com
 www.appleunlock.allgsmstore.net
 www.authpaymentupdate-securecontactverify.banyulangits.com
+www.auth-verif-appleid-support.info
 www.bankofamerica.com.medentic.cl
 www.bankofamerica.com.slingplates.com
 www.bankofamerica.gskworld.com
@@ -672,6 +735,7 @@ www.bankofamericasecure.extremeconnect.com.br
 www.barclayssecureonlineverificationpage.abusalma.net
 www.besttvshowsonnetflix.marketingblueprint.com.au
 www.bofa-comsecurebrowsing.cf
+www.cartruckpartscomputerchipcruisecontrol2014info.incartechsecuritydiyforspeakerssubwoofers2017.info
 www.chaseaccountverificationsettings.puspawarna.com
 www.chasesecurityupgrade.interac-carrier.xyz
 www.chase-service-verification.mudahmall.com
@@ -716,6 +780,7 @@ www.hsbconline.updatesystem.solingenmasat.com
 www.icloud.com.appleid.name
 www.icloud.com-apple.us
 www.icloud.com.found.location-service.online
+www.icloud.com-support.us
 www.icloud-support-help.com
 www.id.app-id.com-cgi.bin.service-authorization.com
 www.identifying-accunt-apple-id.ebilling.jogjamedianet.com
@@ -750,6 +815,7 @@ www.netflixaccountbillingnetflix.comupdatecenter.sslaspx.eglbio.com
 www.netflix-activate.eerowifisystem.com
 www.netflix.com-customerservice.secure.info.sepapbcn.org
 www-netflix-com-us-es-login.jdmngc.com
+www.netflixdfgdfghtdrggferyhrtytertfcertertgetfertgert2fwe.pichos.tk
 www.netflix.klantenservicenummernederland.com
 www.netflixonservices-managesafetypeysmntresolvdsabouts.ga
 www.netflix-verify.3utilities.com
@@ -772,10 +838,12 @@ www.paypal-com.signin.sg-en.gq
 www.paypal.com.update-your-account-informations.urologiadf.com
 www.paypal-com.view-source-account-support-intl.tartoefke.be
 www.paypal.culinaria-wuppertal.de
+www.paypalincommuniity.com.checkd-accound.megabronjong.com
 www.paypall.com.embalet.com.br
 www.paypal.mihanstore.net
 www.paypalq.ml.cepejngo.org
 www.paypal.refund.security.update.milregalitos.com
+www.paypal.resolution-centerprivacyypolicy.com
 www.paypal.s1-gateway.com
 www.paypalsecureonlineverificationpage.pacifictechnologybd.com
 www.paypal-security-center.com.christchapel.org.ng
@@ -824,6 +892,7 @@ www.ssl-iforgetidappleidapple.fr.dadigitalpresent.mk
 www.ssl.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.azurecom.onmicrosoft.com.rs2.cas.ms
 www.submit-information-account.ml
 www.summaryweb-loginpaymentupdatestatus.banyulangits.com
+www.support-accountservice-verificatinid4272836.com
 www.support-apple.account-updatestatement.hbj89u.com
 www.support.apple.com-ios.es
 www.support.apple.com-manage-account-lockedinfo.net
@@ -839,9 +908,11 @@ www.supportservice.com.ar
 www.support-service.vakalas.gr
 www.support-update.information.happyplacetea.com
 www.support.verifications.io
+www.tescoupdate.onlinesecure.ivisionworld.com.tw
 www.unlocked-icloud-supportapps.bantimurung.com
 www.unsualaktifity-youaccountsecured.ml
 www.update-account-information.kemaliturizm.com
+www.update-secure-your-account-information.ipclimatizar.com.ar
 www.update-your-accounte-information.smpn1randublatung.com
 www.update.your.account.loveandcompassionofchrist.com
 www.verification-accountth.com
@@ -849,7 +920,9 @@ www.verify-accountsecurelocked-apple.com
 www.verify-and-update.apple.account-susspended.com.valsorim.net
 www.verifycar.com.br
 www.verify.cspanel.xyz
+www.verify-login-paypal-com.tk
 www.verifyoffice.ga
+www.verifyonline.ga
 www.verify-your-account.bzcontadores.com
 www.www.icloud.com.found.location-service.online
 www.www-netflix-com-us-es-login.jdmngc.com
