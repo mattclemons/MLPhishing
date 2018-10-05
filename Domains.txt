@@ -18,6 +18,7 @@ api.twitter.com.testwitter.club
 app-applesupport.serveftp.com
 appelid-appel.com.login.profile.com-cancel-subscription.cc
 appelid.appel.com.login.profile.com-cancel-subscription.cc
+apple-action-activation.ml
 apple-appleid-com.requird-verify-secure0-sereivc.tk
 apple.appleid.com-servecenterunlocked1.com
 apple.com.account-update.syaria.net
@@ -40,6 +41,7 @@ appleid-center.ir
 appleid.com-index-reviews-manager-cancel-purchase-account.usa.cc
 appleid.com-sg-index-manager-protect-purchase-account.usa.cc
 appleidcom-verified.servehttp.com
+appleid.forgot-support.me
 apple.idmsa.auth.corp.group.com.login.victorycollection.co.id
 appleid-sign-apple.com.apps-boostertv.com
 appleid.sign-ld.com
@@ -58,7 +60,9 @@ appleunlock.allgsmstore.net
 authpaymentupdate-securecontactverify.banyulangits.com
 autodiscover.apple-service.co
 autodiscover.giftappleinc.ml
+backend.happy-service.ml
 bankofamerica.com.medentic.cl
+bankofamerica.com.slingplates.com
 bankofamerica.gskworld.com
 bankofamerica.medentic.cl
 bankofamericasecure.extremeconnect.com.br
@@ -72,6 +76,7 @@ chaseaccount.cf
 chaseaccount.ga
 chaseaccount.tk
 chaseaccountverificationsettings.puspawarna.com
+chase-service-verification.mudahmall.com
 chase.verification.wiems.org
 com-accounts-informations.limited
 com-index-reviews-manager-cancel-purchase-account.usa.cc
@@ -82,6 +87,7 @@ confirmationshortlyorder.ml
 confirmation-your-account-informations.almusatravel.com
 confirm-your-acc-74.ml
 connect.secure.wellsfargo.online.services.alert.gcarqtek.com
+cpanel.apple-action-activation.ml
 cpanel.appleid.apple.locked-account-support.com
 cpanel.apple-service.co
 cpanel.com-index-reviews-manager-cancel-purchase-account.usa.cc
@@ -113,6 +119,7 @@ error.verifyoffice.ga
 findasupportworker.com.au.bronwynorsatti.xyz
 get-best-copywriting-service.review
 giftappleinc.ml
+hdunlimited.securehost.ml
 help.netflix.com.node05102018010203.flu.cc
 homepage-accounting-service-form.tk
 hotmailsigninemail.us
@@ -143,6 +150,7 @@ login.verifyoffice.ga
 login.yahoo.com1389734723.ml
 mail.accounts.ramitsupport.com
 mail.alertpayment.updated.milmag.ro
+mail.apple-action-activation.ml
 mail.appleid.apple.locked-account-support.com
 mail.appleid-center.ir
 mail.apple-service.co
@@ -175,6 +183,7 @@ netflix3.offer15.com
 netflix-activate.eerowifisystem.com
 netflix.com-customerservice.secure.info.sepapbcn.org
 netflixgeosupport.zendesk.com
+netflix.giftrewardprizes.com
 netflixgratis.online
 netflix.klantenservicenummernederland.com
 netflix.smorenburg.me
@@ -267,7 +276,9 @@ verifyoffice.ga
 verify.secure-payment-online.com
 verify-your-account.bzcontadores.com
 veriifying-accounts-unlocked.ml
+veriifying-accounts-unlocked.tk
 wdclp.security.online-banking.hsbc.com.eg
+webdisk.apple-action-activation.ml
 webdisk.appleid.apple.locked-account-support.com
 webdisk.apple-service.co
 webdisk.com-index-reviews-manager-cancel-purchase-account.usa.cc
@@ -277,6 +288,7 @@ webdisk.office365verificationtest.ml
 webdisk.submit-information-account.ml
 webdisk.supportservice.com.ar
 webdisk.verifyoffice.ga
+webmail.apple-action-activation.ml
 webmail.appleid.apple.locked-account-support.com
 webmail.apple-service.co
 webmail.com-index-reviews-manager-cancel-purchase-account.usa.cc
@@ -303,7 +315,9 @@ www.alertpayment.updated.milmag.ro
 www.amazonruru.twitter.mixh.jp
 www.appelid-appel.com.login.profile.com-cancel-subscription.cc
 www.appelid.appel.com.login.profile.com-cancel-subscription.cc
+www.apple-action-activation.ml
 www.apple.com.account-update.syaria.net
+www.apple.com.izwqf.cn
 www.apple.com-service-trmaksihsyangsmgabnykaya.com
 www.appleid.apple.com.jesusconnectionchurch.co.za
 www.appleid.apple.com---log.in
@@ -315,6 +329,7 @@ www.appleid-center.ir
 www.appleid.com-index-reviews-manager-cancel-purchase-account.usa.cc
 www.appleid.com-sg-index-manager-protect-purchase-account.usa.cc
 www.appleid.com.w1ep.cn
+www.appleid.forgot-support.me
 www.appleid.sign-ld.com
 www.appleidsuspended.dragonzkings.is
 www.apple.login-device.me
@@ -324,6 +339,7 @@ www.apple.support-log.me
 www.appleunlock.allgsmstore.net
 www.authpaymentupdate-securecontactverify.banyulangits.com
 www.bankofamerica.com.medentic.cl
+www.bankofamerica.com.slingplates.com
 www.bankofamerica.gskworld.com
 www.bankofamerica.medentic.cl
 www.bankofamericasecure.extremeconnect.com.br
@@ -331,6 +347,7 @@ www.barclayssecureonlineverificationpage.abusalma.net
 www.besttvshowsonnetflix.marketingblueprint.com.au
 www.bofa-comsecurebrowsing.cf
 www.chaseaccountverificationsettings.puspawarna.com
+www.chase-service-verification.mudahmall.com
 www.chase.verification.wiems.org
 www.com-index-reviews-manager-cancel-purchase-account.usa.cc
 www.confirmation-your-account-informations.almusatravel.com
@@ -344,6 +361,7 @@ www.error.verifyoffice.ga
 www---feature-ws-510-updates-nfdvmrq-ccvgznijrkymo.us.platform.sh
 www.findasupportworker.com.au.bronwynorsatti.xyz
 www.giftappleinc.ml
+www.hdunlimited.securehost.ml
 www.help.netflix.com.node05102018010203.flu.cc
 www.homepage-accounting-service-form.tk
 www.hotmailsupport.co
