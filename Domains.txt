@@ -18,6 +18,7 @@ appleid.apple.com---log.in
 appleid.apple.com-recent-verification-update-account.com
 appleid.apple.locked-account-support.com
 appleid-apple.us
+appleid.com-sg-index-manager-protect-purchase-account.usa.cc
 apple.idmsa.auth.corp.group.com.login.victorycollection.co.id
 appleid-sign-apple.com.apps-boostertv.com
 appleid.sign-ld.com
@@ -51,6 +52,7 @@ effect-prior-web-service.review
 enroll-wfb-security-update.online
 findasupportworker.com.au.bronwynorsatti.xyz
 giftappleinc.ml
+help.netflix.com.node05102018010203.flu.cc
 homepage-accounting-service-form.tk
 hotmailsigninemail.us
 id.app-id.com-cgi.bin.service-authorization.com
@@ -65,6 +67,7 @@ mail.accounts.ramitsupport.com
 mail.alertpayment.updated.milmag.ro
 mail.appleid.apple.locked-account-support.com
 mail.giftappleinc.ml
+mail-infoupdate-appleid-jp.com
 mail.login-accountingsecurity.com
 mail.submit-information-account.ml
 manage.apple.com-account-noticeid-impotant.services
@@ -73,6 +76,7 @@ manage.apple.com-information-notice-updated.support
 manage-purchase.order-confirmation.confirmation-comagentid.com
 mobile.twitter.com.testwitter.club
 myaccount.gmail-com.dranaxy.com
+netflixgeosupport.zendesk.com
 netflixgratis.online
 netflix.klantenservicenummernederland.com
 ofkdossfk-login.cf
@@ -86,10 +90,12 @@ paypalsecureonlineverificationpage.pacifictechnologybd.com
 paypal-security-center.com.christchapel.org.ng
 paypalsupportaccountlimitedwebappsid404.kentotskan11.com
 rbxverify.win
+redirect-goto-netflix.node05102018010203.flu.cc
 reviewpayment-updatecontactverify.banyulangits.com
 secure2store-idmsa.com-ap-idwebauth.signin.in-sg.cf
 secure.appleid.apple.com-app-de-90188926.com
 secure.store.apple.com.manage-paymentverifyb.com
+securesupport.club
 security.login.mobile.fetivook.website
 service-account-information.fadilkenthod.com
 service-accounts.servepics.com
@@ -102,6 +108,7 @@ submit-information-account.ml
 summaryweb-loginpaymentupdatestatus.banyulangits.com
 support.appleid-unlock.apple.idapp-professional.info
 support.netflix.lwlantz.com
+twitter.com.testwitter.club
 ucfaa3e042a490c25503cd6456d5.dl.dropboxusercontent.com.eu.cas.ms
 update-account-information.kemaliturizm.com
 update-center-drive.alterdata.com.br
@@ -111,6 +118,7 @@ verify-and-update.apple.account-susspended.com.valsorim.net
 verifycar.com.br
 verify.secure-payment-online.com
 verify-your-account.bzcontadores.com
+veriifying-accounts-unlocked.ml
 wdclp.security.online-banking.hsbc.com.eg
 webdisk.appleid.apple.locked-account-support.com
 webdisk.giftappleinc.ml
@@ -129,7 +137,9 @@ www.appelid-appel.com.login.profile.com-cancel-subscription.cc
 www.appelid.appel.com.login.profile.com-cancel-subscription.cc
 www.apple.com.account-update.syaria.net
 www.appleid.apple.com---log.in
+www-appleid-apple-com.veriifying-accounts-unlocked.ml
 www.appleid.apple.locked-account-support.com
+www.appleid.com-sg-index-manager-protect-purchase-account.usa.cc
 www.appleid.sign-ld.com
 www.appleidsuspended.dragonzkings.is
 www.applemixx.rac3.com.br
@@ -144,6 +154,7 @@ www.dropbox.com.login.tubookpro.cl
 www.enroll-wfb-security-update.online
 www.findasupportworker.com.au.bronwynorsatti.xyz
 www.giftappleinc.ml
+www.help.netflix.com.node05102018010203.flu.cc
 www.homepage-accounting-service-form.tk
 www.id.app-id.com-cgi.bin.service-authorization.com
 www.instagram.argestofados.com.br
@@ -160,6 +171,7 @@ www.paypal.christchapel.org.ng
 www.paypalsecureonlineverificationpage.pacifictechnologybd.com
 www.paypal-security-center.com.christchapel.org.ng
 www.paypalsupportaccountlimitedwebappsid404.kentotskan11.com
+www.redirect-goto-netflix.node05102018010203.flu.cc
 www.reviewpayment-updatecontactverify.banyulangits.com
 www.secure2store-idmsa.com-ap-idwebauth.signin.in-sg.cf
 www.secure.appleid.apple.com-app-de-90188926.com
