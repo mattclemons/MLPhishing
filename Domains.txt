@@ -37,6 +37,7 @@ appelid-appel.com.login.profile.com-cancel-subscription.cc
 appelid.appel.com.login.profile.com-cancel-subscription.cc
 apple-account-review-1.ml
 apple-account-verification.bacodefavores.com
+apple-account-verification.engeblind.com.br
 apple-action-activation.ml
 apple-appleid-com.requird-verify-secure0-sereivc.tk
 apple.appleid.com-servecenterunlocked1.com
@@ -110,6 +111,7 @@ appleidservice.ddnsking.com
 appleid.sign-ld.com
 
 appleid.supportid293.com
+
 
 
 appleidsuspended.dragonzkings.is
@@ -411,6 +413,7 @@ mail.submit-information-account.ml
 mail.supportinstagrams.ml
 mail.support-netflixservices.com
 mail.supportservice.com.ar
+mail.vapple.usa.cc
 mail.verification-accountth.com
 mail.verifyoffice.ga
 mail.verifyonline.ga
@@ -452,9 +455,12 @@ netflix.giftrewardprizes.com
 netflixgratis.online
 netflix.klantenservicenummernederland.com
 netflixnv.cbeperu.com
+netflixproaccount.store
 netflix.smorenburg.me
+netflix-verification.net
 netflix-verify.3utilities.com
 nobodyforceapple.accountant
+notifier-account.appleid.com.career.bangunbeton.com
 noverifyplease.getclashofclansaccount.com
 offers-paypel.ml
 office365verificationtest.ml
@@ -490,6 +496,7 @@ paypal.culinaria-wuppertal.de
 paypal.dev.penepo-connect.com
 paypal-disabled.servehttp.com
 paypal.gb-online.org.uk
+paypal.grupoaraisa.com
 paypalincommuniity.com.checkd-accound.megabronjong.com
 paypal.kubwa.de
 paypall.com.embalet.com.br
@@ -610,6 +617,7 @@ ssl-iforgetidappleidapple.fr.dadigitalpresent.mk
 statement.index-cgi-privacy.secure.subscription.payments.securessubscriptions.org
 statmenth.informationsignin-access.privacy.search-details.net
 
+store.appleld.com.dadigitalpresent.mk
 submit-information-account.ml
 subscript-myappleidstore.com.newusa-comuserap.net
 summaryweb-loginpaymentupdatestatus.banyulangits.com
@@ -669,8 +677,10 @@ user-management-backend.tools.tax.service.gov.uk
 user-management-labs.tools.tax.service.gov.uk
 user-management-live.tools.tax.service.gov.uk
 user-management.tools.tax.service.gov.uk
+vapple.usa.cc
 verification-accountth.com
 
+verifikasiappstoregameaccountios99.com
 
 verify-and-update.apple.account-susspended.com.valsorim.net
 verify.api.service.barnehage.prodaws.visma.com
@@ -792,6 +802,7 @@ www.appelid-appel.com.login.profile.com-cancel-subscription.cc
 www.appelid.appel.com.login.profile.com-cancel-subscription.cc
 www.apple-account-review-1.ml
 www.apple-account-verification.bacodefavores.com
+www.apple-account-verification.engeblind.com.br
 www.apple-action-activation.ml
 www.appleappstoreforandroidfreedownload.playapps.download
 www.apple-br.support
@@ -868,6 +879,7 @@ www.bdo.com.ph.security.verification.login.webfocus.com.ph
 www.besttvshowsonnetflix.marketingblueprint.com.au
 www.boardspot.org.views-updates-urq7a7y-f4bty3iy6olng.us.platform.sh
 www.bofa-comsecurebrowsing.cf
+www.caf-mon-compte-login.review
 www.cartruckpartscomputerchipcruisecontrol2014info.incartechsecuritydiyforspeakerssubwoofers2017.info
 www.chaseaccountverificationsettings.puspawarna.com
 www.chasesecurityupgrade.interac-carrier.xyz
@@ -965,7 +977,10 @@ www-netflix-com-us-es-login.jdmngc.com
 www.netflixdfgdfghtdrggferyhrtytertfcertertgetfertgert2fwe.pichos.tk
 www.netflix.klantenservicenummernederland.com
 www.netflixonservices-managesafetypeysmntresolvdsabouts.ga
+www.netflixproaccount.store
+www.netflix-verification.net
 www.netflix-verify.3utilities.com
+www.notifier-account.appleid.com.career.bangunbeton.com
 www.noverifyplease.getclashofclansaccount.com
 www.office365verificationtest.ml
 www.onedrive-com-login-request-to-view-document.finki.icu
@@ -987,6 +1002,7 @@ www.paypal-com.signin.sg-en.gq
 www.paypal.com.update-your-account-informations.urologiadf.com
 www.paypal-com.view-source-account-support-intl.tartoefke.be
 www.paypal.culinaria-wuppertal.de
+www.paypal.grupoaraisa.com
 www.paypalincommuniity.com.checkd-accound.megabronjong.com
 www.paypall.com.embalet.com.br
 www.paypal.mihanstore.net
@@ -1048,6 +1064,7 @@ www.sign.in-login-6ix9ine-support.gaskeunmanx.net
 www.spitogatos.manage.account.purchaseorder.co.in
 www.ssl-iforgetidappleidapple.fr.dadigitalpresent.mk
 www.ssl.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.azurecom.onmicrosoft.com.rs2.cas.ms
+www.store.appleld.com.dadigitalpresent.mk
 www.submit-information-account.ml
 www.subscript-myappleidstore.com.newusa-comuserap.net
 www.summaryweb-loginpaymentupdatestatus.banyulangits.com
@@ -1079,7 +1096,9 @@ www.update-secure-your-account-information.ipclimatizar.com.ar
 www.update-your-accounte-information.smpn1randublatung.com
 www.update.your.account.loveandcompassionofchrist.com
 www.up.inf.verif.login.plumberbalgowlah.com.au
+www.vapple.usa.cc
 www.verification-accountth.com
+www.verifikasiappstoregameaccountios99.com
 
 www.verify-and-update.apple.account-susspended.com.valsorim.net
 www.verifycar.com.br
