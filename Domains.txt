@@ -17,6 +17,7 @@ account-liemted.information.gulzarintl.com
 account.limitation.resolve.paypal.com.cpimtelangana.com
 accountlogin.bryansfuel.on.ca
 account-login.winrarstore.com.br
+account.mediacombusiness.center
 account.paypal.co.uk48756789098766678.vileandblind.com
 accounts-auth-secure-lock-informations.com
 accounts.bildirim.cf
@@ -146,10 +147,12 @@ appleidsuspended.dragonzkings.is
 appleid-thmail.myftp.biz
 appleid-updates.com
 appleid.uvkola.com
+appleid-validatesecured.serveuser.com
 appleid-verfiy.serveirc.com
 appleid-verification-mailconfirmations-account-informations.com
 appleid.verifyaccountdetails.com
 appleid-verify.online
+appleid-veriv.serveirc.com
 appleidvertification-apple.store
 apple.inc-maps.us
 apple.inc.radionovaera.com.br
@@ -220,6 +223,8 @@ autodiscover.informationsupdatesaccounts.tk
 autodiscover.loginservice.com.br
 autodiscover.login-smart-service.usa.cc
 autodiscover.mailweb-account-verify.com
+autodiscover.microsoft-security-alert-990.ga
+autodiscover.microsoft-security-alert-990.ml
 autodiscover.outlookhelp.support
 backend.happy-service.ml
 bankofamerica.aktekelektromekanik.com
@@ -277,6 +282,7 @@ completeinfo-account.tk
 com-sg-prepare-purchase-notifications.usa.cc
 com-verify-account-disable-login.ml
 confirm-account-paypal.safehavenkidsph.org
+confirm-account.sulaintima.com.br
 confirmation.paypal.com.vantaiducvinh.vn
 confirmationshortlyorder.ml
 confirmation-your-account-informations.almusatravel.com
@@ -311,6 +317,9 @@ cpanel.com-ca-index-manager-identify-purchase-account.usa.cc
 cpanel.com-index-reviews-manager-cancel-purchase-account.usa.cc
 cpanel.com-sg-prepare-purchase-notifications.usa.cc
 cpanel.customersupporthelpline.in
+cpanel.fb-recovery-account58-dk.ga
+cpanel.fb-recovery-account59-dk.ga
+cpanel.fb-recovery-account60-dk.ga
 cpanel.giftappleinc.ml
 cpanel.hotmailsupportcanada.ca
 cpanel.icloud-secure.us
@@ -325,6 +334,8 @@ cpanel.loginservice.com.br
 cpanel.login-smart-service.usa.cc
 cpanel.logintohotmail.com
 cpanel.mailweb-account-verify.com
+cpanel.microsoft-security-alert-990.ga
+cpanel.microsoft-security-alert-990.ml
 cpanel.movil.facebook.com-in.help
 cpanel.myaccountds.secureds2.appleid-apple.donotreplymail234133.com
 cpanel.naver-cafe-login.cf
@@ -399,6 +410,7 @@ ebay.com-itm-2012-lincoln-ranger-welder.42577842879354.sale
 ebay.com-itm-2014-concession-food-trailer.bgep.review
 ebay.com-lincoln-ranger-250gxt-portable-welder.4256978248920.top
 ebay-securityupdated-verification.xploitperbuild.com
+ebuk-customer-service.uk
 effect-prior-web-service.review
 electronicsystemsupport.ml
 email-verification.xyz
@@ -411,6 +423,9 @@ facebookverify.pepetv.info
 fastcomputersupportservices.xyz
 fastcomputersupportservice.xyz
 fast-computer-support.xyz
+fb-recovery-account58-dk.ga
+fb-recovery-account59-dk.ga
+fb-recovery-account60-dk.ga
 fbsupportcommunityxerhelp.ga
 findasupportworker.com.au.bronwynorsatti.xyz
 forex-managed-accounts.co
@@ -535,6 +550,7 @@ limited-acount-information.impresoseldia.com.co
 linkedin-login.service.sparkup.fr
 listmasterverify.online
 locked-account-icloudapp.business
+locked-account-icloudapp.com
 locked-account-support.com
 login91-info.win
 login-accountingsecurity.com
@@ -556,6 +572,7 @@ login.netflix-index.com
 login.paypal.com.4m.net
 login-program285-info.win
 logins-daum-net-accounts-loginformdo.thaii.site
+login.server-monitoring-service.de
 loginservice.com.br
 login-smart-service.usa.cc
 login-support-mukbang-authorize.actreportsdaily.net
@@ -599,6 +616,9 @@ mail.com-sg-prepare-purchase-notifications.usa.cc
 mail.com-verify-account-disable-login.ml
 mail.c-support.datacenter.xyz
 mail.customersupporthelpline.in
+mail.fb-recovery-account58-dk.ga
+mail.fb-recovery-account59-dk.ga
+mail.fb-recovery-account60-dk.ga
 mail.giftappleinc.ml
 mail.gmailloginsupport.com
 mail.hotmaillogininiciarsesion.com
@@ -621,6 +641,8 @@ mail.login-smart-service.usa.cc
 mail.logintohotmail.com
 mail.mail-inc-account.com.bh-ht-3.webhostbox.net
 mail.mailweb-account-verify.com
+mail.microsoft-security-alert-990.ga
+mail.microsoft-security-alert-990.ml
 mail.myaccountds.secureds2.appleid-apple.donotreplymail234133.com
 mail.naver-cafe-login.cf
 mail.netflix-verify.3utilities.com
@@ -669,6 +691,8 @@ mapsconnect.apple.auth-en.us
 mcrosoft-support-helplines.tk
 m.facebook.com.login-to-my-page.tk
 mhotmaillogin.com
+microsoft-security-alert-990.ga
+microsoft-security-alert-990.ml
 mobile.paypal.verificarion-account.support.xahxief5jei.center
 mobile.twitter.com.testwitter.club
 movil.facebook.com-in.help
@@ -704,6 +728,7 @@ netflixgratis.online
 netflix.imagenesdecantantes.com
 netflix.klantenservicenummernederland.com
 netflix-marketing.sferalabs.com
+netflix-membership.sulaintima.com.br
 netflix-norway.mvoruow.tel.lv
 netflixnv.cbeperu.com
 netflixproaccount.store
@@ -834,6 +859,7 @@ paypel-commnnities.tk
 payplunlockedfuls.ml
 paypol-lock-recovery.al7etan.com
 payporl.update-your-information-login-now.bestseller-book.net
+paysecure.account.idsol.com.br
 paysecure.privacy.idsol.com.br
 paywal.xyz
 payyedpalsupport.ml
@@ -960,6 +986,8 @@ sign-accountlocked-appleid.com-lwlsls02023.com
 sign.appleid.iforgot-client-auth0624.com
 sign.appleid.secured3.info-member-account.com
 sign.appleid.secured.info-member-account.com
+sign-apple-verif-account.secureid-your-account.services
+sign-auth.support.appleid.center.temporary-importantacclocked.com
 sign-in.appleid.com-confirmation-secure.com
 sign-in.appleid.com.disable-automaticaly.com
 sign-in.appleid.com-domain-athority.com
@@ -996,12 +1024,14 @@ summaryweb-loginpaymentupdatestatus.banyulangits.com
 supdate.bot-discord.cf
 support5-uniterms-paqe.cf
 support-accappleid.asolole-pukimay.com
+support.account.apple.sotobaroda.com
 support-account-centers.com
 support-accountlocked-apple-info.wepps-secure3544.dynv6.net
 support-accountservice-verificatinid4272836.com
 support.alertplumbing.co.za
 support-android-antivirus-com.xyz
 support-apple.account-updatestatement.hbj89u.com
+support-apple.appleid.com-sign-in.securelockedappsv.com
 support.apple.appleid.com.terms-idpayment.me
 support.apple.appleid.com.terms-payment.me
 support.apple.appleid.com.terms-payments.me
@@ -1031,6 +1061,7 @@ support.mobipay.com.na
 support.netflix.lwlantz.com
 support-netflixservices.com
 support-netting-for-tomatos.in
+support.paypal.login.zilotti.com.br
 support-redirection-moncompte.cf
 supports-appleids.myvnc.com
 support.secure2id.account.update.appleid.com.nenen-susu.org
@@ -1075,6 +1106,7 @@ update-your-accounte-information.smpn1randublatung.com
 update-your-account-information.almost3mal.com
 update-your-account-information.burnabywebconsulting.ca
 update.your.account.loveandcompassionofchrist.com
+update-your-account.mutual-resources.co.id
 update-your-account-now-now.pulautidungfebritravel.com
 update-your-apple-account-to-unlock-it.almost3mal.com
 update-your-information-account.lykeiokamenonvourlon.edu.gr
@@ -1150,6 +1182,9 @@ webdisk.com-ca-index-manager-identify-purchase-account.usa.cc
 webdisk.com-index-reviews-manager-cancel-purchase-account.usa.cc
 webdisk.com-sg-prepare-purchase-notifications.usa.cc
 webdisk.customersupporthelpline.in
+webdisk.fb-recovery-account58-dk.ga
+webdisk.fb-recovery-account59-dk.ga
+webdisk.fb-recovery-account60-dk.ga
 webdisk.giftappleinc.ml
 webdisk.hotmailsupportcanada.ca
 webdisk.icloud-secure.us
@@ -1164,6 +1199,8 @@ webdisk.loginservice.com.br
 webdisk.login-smart-service.usa.cc
 webdisk.logintohotmail.com
 webdisk.mailweb-account-verify.com
+webdisk.microsoft-security-alert-990.ga
+webdisk.microsoft-security-alert-990.ml
 webdisk.movil.facebook.com-in.help
 webdisk.myaccountds.secureds2.appleid-apple.donotreplymail234133.com
 webdisk.naver-cafe-login.cf
@@ -1216,6 +1253,9 @@ webmail.com-ca-index-manager-identify-purchase-account.usa.cc
 webmail.com-index-reviews-manager-cancel-purchase-account.usa.cc
 webmail.com-sg-prepare-purchase-notifications.usa.cc
 webmail.customersupporthelpline.in
+webmail.fb-recovery-account58-dk.ga
+webmail.fb-recovery-account59-dk.ga
+webmail.fb-recovery-account60-dk.ga
 webmail.giftappleinc.ml
 webmail.hotmailsupportcanada.ca
 webmail.icloud-secure.us
@@ -1230,6 +1270,8 @@ webmail.loginservice.com.br
 webmail.login-smart-service.usa.cc
 webmail.logintohotmail.com
 webmail.mailweb-account-verify.com
+webmail.microsoft-security-alert-990.ga
+webmail.microsoft-security-alert-990.ml
 webmail.movil.facebook.com-in.help
 webmail.myaccountds.secureds2.appleid-apple.donotreplymail234133.com
 webmail.naver-cafe-login.cf
@@ -1448,6 +1490,7 @@ www.com.paypal.verify.your.account.sinharinha.com.br
 www.com-sg-prepare-purchase-notifications.usa.cc
 www.com-verify-account-disable-login.ml
 www.confirm-account-paypal.safehavenkidsph.org
+www.confirm-account.sulaintima.com.br
 www.confirmation.paypal.com.vantaiducvinh.vn
 www.confirmation-your-account-informations.almusatravel.com
 www.confirme-account-update-information.mdaftab.in
@@ -1469,6 +1512,7 @@ www.ebay.com-itm-2012-lincoln-ranger-welder.42577842879354.sale
 www.ebay.com-itm-2014-concession-food-trailer.bgep.review
 www.ebay.com-lincoln-ranger-250gxt-portable-welder.4256978248920.top
 www.ebay-securityupdated-verification.xploitperbuild.com
+www.ebuk-customer-service.uk
 www.en.appleid.service87087068740.knth0l.com
 www.enroll-wfb-security-update.online
 www.error.verifyoffice.ga
@@ -1479,6 +1523,9 @@ www.facebookverify.pepetv.info
 www.fastcomputersupportservices.xyz
 www.fastcomputersupportservice.xyz
 www.fast-computer-support.xyz
+www.fb-recovery-account58-dk.ga
+www.fb-recovery-account59-dk.ga
+www.fb-recovery-account60-dk.ga
 www---feature-ws-510-updates-nfdvmrq-ccvgznijrkymo.us.platform.sh
 www.findasupportworker.com.au.bronwynorsatti.xyz
 www.forgotpasswordsupportid-s.gq
@@ -1563,6 +1610,7 @@ www.limited-acount-information.impresoseldia.com.co
 www.linkedin.login-oauth.online
 www.listmasterverify.online
 www.locked-account-icloudapp.business
+www.locked-account-icloudapp.com
 www.locked-account-support.com
 www.login-accountingsecurity.com
 www.login-applesupport.com
@@ -1596,6 +1644,8 @@ www.manage-purchaseapp-store.authorized-secure-login.info
 www.manage-purchase.order-confirmation.confirmation-comagentapp.com
 www.manage-purchase.order-confirmation.confirmation-comagentid.com
 www.mapsconnect.apple.auth-en.us
+www.microsoft-security-alert-990.ga
+www.microsoft-security-alert-990.ml
 www.mobile.paypal.verificarion-account.support.xahxief5jei.center
 www.movil.facebook.com-in.help
 www.msoutlooksecuredemailmaintenanceplatform.sysjrd.com.ve
@@ -1616,6 +1666,7 @@ www.netflix.epickeys.com
 www.netflix.imagenesdecantantes.com
 www.netflix-infos.lima-city.de
 www.netflix.klantenservicenummernederland.com
+www.netflix-membership.sulaintima.com.br
 www.netflix-norway.mvoruow.tel.lv
 www.netflixonservices-managesafetypeysmntresolvdsabouts.ga
 www.netflixproaccount.store
@@ -1712,6 +1763,7 @@ www.paypal-webapps.atcphpt.email
 www.paypa.refundsecurity.update.milregalitos.com
 www.paypol-lock-recovery.al7etan.com
 www.payporl.update-your-information-login-now.bestseller-book.net
+www.paysecure.account.idsol.com.br
 www.paysecure.login.idsol.com.br
 www.paysecure.privacy.idsol.com.br
 www.paytm-customercare.online
@@ -1762,6 +1814,7 @@ www.servicelogin.online
 www.service.paypol.topeventvendors.com
 www.services.online-banking.hsbc.co.uk.nationalcenter.co.uk
 www.service-support.fasca.org.ec
+www.sign-apple-verif-account.secureid-your-account.services
 www.signin-appleinc.com-verificationid-2393890231564.com
 www.signin-auth.appleid-confirm.identity.alaaelnsr.com
 www.signingmaillogin.net
@@ -1798,6 +1851,7 @@ www.support-disputeverificationid.info
 www.supportinstagrams.ml
 www.support.netflix.lwlantz.com
 www.support-netflixservices.com
+www.support.paypal.login.zilotti.com.br
 www.support-redirection-moncompte.cf
 www.support.secure2id.account.update.appleid.com.nenen-susu.org
 www.support.secure2ids.account.updates.info.restoremyphone.info
@@ -1829,6 +1883,7 @@ www.update-your-accounte-information.smpn1randublatung.com
 www.update-your-account-information.almost3mal.com
 www.update-your-account-information.burnabywebconsulting.ca
 www.update.your.account.loveandcompassionofchrist.com
+www.update-your-account.mutual-resources.co.id
 www.update-your-account-now-now.pulautidungfebritravel.com
 www.update-your-apple-account-to-unlock-it.almost3mal.com
 www.update-your-information-account.lykeiokamenonvourlon.edu.gr
