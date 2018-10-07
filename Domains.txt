@@ -33,6 +33,7 @@ accountsecurityactivation.win
 account-security-information.20ver.com.br
 account-security-information.smpn1randublatung.com
 account-service.pw
+account.service.rketech.com
 account-servicesinfo.xyz
 accounts.google.com.https-com.tk
 accounts.google.com.signup.guvenlik.tk
@@ -43,6 +44,7 @@ account-signinid.com-manageidlocked-98172.com
 accounts-limited.review
 accounts.ramitsupport.com
 accounts.relpy.ml
+accounts-secure-pages.com
 accounts.security.activity.com.signup-reply.ga
 accounts-shop.ml
 accounts.southcourtsupport.co.uk
@@ -134,6 +136,7 @@ appleidalert.services
 appleid-appiecom.serveirc.com
 appleid.appleaccountloginreviewactivity.idxappele.cf
 appleid.appleaccountloginreviewactivity.idxapple.cf
+appleid.apple.accounts-secure-pages.com
 appleid.apple-added-notese.macronibqsah.com
 appleid.apple.betreeand.com
 appleid.apple.growtopia-tools.com
@@ -231,6 +234,7 @@ apple-mobile-id.com.login-info-identity.com
 apple-palace-store.com.ua
 apple-pay.pg.int.ridero.eu
 apple-pay-validations-iris.dev.frgcloud.com
+apple.redii.com.br
 apple-remont.lvivservice.com.ua
 applere-updatebill.serveirc.com
 applesdonthavebones.com.websitebuilder.prositehosting.co.uk
@@ -240,7 +244,9 @@ applesecure-apple-lockedcase-riskactivitymail.ntcepcepatarkaya-bwanks2919.com
 applesecure-lockedcase-detectriskaction.okendan-kitabelisemuaborong.com
 applesecure-lockedcase-mail.openco98nvertbcc-sekelasahmad.com
 applesecure-locked-case-riskactivitymail.ntarkaya-bwanks2919.com
+apple.securesslx6l7c.com
 applesecurityalert.us
+apple-security.dynv6.net
 apple-security.servepics.com
 apple-service.co
 apple-service.gq
@@ -272,6 +278,7 @@ apple.webapps.service.intl.update-us-webs.email
 applid-accountalert.redirectme.net
 applid.appl.com.jploginprotect.cc
 applid-securedlogin.redirectme.net
+applock-accountverify.contol1.com
 apply-for-debt-relief-order.service.gov.uk
 apprecovery-appleinc-store.informan-mync.com
 apps2id.store.icloud-apple.sayamantshitim.com
@@ -400,6 +407,7 @@ contasnetflixgratis.ga
 cpanel.accounts-auth-secure-lock-information.com
 cpanel.accountsecureid.ml
 cpanel.account-servicesinfo.xyz
+cpanel.accounts-secure-pages.com
 cpanel.account-suport.online
 cpanel.apple-account-review-1.ml
 cpanel.apple-action-activation.ml
@@ -470,6 +478,7 @@ cpanel.pl-netflix.online
 cpanel.policeserviceaccounts.tk
 cpanel.reminder-for-customer-your-accoun-hash-been-locked.ga
 cpanel.secure2account-serveircid.usa.cc
+cpanel.secure2-verification.net
 cpanel.serverpaypaleurope.sytes.net
 cpanel.service-appleid.servepics.com
 cpanel.sslverify71.ga
@@ -501,6 +510,7 @@ customercareupdate.in
 customerhelp.online
 customer-service-account.net
 customer-service.biz
+customerservice-contact.support-numbers.com
 customer-service.group
 customer-service-issue-payment.gq.inacofood.com
 customer-service.me
@@ -536,6 +546,7 @@ dropbox.com.verify.mahoningvalleyems.org
 ebay.biketeile-service.com
 ebay.com-honda-foreman-es-4x4-power-sterring.42577842879354.sale
 ebay.com-item.site
+ebay.com-itm-2001-winnebago-rialta-22hd.sxrps.review
 ebay.com-itm-2011-yamaha-custom-gas-golf-cart.pxir.top
 ebay.com-itm-2012-lincoln-ranger-welder.42577842879354.sale
 ebay.com-itm-2014-can-am-outlander-x-mr-1000.mdkp.review
@@ -631,6 +642,7 @@ hotmail-supportnumber.com
 hotmail-supportnumber.printer-support-number.net
 how-to-transfer-movies-to-ipad-mini-with-itunes.ml
 hp.customerservice-support.com
+hsbc-auth.securesslx6l7c.com
 hsbc.co.uk.onlinebankingsecurelogin.unitedkingdom.first-valley-cu.com
 hsbconline.updatesystem.solingenmasat.com
 icloud.com.apple-id.id
@@ -645,6 +657,7 @@ icloud.com.ifinder.gq
 icloud.com.i-login.live
 icloud.com.ios-sign.in
 icloud.com.locates.support
+icloud.com.login-us.site
 icloud.com.signed.ml
 icloud.com.signin-id.care
 icloud.com.signin.viewlocation.us
@@ -783,6 +796,7 @@ mail.accounts-auth-secure-lock-information.com
 mail.accountsecureid.ml
 mail.account-servicesinfo.xyz
 mail.accounts.ramitsupport.com
+mail.accounts-secure-pages.com
 mail.account-suport.online
 mail.alertpayment.updated.milmag.ro
 mail.apple-account-review-1.ml
@@ -866,6 +880,7 @@ mail.pl-netflix.online
 mail.policeserviceaccounts.tk
 mail.reminder-for-customer-your-accoun-hash-been-locked.ga
 mail.secure2account-serveircid.usa.cc
+mail.secure2-verification.net
 mail.secureid-your-account.services
 mail.serverpaypaleurope.sytes.net
 mail.service-appleid.servepics.com
@@ -970,6 +985,7 @@ netflix-restart-membership-z44.magyar-telekom-hu.ga
 netflix.smorenburg.me
 netflix.streamnowcr.com
 netflix.tvpro.website
+netflix-update-form.craig2me.com
 netflix-verification.net
 netflix-verify.3utilities.com
 netflix.websupportnotification.com
@@ -1084,6 +1100,7 @@ paypal.online-gb.info
 paypal.online-gb.org.uk
 paypal.online-support.uk
 paypal.onlineverification.smart-login.usa.cc
+paypal.ozsayin.net
 paypalphp.angelleye.com
 paypal.portais.com
 paypal.prnb.co.uk
@@ -1113,6 +1130,7 @@ paypaltest.doitex.lv
 paypal.tk.com.altazi.com
 paypal-update.misteriodaessencia.com.br
 paypal-update-your-account-information-email.nitevibezradio.com
+paypalverificationzone.cinemayana.com
 paypal-verify.hopto.org
 paypal.wahyuesgroup.id
 paypal-webapps.atcphpt.email
@@ -1183,6 +1201,7 @@ review-your-informations-account.winrarstore.com.br
 ru.apple-pay.pg.int.ridero.eu
 rvtrailercamperpartsenginescomponents2014info.incartechsecuritydiyforspeakerssubwoofers2017.info
 safe-account-reconfrim35.ga
+sapplementdiet-foods.shumikenkou.xyz
 saypal.com.br
 score-top-marketing-service.review
 scure.account.information.sampoernamild.international
@@ -1202,6 +1221,7 @@ secure2account-serveircid.usa.cc
 secure2.appleid-com.demsaccme.com
 secure2.mpp-account.bodyfit-ems.ae
 secure2store-idmsa.com-ap-idwebauth.signin.in-sg.cf
+secure2-verification.net
 secure-access-of-financial-services-online-now.com
 secure-access-to-your-personal-checking.info
 secure-account.nutristoresuplementos.com.br
@@ -1223,6 +1243,7 @@ secure.auth-signinappleid.com-officialsecuritysupport.com
 secure.bankofamerica.com.onlineconvert.com.ng
 secure.dementia-care-and-support.co.uk
 secured-login.link
+secured-service-update.com
 secure-fortnite-store-season-5-battle-pass-free.cf
 secure.googleaccountsecure.me
 secureid-your-account.services
@@ -1432,6 +1453,7 @@ tipsforsolveanyissue.club.autotradingsupport.online
 transfer-movie-to-ipad-from-mac-without-itunes.ga
 twitter1.discount-p.xyz
 twitter.alampata.online
+twitter.autoterra.com.br
 twitter.com.bi.tk
 twitter.com.testwitter.club
 twitter.ga-srl.com.ar
@@ -1467,6 +1489,7 @@ update.your.account.loveandcompassionofchrist.com
 update-your-account.mutual-resources.co.id
 update-your-account-now-now.pulautidungfebritravel.com
 update-your-apple-account-to-unlock-it.almost3mal.com
+update-your-customer-information-account-id-user-1244564.michalcohen.com
 update-your-information-account.lykeiokamenonvourlon.edu.gr
 updateyourinformationaccountneteller.sarix.com
 updateyourinformationaccountppl.improntaviola.ch
@@ -1485,6 +1508,7 @@ user-management-labs.tools.tax.service.gov.uk
 user-management-live.tools.tax.service.gov.uk
 user-management.tools.tax.service.gov.uk
 utilisateur-verification-785.cf
+valid-partner-support.ml
 vapple.usa.cc
 verif-human.cf
 verificationaccount731.com
@@ -1552,6 +1576,7 @@ webapps-secure-userid-verification.com
 webdisk.accounts-auth-secure-lock-information.com
 webdisk.accountsecureid.ml
 webdisk.account-servicesinfo.xyz
+webdisk.accounts-secure-pages.com
 webdisk.account-suport.online
 webdisk.apple-account-review-1.ml
 webdisk.apple-action-activation.ml
@@ -1622,6 +1647,7 @@ webdisk.pl-netflix.online
 webdisk.policeserviceaccounts.tk
 webdisk.reminder-for-customer-your-accoun-hash-been-locked.ga
 webdisk.secure2account-serveircid.usa.cc
+webdisk.secure2-verification.net
 webdisk.serverpaypaleurope.sytes.net
 webdisk.service-appleid.servepics.com
 webdisk.sslverify71.ga
@@ -1648,6 +1674,7 @@ weblogin.verify.idpaypal.webapps-iddonation.com
 webmail.accounts-auth-secure-lock-information.com
 webmail.accountsecureid.ml
 webmail.account-servicesinfo.xyz
+webmail.accounts-secure-pages.com
 webmail.account-suport.online
 webmail.apple-account-review-1.ml
 webmail.apple-action-activation.ml
@@ -1719,6 +1746,7 @@ webmail.pl-netflix.online
 webmail.policeserviceaccounts.tk
 webmail.reminder-for-customer-your-accoun-hash-been-locked.ga
 webmail.secure2account-serveircid.usa.cc
+webmail.secure2-verification.net
 webmail.serverpaypaleurope.sytes.net
 webmail.service-appleid.servepics.com
 webmail.sslverify71.ga
@@ -1782,8 +1810,10 @@ www.account-secure.site2.winrarstore.com.br
 www.account-secure-update.deightonprojectmanagement.com.au
 www.account-security-information.20ver.com.br
 www.account-security-information.smpn1randublatung.com
+www.account.service.rketech.com
 www.account-servicesinfo.xyz
 www.accounts.ramitsupport.com
+www.accounts-secure-pages.com
 www.account-suport.online
 www.account-supportserviceupdateaccount.eworldwide.co.uk
 www.account-support.vigilantsecurityforce.com
@@ -1840,6 +1870,7 @@ www.apple.google-map.site
 www.applehillsart.toews.tk
 www.apple-icloud.co
 www.apple.icloud.findmy-iphone.com
+www.appleid.apple.accounts-secure-pages.com
 www.appleid.apple-added-notese.macronibqsah.com
 www-appleid-apple-com.veriifying-accounts-locked.tk
 www-appleid-apple-com.veriifying-accounts-unlocked.ml
@@ -1902,11 +1933,13 @@ www.apple-login-support.mondetrem.com.br
 www.apple.lvivservice.com.ua
 www.applemixx.rac3.com.br
 www.apple-mobile-id.com.login-info-identity.com
+www.apple.redii.com.br
 www.apple-remont.lvivservice.com.ua
 www.applesecure-apple-lockedcase-riskactivitymail.ntcepcepatarkaya-bwanks2919.com
 www.applesecure-lockedcase-detectriskaction.okendan-kitabelisemuaborong.com
 www.applesecure-lockedcase-mail.openco98nvertbcc-sekelasahmad.com
 www.applesecure-locked-case-riskactivitymail.ntarkaya-bwanks2919.com
+www.apple.securesslx6l7c.com
 www.apple.service-cntakmusyg-support.business
 www.apple-service.co
 www.applestore.com-co.xyz
@@ -1995,6 +2028,7 @@ www.cpanel.payhelpandupdate.tk
 www---cspsiteweb-83-updated-wgbpwka-dskll43cxd5vs.eu.platform.sh
 www.c-support.datacenter.xyz
 www.ctmed.secureserviceit.com.br
+www.customerservice-contact.support-numbers.com
 www.customer-service-issue-payment.gq.inacofood.com
 www.customerservice.skoolpay.com.ng
 www.customerservice-support.com
@@ -2005,6 +2039,7 @@ www.dropbox.com.login.tubookpro.cl
 www.dropbox.com.verify.mahoningvalleyems.org
 www.ebay.com-honda-foreman-es-4x4-power-sterring.42577842879354.sale
 www.ebay.com-item.site
+www.ebay.com-itm-2001-winnebago-rialta-22hd.sxrps.review
 www.ebay.com-itm-2011-yamaha-custom-gas-golf-cart.pxir.top
 www.ebay.com-itm-2012-lincoln-ranger-welder.42577842879354.sale
 www.ebay.com-itm-2014-can-am-outlander-x-mr-1000.mdkp.review
@@ -2013,6 +2048,7 @@ www.ebay.com-itms-2014-yamaha-grizzly-700-eps-56498745.trpxt.top
 www.ebay.com-lincoln-ranger-250gxt-portable-welder.4256978248920.top
 www.ebay-securityupdated-verification.xploitperbuild.com
 www.ebuk-customer-service.uk
+www.electronicsystemsupport.ml
 www.en.appleid.service87087068740.knth0l.com
 www.enroll-wfb-security-update.online
 www.epaymentsupport.cc
@@ -2068,6 +2104,7 @@ www.hotmailsupport.co
 www.hotmail-supportnumber.com
 www.hotmail-supportnumber.printer-support-number.net
 www.hp.customerservice-support.com
+www.hsbc-auth.securesslx6l7c.com
 www.hsbc.co.uk.onlinebankingsecurelogin.unitedkingdom.first-valley-cu.com
 www.hsbconline.updatesystem.solingenmasat.com
 www.icloud.com.apple-id.id
@@ -2078,6 +2115,7 @@ www.icloud.com.found.location-service.online
 www.icloud.com.i-login.live
 www.icloud.com.ios-sign.in
 www.icloud.com.locates.support
+www.icloud.com.login-us.site
 www.icloud.com.signed.ml
 www.icloud.com.signin-id.care
 www.icloud.com.signin.viewlocation.us
@@ -2136,6 +2174,7 @@ www.laptopsupportservice.xyz
 www.ldverifylocation.services
 www.limitation-compte-paypal.sciencevital.net
 www.limited-acount-information.impresoseldia.com.co
+www.linkedin-customer-service.com
 www.linkedin.login-oauth.online
 www.listmasterverify.online
 www.live.outlooks.updates.accounts.worldwiredlaboratorypl.tk
@@ -2219,6 +2258,7 @@ www.netflixproaccount.store
 www.netflix-restart-membership-z44.magyar-telekom-hu.ga
 www.netflix.streamnowcr.com
 www.netflix.tvpro.website
+www.netflix-update-form.craig2me.com
 www.netflix-verification.net
 www.netflix-verify.3utilities.com
 www.networkfirewallsystemsupportprotectionvirusattackerroralert.xyz
@@ -2303,6 +2343,7 @@ www.paypall-limited.radiojuventudefm.com.br
 www.pay-pal-login-secure.maniarbangles.com
 www.paypal.mihanstore.net
 www.paypal.onlineverification.smart-login.usa.cc
+www.paypal.ozsayin.net
 www.paypalphp.angelleye.com
 www.paypal.portais.com
 www.paypal.prnb.co.uk
@@ -2332,6 +2373,7 @@ www.paypaltest.doitex.lv
 www.paypal.tk.com.altazi.com
 www.paypal-update.misteriodaessencia.com.br
 www.paypal-update-your-account-information-email.nitevibezradio.com
+www.paypalverificationzone.cinemayana.com
 www.paypal-verify.hopto.org
 www.paypal.wahyuesgroup.id
 www.paypal-webapps.atcphpt.email
@@ -2377,6 +2419,7 @@ www.secure1-your-account-information-locked.ga
 www.secure2account-serveircid.usa.cc
 www.secure2.mpp-account.bodyfit-ems.ae
 www.secure2store-idmsa.com-ap-idwebauth.signin.in-sg.cf
+www.secure2-verification.net
 www.secure-account.nutristoresuplementos.com.br
 www.secure-account.radiointegral.cl
 www.secure.apple-applead.managers-appss.com
@@ -2487,6 +2530,7 @@ www.thor-account-service-cf-rp.swisscomcloud.com
 www.tipsforsolveanyissue.club.autotradingsupport.online
 www.twitter1.discount-p.xyz
 www.twitter.alampata.online
+www.twitter.autoterra.com.br
 www.twitter.ga-srl.com.ar
 www.twitter.itsupportpros.com
 www.unlock.data.safe.your.account.verifying-step.tk
@@ -2508,6 +2552,7 @@ www.update.your.account.loveandcompassionofchrist.com
 www.update-your-account.mutual-resources.co.id
 www.update-your-account-now-now.pulautidungfebritravel.com
 www.update-your-apple-account-to-unlock-it.almost3mal.com
+www.update-your-customer-information-account-id-user-1244564.michalcohen.com
 www.update-your-information-account.lykeiokamenonvourlon.edu.gr
 www.updateyourinformationaccountneteller.sarix.com
 www.updateyourinformationaccountppl.improntaviola.ch
