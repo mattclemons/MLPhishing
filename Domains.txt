@@ -38,6 +38,7 @@ account.nsdaboaesperanca.com.br
 account.paypal.co.uk48756789098766678.vileandblind.com
 account.paypal.security.artandwax.com
 accountpaypal.webservicess.org
+account-recoveryupdate.com
 accountrecovery-updateinfo.com
 accounts-auth-secure-lock-information.com
 accounts-auth-secure-lock-informations.com
@@ -58,10 +59,12 @@ account-service.technicalsupportresources.com
 accounts.google.com.https-com.tk
 accounts.google.com.signup.guvenlik.tk
 accounts.google.com.signup-reply.cf
+accounts.google.com.signup.verification.gq
 accounts.google.com.verifyaccount-id.ga
 accounts-googlsecure.us
 account-signinid.com-manageidlocked-98172.com
 accounts-limited.review
+accounts.login-relpy.cf
 accounts.logins.gq
 accounts.mail.ru.inbox-mail.online
 accounts.ramitsupport.com
@@ -127,6 +130,7 @@ analyze-top-analytic-service.review
 answers.yahoo.com.question.indexqid.ksbld8fjhtqsydu8aaud1t62ibt.builtinboston.tech
 api-service.ml
 api.twitter.com.testwitter.club
+appapplestore.usa.cc
 app-applesupport.serveftp.com
 appelid-appel.com.login.profile.com-cancel-subscription.cc
 appelid.appel.com.login.profile.com-cancel-subscription.cc
@@ -139,6 +143,7 @@ apple-account-review-1.ml
 appleaccountsecure.serveirc.com
 apple-account-verification.bacodefavores.com
 apple-account-verification.engeblind.com.br
+apple-account-verifications.grandezgraficos.com
 apple-action-activation.ml
 apple-alertupdate.servebeer.com
 apple.appleid.com.buatkombacksaja-tolong.business
@@ -200,6 +205,7 @@ appleid.apple.support-iphone.center
 appleid-apple-support-update.com.serra-do-geres.com
 appleid-apple-support-update.com.sokkaya2019.net
 appleid-apple-support-update.com.standarmotor23.com
+appleid.apple.unlocked-userid-websupportpage.com
 appleid-apple.us
 appleid-apple.w-a-b-s.com
 appleid-apple.web2scurepp.com
@@ -287,6 +293,7 @@ appleidvertification-apple.store
 apple.inc-maps.us
 apple.inc.radionovaera.com.br
 appleinc-support.info
+appleiphone.telewizja-internetowa.com.pl
 appleiq.imposium.com
 apple.istweb.idmsa.corp.com-login-index.galerimotor.com
 apple-itunesmusicverify.boleromusic.co.id
@@ -341,8 +348,12 @@ apple-store.com-systemtransactionaccount.info
 apple-store-diskont.ml
 applestore.gilantabligh.ir
 apple-suport.statement-accountupdate.hub43dc2121.com
+apple-support.accountreminder-updatenotice.sdw54.net
 apple-support.accountupdate-centeragreement.sdw54.com
+apple-support.accountupdatenotice-reminder.sdw54.org
+apple-support.accountupdatereminder-notice.sdw54.org
 apple.support-accountupdate-statement.hub43dc2121.com
+apple-support.accountupdate-statementreminder.sdw54.net
 apple.support.auth-en.us
 apple-support.centerupdate-accountagreement.sdw54.com
 apple.support.com-servecenterunlocked3.com
@@ -351,9 +362,11 @@ apple-support-ios.club
 apple.support-log.me
 apple-support.reminderaccountupdate-statement.hbj89u.com
 apple-support.statementaccount-update.hbj89u.com
+apple-support-system-appleid-config-verifi-online.pesat-nabire.org
 apple-supportted.servegame.com
 appleton.updatedescorts.com
 apple.trackingicloud.com
+apple.universevpn.services
 appleunlock.allgsmstore.net
 apple-unlock-your-account.secureid-your-account.services
 apple-validsecure.serveirc.com
@@ -382,6 +395,7 @@ app-store.com-systemtransactionaccount.pro
 app-store.id.apps.com-webasps-login-page.jrsckhjrjlnn.com
 appsverifyaccounts.myftp.biz
 appsverify-id-appleid.com-lwlsls02023.com
+as-paypel-com.cf
 astechnicalsupport.ml
 authentication-accountlogin.com
 authentication-security.account-live-mail.com
@@ -453,6 +467,7 @@ bsgp-125-force-update.bsg-account-service.dev.sda-se.com
 caf-mon-compte-login.review
 cartruckpartscomputerchipcruisecontrol2014info.incartechsecuritydiyforspeakerssubwoofers2017.info
 carts.information.pa.y.pal.signin.kristinahotel.co.id
+case-id.pp-927-026-531.intl.verify.cassialignea.pt
 centerverifiedaccssecuritymanagementsilkui.com
 central-support-appple.com.increstn.email
 cgi-bin.update-acccount.service.login.meyersmovers.com
@@ -484,6 +499,7 @@ com-au-index-manager-identify-purchase-account.usa.cc
 com-auth-verification-service-sign.com
 com-auth-verification-sign-account.com
 com-ca-index-manager-identify-purchase-account.usa.cc
+com-findmyphone.support
 com-index-manager-alert-verify-purchases-account.usa.cc
 com-index-manager-alert-your-purchase.usa.cc
 com-index-reviews-manager-cancel-purchase-account.usa.cc
@@ -563,6 +579,7 @@ cpanel.authverifappleappstoresupport.com
 cpanel.chasesecurityupgrade.xyz
 cpanel.com-au-index-manager-identify-purchase-account.usa.cc
 cpanel.com-ca-index-manager-identify-purchase-account.usa.cc
+cpanel.com-findmyphone.support
 cpanel.com-index-manager-alert-verify-purchases-account.usa.cc
 cpanel.com-index-manager-alert-your-purchase.usa.cc
 cpanel.com-index-reviews-manager-cancel-purchase-account.usa.cc
@@ -594,6 +611,7 @@ cpanel.ktslogin.crmsupport.xyz
 cpanel.listmasterverify.online
 cpanel.login-accountingsecurity.com
 cpanel.login-applesupport.com
+cpanel.login-aumento-bancochile-persona-cl-chile.ga
 cpanel.login-clic-aumento-bancochile-personas-cl.cf
 cpanel.logininformatica.com.br
 cpanel.loginservice.com.br
@@ -626,6 +644,7 @@ cpanel.policeserviceaccounts.tk
 cpanel.reminder-for-customer-your-accoun-hash-been-locked.ga
 cpanel.secure2account-serveircid.usa.cc
 cpanel.secure2-verification.net
+cpanel.securefargocustomerupdate.online
 cpanel.serverpaypaleurope.sytes.net
 cpanel.service-appleid.servepics.com
 cpanel.service-jsgdkg-login.com
@@ -743,6 +762,7 @@ error.verifyoffice.ga
 e.secureaccountinfo.us
 eu.apple-pay.pg.int.ridero.eu
 facebook.com-facebook-security-alpha.serveo.net
+facebook-facebook-login-com.greenfinch4696.getlark.hosting
 facebook.security.gen.in
 facebook-support-verification-online.oguzcetin.gen.tr
 facebookverify.pepetv.info
@@ -779,6 +799,7 @@ gmaillogins.online
 gmailloginsupport.com
 gmailloginsupport.printer-support-number.net
 goliath-customer-support-form-web.staging.netcore.lv
+google.com.signup.verification.gq
 google.com.verifyaccount-id.ga
 googleplaystorefreedownloadforappleipad.playapps.download
 great-support-for-computer.xyz
@@ -841,6 +862,7 @@ icloud.com.authids-sign.in
 icloud.com.br-web.site
 icloud.com-check.review
 icloud.com.en-us.support
+icloud.com-findmyphone.support
 icloud.com-find.review
 icloud.com.fmi-signin.us
 icloud.com.ifinder.gq
@@ -903,6 +925,8 @@ instagram.hospedeseusite.ml
 instagram.ig-support.cf
 instagramloginsupport.bitearn.ir
 instagramlogintest.funkickway.com
+instagram.mycroft.com.br
+instagram.offboard.com.br
 instagram.photo-online.com.ua
 instagramsecurity.gq
 instagramserviceaccount.usa.cc
@@ -961,6 +985,7 @@ login-accountingsecurity.com
 login.accounts.com.yesterdayorfuture.com
 login.accounts-go0gle.com.yesterdayorfuture.com
 login-applesupport.com
+login-aumento-bancochile-persona-cl-chile.ga
 login-binance.cf
 login-chase.intl-secure.com
 login-clic-aumento-bancochile-personas-cl.cf
@@ -989,6 +1014,7 @@ login.paypal.com.secure4info-resulotioncenter.info
 login-paypal.lazaweb.net
 login-paypal.paypal.lazaweb.net
 login-program285-info.win
+login-relpy.cf
 logins-daum-net-accounts-loginformdo.thaii.site
 login.server-monitoring-service.de
 loginservice.com.br
@@ -1023,6 +1049,7 @@ mail.account-suport.online
 mail.acebookloginhelp.online
 mail.activation-access-account-appleid-com.usa.cc
 mail.alertpayment.updated.milmag.ro
+mail.appapplestore.usa.cc
 mail.apple-account-review-1.ml
 mail.apple-action-activation.ml
 mail.appleappsaccount-updateaccount.com
@@ -1053,6 +1080,7 @@ mail.chasesecurityupgrade.xyz
 mail.com-appleid.pw
 mail.com-au-index-manager-identify-purchase-account.usa.cc
 mail.com-ca-index-manager-identify-purchase-account.usa.cc
+mail.com-findmyphone.support
 mail.com-index-manager-alert-verify-purchases-account.usa.cc
 mail.com-index-manager-alert-your-purchase.usa.cc
 mail.com-index-reviews-manager-cancel-purchase-account.usa.cc
@@ -1094,6 +1122,7 @@ mail.jp-mailappleid.serveirc.com
 mail.listmasterverify.online
 mail.login-accountingsecurity.com
 mail.login-applesupport.com
+mail.login-aumento-bancochile-persona-cl-chile.ga
 mail.login-clic-aumento-bancochile-personas-cl.cf
 mail.logininformatica.com.br
 mail.loginservice.com.br
@@ -1129,6 +1158,7 @@ mail.policeserviceaccounts.tk
 mail.reminder-for-customer-your-accoun-hash-been-locked.ga
 mail.secure2account-serveircid.usa.cc
 mail.secure2-verification.net
+mail.securefargocustomerupdate.online
 mail.secureid-your-account.services
 mail.serverpaypaleurope.sytes.net
 mail.service-appleid.servepics.com
@@ -1150,9 +1180,11 @@ mail.supportinstagrams.ml
 mail.support.login-paysmentaccount.com
 mail.support-neededverification.cf
 mail.support-netflixservices.com
+mail.supporto.datacominformatica.it
 mail.supportservice.com.ar
 mail.systemsupportsecurenetworksecuritybreachwarningalert.xyz
 mail.systemwin64-error-service-call17.cf
+mail.tim.it.accountupdate.verification.whakataneafc.co.nz
 mail.twitter.itsupportpros.com
 mail.uk-com-index-managered-verify-purchases-account.usa.cc
 mail.user-logined.online
@@ -1306,7 +1338,9 @@ outlook.live.com.owa.hotmail.gritzapis.gr
 outlookprotectionservice.deltacontabilguarapari.com.br
 overifyread.gq
 ownerverifycontrol.online
+pages-secure1-unirecovery.cf
 pages-unisupport1-recovery.cf
+paradisebay.barsy.support
 partner-netflix.feedbuzzs.com
 parza-update-netflix.com.swatmobilebarikot.com
 pavpal.com-account-reactived.got-secured.com
@@ -1362,6 +1396,7 @@ paypal-community.com.signin.us-cgn.ga
 paypal.com.nadheer272.net
 paypal.com.sayangsasna.com
 paypal.com-secure-alert-notifications.managess-appswento.cf
+paypal.com.secureverifyaccountinformationcentre.mahmud-it.com
 paypal-com.signin.sg-en.gq
 paypal.com.th.webapps.mpp.home.joansutherland.com
 paypal.com.update.service.usa.update.tepcoindia.com
@@ -1370,6 +1405,7 @@ paypal.com-verifypaymentid.d0f262a9c560.com
 paypal-com.view-source-account-support-intl.tartoefke.be
 paypal.com.vnc.s3g.in
 paypal.com.webapps.auth.home.login.php.driverrehabteam.com
+paypal.com.webapps.mascarasiriarte.com.ar
 paypal.com.webapps.paypal.safety.and.security.veloxcreative.com
 paypal.com.webapps.secureweb-update.com
 paypal.com.worldwide.cgi-bin.webscr.cmd-login-submit.dispatch.5885d80a13c0db1f8e263.condividiamo.net
@@ -1584,6 +1620,7 @@ secure.dementia-care-and-support.co.uk
 secured-login.link
 securednetworkverified.ga
 secured-service-update.com
+securefargocustomerupdate.online
 secure-fortnite-store-season-5-battle-pass-free.cf
 secure.googleaccountsecure.me
 secure.help.webapp.verify.center.mpp.hulahoopcanada.ca
@@ -1613,6 +1650,7 @@ secureverifmanage.accountant
 secureverifmanage.date
 secure-verifyinformations-account.com
 secure-verify.xyz
+securewebapps.unlockappservice-center.com
 secure.weblogin-manage.privacy.account.comlogins.cf
 secure.weblogin-securitymanage.account.zizikcok.cf
 secure-your-account-acces.tk
@@ -1635,6 +1673,8 @@ security-measures.com.en-signin.gq
 security-paypal.com.sg-signin.sg-en.gq
 security-support-account.in.ua
 security-update-invoice-4ppl31d.oftacenter.lentile-contact.eu
+security.webapps.appleishop.gq
+security.webapps.canadabigmart.ml
 seekverify.review
 seekverify.top10backgroundchecks.xyz
 separate-chase.cf
@@ -1718,14 +1758,17 @@ special-gift-for-you.cf
 spitogatos.manage.account.purchaseorder.co.in
 spk-support-account.net
 spotify-account.ml
+ssl.google.com.signup.verification.gq
 ssl.google.com.verifyaccount-id.ga
 ssl-iforgetidappleidapple.fr.dadigitalpresent.mk
+ssl.login-relpy.cf
 sslverify27.ga
 sslverify33.tk
 sslverify71.ga
 sslverify73.ga
 stargamescomlogin.review
 statement.index-cgi-privacy.secure.subscription.payments.securessubscriptions.org
+statement-update-accounts.suport-activitys.com
 statementverificationsecurity.ga
 static.facebook.com.login-to-my-page.tk
 staticweb.activite.summarybankofamerica.usscalemasters.org
@@ -1822,6 +1865,7 @@ support-netflixservices.com
 support-netting-for-tomatos.in
 supportnewservice.tk
 supporto.computer-store.it
+supporto.datacominformatica.it
 support.paypal.login.zilotti.com.br
 support-privacy.cf
 support.problem.icloud.com.com-n.xyz
@@ -1831,6 +1875,7 @@ support.secure2id.account.update.appleid.com.nenen-susu.org
 support.secure2ids.account.update.com.info.restoremyphone.info
 support.secure2ids.account.updates.info.restoremyphone.info
 support-secure-center.cidadegospel.com.br
+support-securityalert.com
 supportservice.com.ar
 support-serviceofconfirminformation.com
 supportservice.payement-out-service.gadgets91.com
@@ -1864,7 +1909,9 @@ twitter.com.testwitter.club
 twitter.ga-srl.com.ar
 twitter.hitechsupport.net
 twitter.itsupportpros.com
+twitter.meocat.ml
 twitter.mnixry.tk
+twittermobile.meocat.ml
 twitter-mobile.mnixry.tk
 twitter.web-service4u.de
 ucfaa3e042a490c25503cd6456d5.dl.dropboxusercontent.com.eu.cas.ms
@@ -1873,6 +1920,7 @@ unlock.data.safe.your.account.verifying-step.tk
 unlock.data.safe.your.account.verifying-updates.tk
 unlocked1dapple.serveftp.com
 unlocked-icloud-supportapps.bantimurung.com
+unlocked-userid-websupportpage.com
 unsualaktifity-youaccountsecured.ml
 update-account-info.com-important-notification-com-update-login-help-account-id.infisport.com
 update-account-information.kemaliturizm.com
@@ -2054,6 +2102,7 @@ webdisk.authverifappleappstoresupport.com
 webdisk.chasesecurityupgrade.xyz
 webdisk.com-au-index-manager-identify-purchase-account.usa.cc
 webdisk.com-ca-index-manager-identify-purchase-account.usa.cc
+webdisk.com-findmyphone.support
 webdisk.com-index-manager-alert-verify-purchases-account.usa.cc
 webdisk.com-index-manager-alert-your-purchase.usa.cc
 webdisk.com-index-reviews-manager-cancel-purchase-account.usa.cc
@@ -2085,6 +2134,7 @@ webdisk.ktslogin.crmsupport.xyz
 webdisk.listmasterverify.online
 webdisk.login-accountingsecurity.com
 webdisk.login-applesupport.com
+webdisk.login-aumento-bancochile-persona-cl-chile.ga
 webdisk.login-clic-aumento-bancochile-personas-cl.cf
 webdisk.logininformatica.com.br
 webdisk.loginservice.com.br
@@ -2117,6 +2167,7 @@ webdisk.policeserviceaccounts.tk
 webdisk.reminder-for-customer-your-accoun-hash-been-locked.ga
 webdisk.secure2account-serveircid.usa.cc
 webdisk.secure2-verification.net
+webdisk.securefargocustomerupdate.online
 webdisk.serverpaypaleurope.sytes.net
 webdisk.service-appleid.servepics.com
 webdisk.service-jsgdkg-login.com
@@ -2186,6 +2237,7 @@ webmail.authverifappleappstoresupport.com
 webmail.chasesecurityupgrade.xyz
 webmail.com-au-index-manager-identify-purchase-account.usa.cc
 webmail.com-ca-index-manager-identify-purchase-account.usa.cc
+webmail.com-findmyphone.support
 webmail.com-index-manager-alert-verify-purchases-account.usa.cc
 webmail.com-index-manager-alert-your-purchase.usa.cc
 webmail.com-index-reviews-manager-cancel-purchase-account.usa.cc
@@ -2218,6 +2270,7 @@ webmail.ktslogin.crmsupport.xyz
 webmail.listmasterverify.online
 webmail.login-accountingsecurity.com
 webmail.login-applesupport.com
+webmail.login-aumento-bancochile-persona-cl-chile.ga
 webmail.login-clic-aumento-bancochile-personas-cl.cf
 webmail.logininformatica.com.br
 webmail.loginservice.com.br
@@ -2250,6 +2303,7 @@ webmail.policeserviceaccounts.tk
 webmail.reminder-for-customer-your-accoun-hash-been-locked.ga
 webmail.secure2account-serveircid.usa.cc
 webmail.secure2-verification.net
+webmail.securefargocustomerupdate.online
 webmail.serverpaypaleurope.sytes.net
 webmail.service-appleid.servepics.com
 webmail.service-jsgdkg-login.com
@@ -2394,6 +2448,7 @@ www.americanexpress.com-login.t-online.flu.cc
 www.americanexpresscomsecureservice.jalwa.com.pk
 www.americanexpress.com-service.night-us.flu.cc
 www.answers.yahoo.com.question.indexqid.ksbld8fjhtqsydu8aaud1t62ibt.builtinboston.tech
+www.appapplestore.usa.cc
 www.appelid-appel.com.login.profile.com-cancel-subscription.cc
 www.appelid.appel.com.login.profile.com-cancel-subscription.cc
 www.appie.submited.com.purchase-notification.tk
@@ -2401,6 +2456,7 @@ www.appie-supports-customerservices-accountsid7392.com
 www.apple-account-review-1.ml
 www.apple-account-verification.bacodefavores.com
 www.apple-account-verification.engeblind.com.br
+www.apple-account-verifications.grandezgraficos.com
 www.apple-action-activation.ml
 www.apple.appleid.com-sig.in
 www.apple-appleid.support.honkanenoy.fi
@@ -2490,6 +2546,7 @@ www.appleid-verify.online
 www.appleidvertification-apple.store
 www.apple.inc.radionovaera.com.br
 www.appleinc-support.info
+www.appleiphone.telewizja-internetowa.com.pl
 www.apple.istweb.idmsa.corp.com-login-index.galerimotor.com
 www.apple-itunesmusicverify.boleromusic.co.id
 www.apple.iverify.site
@@ -2527,14 +2584,19 @@ www.applestore.com-co.xyz
 www.apple-store-diskont.ml
 www.applestore.gilantabligh.ir
 www.apple-suport.statement-accountupdate.hub43dc2121.com
+www.apple-support.accountreminder-updatenotice.sdw54.net
 www.apple-support.accountupdate-centeragreement.sdw54.com
+www.apple-support.accountupdatenotice-reminder.sdw54.org
+www.apple-support.accountupdatereminder-notice.sdw54.org
 www.apple.support-accountupdate-statement.hub43dc2121.com
+www.apple-support.accountupdate-statementreminder.sdw54.net
 www.apple.support.auth-en.us
 www.apple-support.centerupdate-accountagreement.sdw54.com
 www.apple.support-iphone.center
 www.apple.support-log.me
 www.apple-support.reminderaccountupdate-statement.hbj89u.com
 www.apple-support.statementaccount-update.hbj89u.com
+www.apple-support-system-appleid-config-verifi-online.pesat-nabire.org
 www.apple-supportted.servegame.com
 www.apple-support.uni-bonn.de
 www.appleton.updatedescorts.com
@@ -2585,6 +2647,7 @@ www.bofa-comsecurebrowsing.cf
 www.caf-mon-compte-login.review
 www.cartruckpartscomputerchipcruisecontrol2014info.incartechsecuritydiyforspeakerssubwoofers2017.info
 www.carts.information.pa.y.pal.signin.kristinahotel.co.id
+www.case-id.pp-927-026-531.intl.verify.cassialignea.pt
 www.cgi-bin.update-acccount.service.login.meyersmovers.com
 www.chaseaccountverificationsettings.puspawarna.com
 www.chase.com.mathematicalsysteminfo.usa.cc
@@ -2605,6 +2668,7 @@ www.com-au-index-manager-identify-purchase-account.usa.cc
 www.com-auth-verification-service-sign.com
 www.com-auth-verification-sign-account.com
 www.com-ca-index-manager-identify-purchase-account.usa.cc
+www.com-findmyphone.support
 www.com-index-manager-alert-verify-purchases-account.usa.cc
 www.com-index-manager-alert-your-purchase.usa.cc
 www.com-index-reviews-manager-cancel-purchase-account.usa.cc
@@ -2672,6 +2736,7 @@ www.error.verifyoffice.ga
 www.e.secureaccountinfo.us
 www.facebook.com-facebook-security-alpha.serveo.net
 www.facebook.com.login-to-my-page.tk
+www.facebook-facebook-login-com.greenfinch4696.getlark.hosting
 www.facebook.security.gen.in
 www.facebook-security-team.cf
 www.facebook-support-verification-online.oguzcetin.gen.tr
@@ -2715,6 +2780,7 @@ www.home-appleid.apple.growtopia-tools.com
 www.home.appleid.apple.growtopia-tools.com
 www.homepage-accounting-service-form.tk
 www.homepage-applestore-servicesubscription.tk
+www-hotmail-be.be
 www.hotmailcustomercare.w2cit.in
 www.hotmailcustomerservice.com
 www.hotmailiniciarsesion.com.co
@@ -2737,6 +2803,7 @@ www.icloud.com.appleid.name
 www.icloud.com-apple.us
 www.icloud.com.authids-sign.in
 www.icloud.com.br-web.site
+www.icloud.com-findmyphone.support
 www.icloud.com-find.review
 www.icloud.com.found.location-service.online
 www.icloud.com.iinfo.cf
@@ -2789,6 +2856,7 @@ www.instagram.hospedeseusite.ml
 www.instagram.ig-support.cf
 www.instagramloginsupport.bitearn.ir
 www.instagramlogintest.funkickway.com
+www.instagram.mycroft.com.br
 www.instagramserviceaccount.usa.cc
 www.instagramservice.mail-services.site
 www.instagramupdates.tk
@@ -2825,6 +2893,7 @@ www.locked-account-icloudapp.com
 www.locked-account-support.com
 www.login-accountingsecurity.com
 www.login-applesupport.com
+www.login-aumento-bancochile-persona-cl-chile.ga
 www.login-binance.cf
 www.login-chase.intl-secure.com
 www.login-clic-aumento-bancochile-personas-cl.cf
@@ -2857,6 +2926,7 @@ www.login.verifyoffice.ga
 www.login.yahoo.com1389734723.ml
 www.login.yahooservice.ormco.ro
 www.mail-inc-account.com.bh-ht-3.webhostbox.net
+www.mail.tim.it.accountupdate.verification.whakataneafc.co.nz
 www.mailweb-account-verify.com
 www.makeyourtripeasy.club.autotradingsupport.online
 www.manage.appleid.apple.signinprivacy.com
@@ -2947,6 +3017,7 @@ www.osngtmdjd5-myapp-apple-com.management
 www.outlookhelp.support
 www.outlook.live.com.owa.hotmail.gritzapis.gr
 www.outlookprotectionservice.deltacontabilguarapari.com.br
+www.paradisebay.barsy.support
 www.partner-netflix.feedbuzzs.com
 www.parza-update-netflix.com.swatmobilebarikot.com
 www.pavypal.com-disputeresolution.me
@@ -2992,6 +3063,7 @@ www.paypal.com.home.paypalonline.online.ihsanaktas.av.tr
 www.paypal.com.it.signin.53ca4ee85ee7d40be5f8f4eecc526b37.53ca4ee85ee7d40be5f8f4eecc526b37.53ca4ee85ee7d40be5f8f4eecc526b37.cashflowinc.com
 www.paypal-community.com.signin.us-cgn.ga
 www.paypal.com.nadheer272.net
+www.paypal.com.secureverifyaccountinformationcentre.mahmud-it.com
 www.paypal-com.signin.sg-en.gq
 www.paypal.com.th.webapps.mpp.home.joansutherland.com
 www.paypal.com.update.service.usa.update.tepcoindia.com
@@ -3002,6 +3074,7 @@ www.paypal.com-verifypaymentid.d0f262a9c560.com
 www.paypal-com.view-source-account-support-intl.tartoefke.be
 www.paypal.com.vnc.s3g.in
 www.paypal.com.webapps.auth.home.login.php.driverrehabteam.com
+www.paypal.com.webapps.mascarasiriarte.com.ar
 www.paypal.com.webapps.paypal.safety.and.security.veloxcreative.com
 www.paypal-confirmations.login-info-identity.com
 www.paypal.culinaria-wuppertal.de
@@ -3131,6 +3204,7 @@ www.secure.auth-signinappleid.com-officialsecuritysupport.com
 www.secure.auth-signinappleid.com-officialsupporthelp.com
 www.secure.bankofamerica.com.onlineconvert.com.ng
 www.secure.bankofamerica.statements.details.rcsbchat.com
+www.securefargocustomerupdate.online
 www.secure.help.webapp.verify.center.mpp.hulahoopcanada.ca
 www.secureid-your-account.services
 www.secure.itunes.storeapple.abcgoruntuleme.com.tr
@@ -3140,6 +3214,7 @@ www.secure-paypai-verification.com
 www.secure.paypal.com.theabyss.com.ng
 www.secure.store-apple-icloud.update.sayamantangshitim.com
 www.secure-update-info.ga
+www.securewebapps.unlockappservice-center.com
 www.secure-your-account.securitysuarezz.tk
 www.securing.paypal.digitaldonproductions.com
 www.securityapple.wickedweaver.com
@@ -3149,6 +3224,8 @@ www.securitylogin.accountant.applogin.stream
 www.security.login.mobile.fetivook.website
 www.security-measures.com.en-signin.gq
 www.security-paypal.com.sg-signin.sg-en.gq
+www.security.webapps.appleishop.gq
+www.security.webapps.canadabigmart.ml
 www.seekverify.top10backgroundchecks.xyz
 www.ser.pp.pay.account.pay.securekil.tk
 www.server.accountnotificationreview.ml
@@ -3243,12 +3320,14 @@ www.support-myacc-security.tk
 www.support-neededverification.cf
 www.support.netflix.lwlantz.com
 www.support-netflixservices.com
+www.supporto.datacominformatica.it
 www.support.paypal.login.zilotti.com.br
 www.support.problem.icloud.com.com-n.xyz
 www.support-redirection-moncompte.cf
 www.support.secure2id.account.update.appleid.com.nenen-susu.org
 www.support.secure2ids.account.updates.info.restoremyphone.info
 www.support-secure-center.cidadegospel.com.br
+www.support-securityalert.com
 www.supportservice.com.ar
 www.support-serviceofconfirminformation.com
 www.supportservice.payement-out-service.gadgets91.com
@@ -3375,6 +3454,7 @@ www.westshorebayclubwci.markalpinecustomercenter.com
 www.www1.identity-verification.bmomobile.ca.personal.elnegro.com.br
 www.www2.chase.com.companyhoou.ml
 www.www6.rbc.com.webapp.ukv0.signin.logon.xhtml.appstore.aw
+www.www-hotmail-be.be
 www.www.icloud.com.found.location-service.online
 www.www-netflix-com-us-es-login.jdmngc.com
 www.www.www.www.www.www.login.microsoft.com.eu.cas.ms
