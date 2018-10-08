@@ -72,6 +72,7 @@ account.security.gen.in
 account-security-information.20ver.com.br
 account-security-information.naturisonline.ml
 account-security-information.smpn1randublatung.com
+account-securityverification.com
 account-servicecontact.co.uk
 account-service-contact.org
 account-service.pw
@@ -476,6 +477,7 @@ apply-for-debt-relief-order.service.gov.uk
 appmobaile.osappleid.survey-payconfirmasion.com
 apprecovery-appleinc-store.informan-mync.com
 apps2id.store.icloud-apple.sayamantshitim.com
+appsid.continueapple.survey-payconfirmasion.com
 appsidhome.loginappleid.customereserviceconfirmasion.com
 apps.login.page.intl.secure.ns918789218979.gloporti.com
 appsservice.loginneppleid.customereserviceconfirmasion.com
@@ -544,6 +546,7 @@ bankofamerica.com.online.homecentereletronica.com.br
 bankofamerica.com.online.suchitratech.com
 bankofamerica.com.slingplates.com
 bankofamerica.com.softxen.com
+bankofamerica.com.sys.login.in.update.info.pass.2016.hkzing.com
 bankofamerica.com-technical-support-centre-account-verification-update.divamakeover.in
 bankofamerica.gskworld.com
 bankofamerica.gustiramedia.id
@@ -742,6 +745,7 @@ cpanel.fb-recovery-account58-dk.ga
 cpanel.fb-recovery-account59-dk.ga
 cpanel.fb-recovery-account60-dk.ga
 cpanel.fb-recovery-account61-dk.ga
+cpanel.fb-recovery-account62-dk.ga
 cpanel.giftappleinc.ml
 cpanel.hotmailaccounthelp.com
 cpanel.hotmailhelp.adobesupportaustralia.com
@@ -767,6 +771,7 @@ cpanel.login-applesupport.com
 cpanel.login-aumento-bancochile-persona-cl-chile.ga
 cpanel.login-clic-aumento-bancochile-personas-cl.cf
 cpanel.logininformatica.com.br
+cpanel.login-payment.service-iccloud-rese-pay.com
 cpanel.loginservice.com.br
 cpanel.login-smart-service.usa.cc
 cpanel.logintohotmail.com
@@ -978,12 +983,14 @@ fb-recovery-account58-dk.ga
 fb-recovery-account59-dk.ga
 fb-recovery-account60-dk.ga
 fb-recovery-account61-dk.ga
+fb-recovery-account62-dk.ga
 fbsupportcommunityxerhelp.ga
 filmnetflix.ml
 findasupportworker.com.au.bronwynorsatti.xyz
 find-my-facebook-page-id.evirnet.com.ar
 findmyiphone-apple.support
 find-myphone-support.ml
+forestpark.security-garage-door-service.com
 forex-managed-accounts.co
 forgotpasswordsupportid-s.gq
 forgotpasswordsupportsid.ml
@@ -1255,6 +1262,7 @@ login.myups.support
 login.ndtweb.cf
 login.netflix-index.com
 login.outlooks.updates.tanzifesfahan.ir
+login-payment.service-iccloud-rese-pay.com
 login.paypal.com.4m.net
 login.paypal.com.ppal-lmted-hlpdesk.com
 login.paypal.com.secure4info-resulotioncenter.com
@@ -1368,6 +1376,7 @@ mail.fb-recovery-account58-dk.ga
 mail.fb-recovery-account59-dk.ga
 mail.fb-recovery-account60-dk.ga
 mail.fb-recovery-account61-dk.ga
+mail.fb-recovery-account62-dk.ga
 mail.giftappleinc.ml
 mail.gmailloginsupport.com
 mail.hotmailaccounthelp.com
@@ -1399,12 +1408,14 @@ mail.login-applesupport.com
 mail.login-aumento-bancochile-persona-cl-chile.ga
 mail.login-clic-aumento-bancochile-personas-cl.cf
 mail.logininformatica.com.br
+mail.login-payment.service-iccloud-rese-pay.com
 mail.loginservice.com.br
 mail.login-smart-service.usa.cc
 mail.logintohotmail.com
 mail.mac-apple-support.us
 mail.mail-inc-account.com.bh-ht-3.webhostbox.net
 mail.mailweb-account-verify.com
+mail.manage-account-secureid.com
 mail.microsoft-security-alert-990.cf
 mail.microsoft-security-alert-990.ga
 mail.microsoft-security-alert-990.gq
@@ -1508,6 +1519,7 @@ mailweb-account-verify.com
 mail.yandex.ru.uid.login.message.mail.security.qid.email
 makeyourtripeasy.club.autotradingsupport.online
 manage.account.apple.verifications.support.nasxa.com
+manage-account-secureid.com
 manage-accounts.info
 manageapple.cf
 manage.appleid.apple.signinprivacy.com
@@ -1613,6 +1625,7 @@ netflix.epickeys.com
 netflix.giftrewardprizes.com
 netflixgratis.online
 netflix.imagenesdecantantes.com
+netflix-india.cf
 netflix.klantenservicenummernederland.com
 netflix-marketing.sferalabs.com
 netflixmedia2.cf
@@ -1684,11 +1697,13 @@ outlookhelp.support
 outlookhotmail.top
 outlook.live.com.owa.hotmail.gritzapis.gr
 outlookprotectionservice.deltacontabilguarapari.com.br
+outlooks.accounts.updates.tanzifshahr.ir
 overifyread.gq
 ownerverifycontrol.online
 pages-secure1-unirecovery.cf
 pages-unisupport1-recovery.cf
 page-system-security1.ml
+palmbeachgardens.security-garage-door-service.com
 paradisebay.barsy.support
 partner-netflix.feedbuzzs.com
 parza-update-netflix.com.swatmobilebarikot.com
@@ -1982,6 +1997,7 @@ score-top-marketing-service.review
 scure.account.information.sampoernamild.international
 scure.information-service.sampoernamild.international
 scure.informaton-service.acoount.sampoernamild.international
+seaford.security-garage-door-service.com
 secure0098t.store1827x.applle.com.lock-review.info
 secure03b.chase.view-only.com
 secure07c.chase.aool.pw
@@ -2170,6 +2186,7 @@ sharepoint.APAC.microsoftonline.com.office.skyhigh4898.skyhigh4898.shnpoc.net
 sharepoint.EMEA.microsoftonline.com.clotero.airwatchvmware.shnpoc.net
 sharepoint.EMEA.microsoftonline.com.office.skyhigh4898.skyhigh4898.shnpoc.net
 sharepoint.microsoftonline.com.office.skyhigh4898.skyhigh4898.shnpoc.net
+shopallthingsapples.co.za.allthingsapples.co.za
 sicher-kunde-verify.ga
 sign-accountlocked-appleid.com-lwlsls02023.com
 sign.appleid.ifoergot-client-auth01643.com
@@ -2345,6 +2362,7 @@ support-services-logins.guss.tbthosting.com
 support-service.vakalas.gr
 supportteamupdateinfo.ml
 support.tokheim-service.de
+support.update.information.allware.com.py
 support-update-information.com
 support-update.information.happyplacetea.com
 support-update-information.ttelectric.com
@@ -2382,6 +2400,8 @@ twitter.meocat.ml
 twitter.mnixry.tk
 twittermobile.meocat.ml
 twitter-mobile.mnixry.tk
+twitter.niagaron.com.ve
+twitter.omerevren.com.tr
 twittersecure-verification.club
 twitter.web-service4u.de
 ucfaa3e042a490c25503cd6456d5.dl.dropboxusercontent.com.eu.cas.ms
@@ -2436,6 +2456,7 @@ updates.helpe.com.gr
 update-your-account-10097909.com
 update-your-accounte-information.smpn1randublatung.com
 update-your-account-information.almost3mal.com
+update-your-account-information.bernietargets.com
 update-your-account-information.burnabywebconsulting.ca
 update-your-account-information.streetthinker.com
 update.your.account.loveandcompassionofchrist.com
@@ -2645,6 +2666,7 @@ webdisk.fb-recovery-account58-dk.ga
 webdisk.fb-recovery-account59-dk.ga
 webdisk.fb-recovery-account60-dk.ga
 webdisk.fb-recovery-account61-dk.ga
+webdisk.fb-recovery-account62-dk.ga
 webdisk.giftappleinc.ml
 webdisk.hotmailaccounthelp.com
 webdisk.hotmailhelp.adobesupportaustralia.com
@@ -2670,6 +2692,7 @@ webdisk.login-applesupport.com
 webdisk.login-aumento-bancochile-persona-cl-chile.ga
 webdisk.login-clic-aumento-bancochile-personas-cl.cf
 webdisk.logininformatica.com.br
+webdisk.login-payment.service-iccloud-rese-pay.com
 webdisk.loginservice.com.br
 webdisk.login-smart-service.usa.cc
 webdisk.logintohotmail.com
@@ -2827,6 +2850,7 @@ webmail.fb-recovery-account58-dk.ga
 webmail.fb-recovery-account59-dk.ga
 webmail.fb-recovery-account60-dk.ga
 webmail.fb-recovery-account61-dk.ga
+webmail.fb-recovery-account62-dk.ga
 webmail.giftappleinc.ml
 webmail.hotmailaccounthelp.com
 webmail.hotmailhelp.adobesupportaustralia.com
@@ -2853,6 +2877,7 @@ webmail.login-applesupport.com
 webmail.login-aumento-bancochile-persona-cl-chile.ga
 webmail.login-clic-aumento-bancochile-personas-cl.cf
 webmail.logininformatica.com.br
+webmail.login-payment.service-iccloud-rese-pay.com
 webmail.loginservice.com.br
 webmail.login-smart-service.usa.cc
 webmail.logintohotmail.com
@@ -2922,6 +2947,7 @@ webmail.support-redirection-moncompte.cf
 webmail.supportservice.com.ar
 webmail.systemsupportsecurenetworksecuritybreachwarningalert.xyz
 webmail.systemwin64-error-service-call17.cf
+webmail.twitter.omerevren.com.tr
 webmail.uk-com-index-managered-verify-purchases-account.usa.cc
 webmail.update-accountapple.serveirc.com
 webmail.updated-appleidacc.myvnc.com
@@ -3025,6 +3051,7 @@ www.account.security.gen.in
 www.account-security-information.20ver.com.br
 www.account-security-information.naturisonline.ml
 www.account-security-information.smpn1randublatung.com
+www.account-securityverification.com
 www.account-servicecontact.co.uk
 www.account-service-contact.org
 www.account.service.rketech.com
@@ -3297,6 +3324,7 @@ www.bankofamerica.com.online.homecentereletronica.com.br
 www.bankofamerica.com.online.suchitratech.com
 www.bankofamerica.com.slingplates.com
 www.bankofamerica.com.softxen.com
+www.bankofamerica.com.sys.login.in.update.info.pass.2016.hkzing.com
 www.bankofamerica.com-technical-support-centre-account-verification-update.divamakeover.in
 www.bankofamerica.gskworld.com
 www.bankofamerica.gustiramedia.id
@@ -3454,11 +3482,13 @@ www.fb-recovery-account58-dk.ga
 www.fb-recovery-account59-dk.ga
 www.fb-recovery-account60-dk.ga
 www.fb-recovery-account61-dk.ga
+www.fb-recovery-account62-dk.ga
 www.fbw-service-support.nl
 www---feature-ws-510-updates-nfdvmrq-ccvgznijrkymo.us.platform.sh
 www.findasupportworker.com.au.bronwynorsatti.xyz
 www.find-my-facebook-page-id.evirnet.com.ar
 www.findmyiphone-apple.support
+www.forestpark.security-garage-door-service.com
 www.forgotpasswordsupportid-s.gq
 www.freeinstagramfollowers.zubairafridi.xyz
 www.freenetflixaccs.handyladen24.net
@@ -3646,6 +3676,7 @@ www.login.microsoftonline.csirt-emi.com
 www.login.microsoftonline.wetrasfers.com
 www.login.myups.support
 www.login.outlooks.updates.tanzifesfahan.ir
+www.login-payment.service-iccloud-rese-pay.com
 www.login.paypal.com.4m.net
 www.login-paypal.lazaweb.net
 www.login-paypal.paypal.lazaweb.net
@@ -3670,6 +3701,7 @@ www.mail.ntpc.co.in.paypal.flu.cc
 www.mail.tim.it.accountupdate.verification.whakataneafc.co.nz
 www.mailweb-account-verify.com
 www.makeyourtripeasy.club.autotradingsupport.online
+www.manage-account-secureid.com
 www.manage.appleid.apple.signinprivacy.com
 www.manage-appleid-apple-support-idcls.gq
 www.manage.appleid.com.check-location.info
@@ -3790,6 +3822,8 @@ www.outlookcustomer-support.com
 www.outlookhelp.support
 www.outlook.live.com.owa.hotmail.gritzapis.gr
 www.outlookprotectionservice.deltacontabilguarapari.com.br
+www.outlooks.accounts.updates.tanzifshahr.ir
+www.palmbeachgardens.security-garage-door-service.com
 www.paradisebay.barsy.support
 www.partner-netflix.feedbuzzs.com
 www.parza-update-netflix.com.swatmobilebarikot.com
@@ -4002,6 +4036,7 @@ www.resolve-paypal.com.sctor-unpoint.flu.cc
 www.reviewpayment-updatecontactverify.banyulangits.com
 www.review-your-informations-account.winrarstore.com.br
 www.rvtrailercamperpartsenginescomponents2014info.incartechsecuritydiyforspeakerssubwoofers2017.info
+www.seaford.security-garage-door-service.com
 www.secure0098t.store1827x.applle.com.lock-review.info
 www.secure03b.chase.view-only.com
 www.secure07c.chase.aool.pw
@@ -4092,6 +4127,7 @@ www.service-support.fasca.org.ec
 www.service.update-account.angelnethost.com
 www.setting-update-data-login-for-unlocked-myaccounts.usa.cc
 www.seucre.recovery-account.weblogin.authentication-dasboard.com
+www.shopallthingsapples.co.za.allthingsapples.co.za
 www.sign-apple-verif-account.secureid-your-account.services
 www.signature-apple-appleid-copyright.usa.cc
 www.sign-in.account-appleunlockedservice.mkadaifauser.com
@@ -4183,6 +4219,7 @@ www.support-serviceofconfirminformation.com
 www.supportservice.payement-out-service.gadgets91.com
 www.support-services-logins.guss.tbthosting.com
 www.support-service.vakalas.gr
+www.support.update.information.allware.com.py
 www.support-update-information.com
 www.support-update.information.happyplacetea.com
 www.support-update-information.ttelectric.com
@@ -4207,6 +4244,8 @@ www.twitter.alampata.online
 www.twitter.autoterra.com.br
 www.twitter.ga-srl.com.ar
 www.twitter.itsupportpros.com
+www.twitter.niagaron.com.ve
+www.twitter.omerevren.com.tr
 www.twittersecure-verification.club
 www.uk-com-index-managered-verify-purchases-account.usa.cc
 www.unlock.data.safe.your.account.verifying-step.tk
@@ -4239,6 +4278,7 @@ www.update-secure-your-account-information.ipclimatizar.com.ar
 www.update-service-security-account-info.tony-powell.com
 www.update-your-accounte-information.smpn1randublatung.com
 www.update-your-account-information.almost3mal.com
+www.update-your-account-information.bernietargets.com
 www.update-your-account-information.burnabywebconsulting.ca
 www.update-your-account-information.streetthinker.com
 www.update.your.account.loveandcompassionofchrist.com
