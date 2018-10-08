@@ -87,7 +87,9 @@ accounts-limited.review
 accounts.login.mail.com.chromeperfection.com
 accounts.login-relpy.cf
 accounts.logins.gq
+accounts.login.ymail.webdeb.com
 accounts.mail.ru.inbox-mail.online
+accounts-problem.tk
 accounts.ramitsupport.com
 accounts.relpy.ml
 accounts-secure-pages.com
@@ -248,9 +250,11 @@ appleid.apple.support-iphone.center
 appleid-apple-support-update.com.serra-do-geres.com
 appleid-apple-support-update.com.sokkaya2019.net
 appleid-apple-support-update.com.standarmotor23.com
+appleid.apple.ukv.me
 appleid.apple.unlocked.tuneuplles.com
 appleid.apple.unlocked-userid-websupportpage.com
 appleid-apple.us
+appleid-appleverifications.supportpayment.secure.never-surrender.biz
 appleid-apple-verify-accountsecure-locked.com
 appleid-apple.w-a-b-s.com
 appleid-apple.web2scurepp.com
@@ -315,6 +319,7 @@ appleid-secure581.serveirc.com
 appleid-securityid.servepics.com
 appleidservice.centeredhgai.com
 appleidservice.ddnsking.com
+appleid-services.myvnc.com
 appleid.signin-ids.com
 appleid.sign-ld.com
 appleid.soporte-lat.com
@@ -483,6 +488,7 @@ authloginverify.center
 authorized-secure-login.info
 authpaymentupdate-securecontactverify.banyulangits.com
 auth-paypal.com.x192073987x126873x6178263x6.gmastc.com
+auth.secure.signin.unusual-activityaccount.com
 authservice-appleid.serveirc.com
 authverifappleappstoresupport.com
 auth-verif-appleid-support.info
@@ -518,6 +524,7 @@ awards.netflix.staging.realpie.com
 azureoutlookoffice365accountmaintenance.megatemplates.com.br
 backend.happy-service.ml
 background-check-service-for-employers.science
+badapple.colorexpert.com.my
 bankofamerica.005us.eyclienthubx.com
 bankofamerica24h-about.ambrosiagrp.com
 bankofamerica48h.online.retrob.cl
@@ -1507,6 +1514,7 @@ myaccount.gmail-com.dranaxy.com
 myaccount.google.com.signup.guvenlik.tk
 my.account.help.paypal.abkjewelry.pk
 myaccountinfologined.co.uk
+myaccountlogin.info
 myaccount.rswhostingservices.be
 myaccount.secure2.store.appleid.apple.verify-info.info
 myaccount.secure.bankofamerica.com.cestabasicadf.com.br
@@ -1633,6 +1641,7 @@ pavpal-loginwebappsaccesstoyouraccount.com
 payapal.com.webapps-home.mpp.rslove-locked.com
 paycomemployeelogin.info
 payment-billing-security.ga
+payment-loginapple.3utilities.com
 payment-receipt-check-resolve-service-itunes.com
 payment-service-account-store-icloud.hadafholidays.com
 payment-service.icloud.daniacantik.com
@@ -1815,6 +1824,7 @@ paypal.wahyuesgroup.id
 paypal-webapps.atcphpt.email
 paypal.webapps.sagarsolanki.ml
 paypal.webservicess.org
+paypal.webshaper.com.my
 paypal.xenudo.com
 paypal.z6creation.net
 paypa.refundsecurity.update.milregalitos.com
@@ -2327,6 +2337,7 @@ updatecenterintlpaypalinfo.bharatparishad.com
 update.center.paypall.hakanyorganci.com
 updated-appleidacc.myvnc.com
 updated-information-appleid-manage-id087870099542.never-surrender.business
+updated-informations-id099767633.efile-apple.tk
 updateforbtockpalm.com.br
 update-id-ay8bi6q1o5-account-supporte.ga
 update-informationmanage-account-confirmationcenter-access.com
@@ -2363,6 +2374,7 @@ up.inf.verif.login.plumberbalgowlah.com.au
 usaa.com.int-login.esbtmanagement.com.au
 user-account.service.caring-skywalker.qa.noths.com
 useralertcenter.review
+usercentersecurity.review
 usercentersecurity.win
 user-logined.online
 user-management-auth-labs.tools.tax.service.gov.uk
@@ -2904,6 +2916,8 @@ www.account-servicecontact.co.uk
 www.account-service-contact.org
 www.account.service.rketech.com
 www.account-servicesinfo.xyz
+www.accounts.login.ymail.webdeb.com
+www.accounts-problem.tk
 www.accounts.ramitsupport.com
 www.accounts-secure-pages.com
 www.account-suport.online
@@ -3008,6 +3022,7 @@ www.appleid-apple-secureverify.com
 www.appleid-apple-support-update.com.serra-do-geres.com
 www.appleid-apple-support-update.com.sokkaya2019.net
 www.appleid-apple-support-update.com.standarmotor23.com
+www.appleid.apple.ukv.me
 www.appleid-apple-verify-accountsecure-locked.com
 www.appleid-cancelpayment-authapps.com
 www.appleid-cancelpayment-authservice.com
@@ -3156,6 +3171,7 @@ www.authverifappleappstoresupport.com
 www.auth-verif-appleid-support.info
 www.auth-verification-needed-login.com
 www.azureoutlookoffice365accountmaintenance.megatemplates.com.br
+www.badapple.colorexpert.com.my
 www.bankofamerica24h-about.ambrosiagrp.com
 www.bankofamerica48h.online.retrob.cl
 www.bankofamerica.aktekelektromekanik.com
@@ -3556,6 +3572,7 @@ www.my-account.ap-signing.info
 www.myaccountds.secureds2.appleid-apple.donotreplymail234133.com
 www.my.account.help.paypal.abkjewelry.pk
 www.myaccountinfologined.co.uk
+www.myaccountlogin.info
 www.myaccount.secure2.store.appleid.apple.verify-info.info
 www.myaccount.secure.bankofamerica.com.cestabasicadf.com.br
 www.myaccount-webbaps-updates-security-information.paiyapapal.com
