@@ -212,6 +212,7 @@ applecom-verifyinfo.servehttp.com
 apple-confirmation-locked.usa.cc
 appleconnect.auth-en.us
 apple.customerservice-support.com
+applecustomerssupport.com
 appledf9kjdnj3c1.com.selfsigned.tk
 appleeid-apple.ulumkorganizationaldevelopment.com
 apple-error-alert.tk
@@ -319,6 +320,8 @@ appleidkey.servicez-paypa.com
 apple.id-login.com
 appleid.login-support.us
 appleid-logon.apple-log.com.verifiyinhg-a-securityf.info
+appleid-logonapp.servehttp.com
+appleid-logon.serveirc.com
 appleidmailsuspecious.me
 appleid-mailvalidation.tuyulbangor.com
 appleid.manage.com.signin.report
@@ -326,6 +329,7 @@ apple.idmsa.auth.corp.group.com.login.victorycollection.co.id
 apple.idmsa.istweb.auth.galerimotor.com
 appleid-myaccount.ddns.net
 appleid-notif.serveirc.com
+appleid-paymentapps-authservices.com
 appleid-paymentid.serveirc.com
 appleid.php-bz765.com
 appleid-puschase782.serveirc.com
@@ -507,6 +511,7 @@ authloginverify.center
 authorized-secure-login.info
 authpaymentupdate-securecontactverify.banyulangits.com
 auth-paypal.com.x192073987x126873x6178263x6.gmastc.com
+authsecure-appleid.serveirc.com
 auth.secure.signin.unusual-activityaccount.com
 authservice-appleid.serveirc.com
 authverifappleappstoresupport.com
@@ -568,6 +573,7 @@ bbt-login-my-account.com
 bdo.com.ph.security.verification.login.webfocus.com.ph
 bestbrowser-updates.cf
 bestsupportforgermans6.win
+bestsupportforgermans7.win
 best-support-team-for-computer.xyz
 besttvshowsonnetflix.marketingblueprint.com.au
 beta.ru.apple-pay.pg.int.ridero.eu
@@ -906,6 +912,7 @@ customer-support-team.autboxclothing.business
 customer-support-team.joycedyaservice.net
 customer-support-team.serviceprovidercare.net
 customersupport.win
+customer.testdomainforaroha.online
 customerwebservice.ga
 dankai-supporth.cf
 database-updates.tk
@@ -996,6 +1003,7 @@ fb-recovery-account61-dk.ga
 fb-recovery-account62-dk.ga
 fb-recovery-account63-dk.ga
 fbsupportcommunityxerhelp.ga
+feature-4858-paypal.ooprint.mbiz.io
 filmnetflix.ml
 findasupportworker.com.au.bronwynorsatti.xyz
 find-my-facebook-page-id.evirnet.com.ar
@@ -1055,6 +1063,7 @@ homeidapps.appleidsuports.customereserviceconfirmasion.com
 homepage-accounting-service-form.tk
 homepage-applestore-servicesubscription.ga
 homepage-applestore-servicesubscription.tk
+hostpaypalchl772.3utilities.com
 hotmailaccounthelp.com
 hotmailcom.org.mx
 hotmailcorreo.com.co
@@ -1185,6 +1194,7 @@ instagramsecurity.gq
 instagramserviceaccount.usa.cc
 instagramservice.mail-services.site
 instagramsupportverified.com
+instagramverification.com.ongkey.com
 instagramverificationservice.usa.cc
 instagramverified.tambahpengikutmu.com
 instagramverif.serveirc.com
@@ -1223,6 +1233,7 @@ java-online-job-supports-from-india.it-brains.in
 jenkins-pipeline.bsg-account-service.intern.test.sda-se.com
 jonaspaypal.lima-city.de
 jp-mailappleid.serveirc.com
+jualpaypal.pulsalistrik.com
 klkingaccountants.rotherham-it-support.co.uk
 ktslogin.crmsupport.xyz
 lakeidaapplefarm.johnscomputer.biz
@@ -1560,6 +1571,7 @@ manage-paymentverifyc.org
 manage-purchaseapp-store.authorized-secure-login.info
 manage-purchase.order-confirmation.confirmation-comagentapp.com
 manage-purchase.order-confirmation.confirmation-comagentid.com
+manage-service-apple-appleid.com
 manage-subscription.order-confirmation.comuserserviceo.com
 mapsconnect.apple.auth-en.us
 mcrosoft-support-helplines.tk
@@ -1698,6 +1710,8 @@ office365.com.login.support.kidstoadopt.com
 office365verificationtest.ml
 ofkdossfk-login.cf
 onedrive-com-login-request-to-view-document.finki.icu
+onedrive-com-login-user-request-to-view-document.fient.icu
+onedrivelive-com-login-toview-access-document.fient.icu
 onlineaccountlogin.allelecreview.com
 online-american-express-verify-account-online.medandankuriousa.com
 onlinebanking.tsb.co.ukpersonallogonupdate.bwagency.com.mx
@@ -2041,6 +2055,7 @@ secure88764t.storex3475x.appille.com.trustlock-appreviews.info
 secure-access-of-financial-services-online-now.com
 secure-access-to-your-personal-checking.info
 secureaccess.websappleservicecenter.com
+secureaccount-apple.myvnc.com
 secure-account.nutristoresuplementos.com.br
 secure.account.paypal.sivakasi.co.uk
 secure-account.radiointegral.cl
@@ -2114,6 +2129,7 @@ secure-verifyinformations-account.com
 secure-verifyonline-appleid.cf
 secure-verifyonline-appleid.ga
 secure-verifyonline-appleid.tk
+secure-verifyupdate.serveirc.com
 secure-verify.xyz
 securewebapps.unlockappservice-center.com
 secure.weblogin-manage.privacy.account.comlogins.cf
@@ -2184,6 +2200,7 @@ servicelogin.online
 service-manage-unlocked-account.com
 service-paypal-account-webapps-problem.pbonline.net
 service-paypal.com.govtitivitla.com
+service-paypal-recovery.com
 service.paypol.co
 service.paypol.topeventvendors.com
 services-apllded.confirmation-login1.cgibin2.gegetulo.com
@@ -2207,6 +2224,7 @@ sharepoint.EMEA.microsoftonline.com.clotero.airwatchvmware.shnpoc.net
 sharepoint.EMEA.microsoftonline.com.office.skyhigh4898.skyhigh4898.shnpoc.net
 sharepoint.microsoftonline.com.office.skyhigh4898.skyhigh4898.shnpoc.net
 shopallthingsapples.co.za.allthingsapples.co.za
+shop.applebyscheese.co.uk.dwheatley-pk76gra-45kvkqx5he5dm.eu.platform.sh
 sicher-kunde-verify.ga
 sign-accountlocked-appleid.com-lwlsls02023.com
 sign.appleid.ifoergot-client-auth01643.com
@@ -2427,6 +2445,8 @@ twitter.niagaron.com.ve
 twitter.omerevren.com.tr
 twittersecure-verification.club
 twitter.web-service4u.de
+uappleid.com
+uat-login-screen-update.web-fr-front-19.boursorama.com
 ucfaa3e042a490c25503cd6456d5.dl.dropboxusercontent.com.eu.cas.ms
 uk-com-index-managered-verify-purchases-account.usa.cc
 unauthurized-accesinformation-com.gygabyteciumt.email
@@ -2497,7 +2517,17 @@ updateyourinformationaccountppl.sarix.com
 update-your-information.com.gosecurity.is
 update-your-information-locked.tk
 up.inf.verif.login.plumberbalgowlah.com.au
+us001.instagramverification.com.ongkey.com
+us002.instagramverification.com.ongkey.com
+us003.instagramverification.com.ongkey.com
+us01.instagramverification.com.ongkey.com
+us02.instagramverification.com.ongkey.com
+us03.instagramverification.com.ongkey.com
+us04.instagramverification.com.ongkey.com
+us05.instagramverification.com.ongkey.com
+us06.instagramverification.com.ongkey.com
 usaa.com.int-login.esbtmanagement.com.au
+usbrowser-updates.cf
 user-account.service.caring-skywalker.qa.noths.com
 useralertcenter.review
 usercentersecurity.review
@@ -2552,6 +2582,7 @@ verifiyinhg-a-securityf.info
 verif.service.paypol.topeventvendors.com
 verify9-youfanpaqes.ml
 verifyaccount00.tk
+verify-accountappsid.com
 verifyaccount-com.myvnc.com
 verify-accountid-gertifritrations23.com
 verify-account-information.kombatpol.com
@@ -3034,6 +3065,11 @@ winsupportshelp32.club
 winsupportshelp402.club
 wvw-app1eid-appel-com-verif-acc-help-support.usa.cc
 wvw.apple.appleid.com-keyid762hjb.tapipernahkemedan.com
+ww1.instagramverification.com.ongkey.com
+ww2.instagramverification.com.ongkey.com
+ww3.instagramverification.com.ongkey.com
+ww4.instagramverification.com.ongkey.com
+ww5.instagramverification.com.ongkey.com
 www.05272016-applebees.oxfordplainsdragway.info
 www.0nlinebanking1verification1b0fasecure-com.cf
 www.1.applerd.cf
@@ -3237,6 +3273,7 @@ www.appleid-mailvalidation.tuyulbangor.com
 www.appleid.manage.com.signin.report
 www.apple.idmsa.istweb.auth.galerimotor.com
 www.appleid-notif.serveirc.com
+www.appleid-paymentapps-authservices.com
 www.appleid-safe.tk
 www.appleidservice.centeredhgai.com
 www.appleidservice.ddnsking.com
@@ -3458,6 +3495,7 @@ www.customer-service-issue-payment.gq.inacofood.com
 www.customerservice.skoolpay.com.ng
 www.customerservice-support.com
 www.customersupporthelpline.in
+www.customer.testdomainforaroha.online
 www.data-information-security.eu
 www.dataupdateservice-secure.com
 www.dataupdateservice-secure.net
@@ -3654,6 +3692,7 @@ www.instagram.ostech.store
 www.instagramserviceaccount.usa.cc
 www.instagramservice.mail-services.site
 www.instagramupdates.tk
+www.instagramverification.com.ongkey.com
 www.instagramverificationservice.usa.cc
 www.instagramverified.tambahpengikutmu.com
 www.instagramverif.serveirc.com
@@ -3675,6 +3714,7 @@ www.iverify.mobileio.ga
 www.java-online-job-supports-from-india.it-brains.in
 www.jonaspaypal.lima-city.de
 www.jp-mailappleid.serveirc.com
+www.jualpaypal.pulsalistrik.com
 www.klkingaccountants.rotherham-it-support.co.uk
 www.ktslogin.crmsupport.xyz
 www.lakeidaapplefarm.johnscomputer.biz
@@ -3844,6 +3884,8 @@ www.offerfortomorrow.club.autotradingsupport.online
 www.office365.com.login.support.kidstoadopt.com
 www.office365verificationtest.ml
 www.onedrive-com-login-request-to-view-document.finki.icu
+www.onedrive-com-login-user-request-to-view-document.fient.icu
+www.onedrivelive-com-login-toview-access-document.fient.icu
 www.onlineaccountlogin.allelecreview.com
 www.online-american-express-verify-account-online.medandankuriousa.com
 www.onlinebanking.tsb.co.ukpersonallogonupdate.bwagency.com.mx
@@ -4286,6 +4328,7 @@ www.twitter.itsupportpros.com
 www.twitter.niagaron.com.ve
 www.twitter.omerevren.com.tr
 www.twittersecure-verification.club
+www.uappleid.com
 www.uk-com-index-managered-verify-purchases-account.usa.cc
 www.unlock.data.safe.your.account.verifying-step.tk
 www.unlock.data.safe.your.account.verifying-updates.tk
@@ -4335,6 +4378,15 @@ www.updateyourinformationaccountppl.sarix.com
 www.update-your-information.com.gosecurity.is
 www.update-your-information-locked.tk
 www.up.inf.verif.login.plumberbalgowlah.com.au
+www.us001.instagramverification.com.ongkey.com
+www.us002.instagramverification.com.ongkey.com
+www.us003.instagramverification.com.ongkey.com
+www.us01.instagramverification.com.ongkey.com
+www.us02.instagramverification.com.ongkey.com
+www.us03.instagramverification.com.ongkey.com
+www.us04.instagramverification.com.ongkey.com
+www.us05.instagramverification.com.ongkey.com
+www.us06.instagramverification.com.ongkey.com
 www.usaa.com.int-login.esbtmanagement.com.au
 www.user-logined.online
 www.utilisateur-verification-785.cf
@@ -4415,6 +4467,11 @@ www.webapps-secure-login-verifyidentity.net
 www.webapps.secure.update.account.sayamantangfecesim.com
 www.westshorebayclubcatering.markalpinecustomercenter.com
 www.westshorebayclubwci.markalpinecustomercenter.com
+www.ww1.instagramverification.com.ongkey.com
+www.ww2.instagramverification.com.ongkey.com
+www.ww3.instagramverification.com.ongkey.com
+www.ww4.instagramverification.com.ongkey.com
+www.ww5.instagramverification.com.ongkey.com
 www.www1.identity-verification.bmomobile.ca.personal.elnegro.com.br
 www.www2.chase.com.companyhoou.ml
 www.www6.rbc.com.webapp.ukv0.signin.logon.xhtml.appstore.aw
@@ -4443,6 +4500,10 @@ www.yahoo.com.frennul.club
 www.yahoo.customerservice-support.com
 www.yahoo-update.globeedconsultancy.com
 www.yourdealconnect.com.autotradingsupport.online
+www.zmta.trt1.jus.br.accountupdate.verification.whakataneafc.co.nz
+www.zwm.instagramverification.com.ongkey.com
+www.zww.instagramverification.com.ongkey.com
+www.zwww.instagramverification.com.ongkey.com
 xn--com-0v1e9i.apple.audio.driver.app
 xn--netflix-9y6kz98yokvczrb.xyz
 xn--paypa-o7a.services
@@ -4457,4 +4518,8 @@ yahoo-update.globeedconsultancy.com
 ynetflixmedia.cf
 yourdealconnect.com.autotradingsupport.online
 your-savings-accounts-now.rocks
+zmta.trt1.jus.br.accountupdate.verification.whakataneafc.co.nz
 zsecurehelpersqu.win
+zwm.instagramverification.com.ongkey.com
+zww.instagramverification.com.ongkey.com
+zwww.instagramverification.com.ongkey.com
