@@ -176,6 +176,7 @@ appie.id.supportaccount.problem.kombeklaamerica.com
 appie.id.supportaccount.problem.kombeklaceo.com
 appie.submited.com.purchase-notification.tk
 appie-supports-customerservices-accountsid7392.com
+appl.com-id.service.service.manager-update-full-access-now-secure.fast-manager-id.zebinabi.46848789799.viziteazateiusul.ro
 apple-account-frozen-20.tk
 apple-account-review-1.ml
 apple-account-review.gq
@@ -837,6 +838,7 @@ cpanel.verifyaccount00.tk
 cpanel.verifyaccount-com.myvnc.com
 cpanel.verifying-step.tk
 cpanel.verify-my-account.net
+cpanel.verifynow.xyz
 cpanel.verifyoffice.ga
 cpanel.verifyonline.ga
 cpanel.verify-securemail.com
@@ -844,6 +846,7 @@ cpanel.verifystore57.gq
 cpanel.vodafone-secureloginclient.company
 cpcalendars.security-update-invoice-4ppl31d.oftacenter.lentile-contact.eu
 crearcuentahotmail.com.mx
+createappleid.cf
 c-support.datacenter.xyz
 ctmed.secureserviceit.com.br
 cuentahotmail.com.mx
@@ -881,6 +884,7 @@ database-updates.tk
 data-information-security.eu
 data-security.ml
 dataupdateservice-secure.com
+dataupdateservice-secure.net
 datingverify.cf
 dbsw-login.test.service.deutschebahn.com
 de-9ddqxnrllfgzbffz-verifcheckhtml-verifiedrequest.ml
@@ -926,6 +930,7 @@ eb-uk-information-service.uk
 educate-supported.ml
 effect-prior-web-service.review
 electroluxproduct.customersupport24x7.in
+electronicpaymentus.merchant-account-services-provider.com
 electronicsystemsupport.ml
 e-mail-accounts-bots.tk
 email-verification.xyz
@@ -968,6 +973,7 @@ forgotpasswordsupportid-s.gq
 forgotpasswordsupportsid.ml
 freenetflixaccs.handyladen24.net
 fsecure-sslsecurity.win
+full-ppl-account-service.telhue.cl
 gamesverifyaccount023.com
 geek-squad-apple.support
 get-best-copywriting-service.review
@@ -1028,6 +1034,7 @@ hotmailloginguides.com
 hotmaillogininiciarsesion.com
 hotmail.loginsignin.org
 hotmailloginsupport.org
+hotmail.logins.xyz
 hotmaillogin.tips
 hotmailoutlooklogin.net
 hotmailprotec.online
@@ -1069,6 +1076,7 @@ icloud.com.iinfo.cf
 icloud.com.i-login.live
 icloud.com.ios-sign.in
 icloud.com.locates.support
+icloud.com.login-br.site
 icloud.com.login-en.info
 icloud.com-logins.live
 icloud.com.login-us.site
@@ -1085,6 +1093,7 @@ icloud.com-sv.xyz
 icloud.com.verify-apple.us
 icloud.com.viewmaps.review
 icloud.isupport.care
+icloud.login-br.site
 icloud-login.in
 icloudlogin.wiki
 icloud-pending-lostmode.ml
@@ -1225,6 +1234,7 @@ login.myaccount.intl.appsyou.ns8shi12y9.kilojobe.com
 login.myups.support
 login.ndtweb.cf
 login.netflix-index.com
+login.outlooks.updates.tanzifesfahan.ir
 login.paypal.com.4m.net
 login.paypal.com.ppal-lmted-hlpdesk.com
 login.paypal.com.secure4info-resulotioncenter.com
@@ -1458,6 +1468,7 @@ mail.verifyaccount00.tk
 mail.verifyaccount-com.myvnc.com
 mail.verifying-step.tk
 mail.verify-my-account.net
+mail.verifynow.xyz
 mail.verifyoffice.ga
 mail.verifyonline.ga
 mail.verify-securemail.com
@@ -1736,6 +1747,7 @@ paypal.deprog.jp
 paypal-developer-accounts.marmorariastones.com.br
 paypal.dev.penepo-connect.com
 paypal-disabled.servehttp.com
+paypal.ebalco.com
 paypal.ecofitt.ca
 paypal.fedco.com.gh
 paypalfriendsclub.art-online-rd.com
@@ -1838,6 +1850,7 @@ paypal-update.misteriodaessencia.com.br
 paypal-update-your-account-information-email.nitevibezradio.com
 paypal-v7snc3y-6ra7hrumnpuw2.us.magentosite.cloud
 paypalverificationzone.cinemayana.com
+paypalverifier.playlivemobilegames.com
 paypal-verify.hopto.org
 paypal.wahyuesgroup.id
 paypal-webapps.atcphpt.email
@@ -2224,6 +2237,7 @@ support.appleid-unlock.apple.idapp-professional.info
 support.appleid-unlock.apple.idapp-provider.info
 support.apple-id.verify-indenty.com
 supportapple-locked.com
+support.apple.login-br.site
 support.apple.notice.locked.verify.appserviceid14.com
 support.apple.service-authenticated-receipt-support.com
 support.apple.service.auth.subscription.seriessteelintl.com
@@ -2281,6 +2295,7 @@ support.secure2ids.account.updates.info.restoremyphone.info
 support-secure-center.cidadegospel.com.br
 support-securityalert.com
 supportservice.com.ar
+support-service-customer.plateforme.mapsli.ca
 support-serviceofconfirminformation.com
 supportservice.payement-out-service.gadgets91.com
 support-services-logins.guss.tbthosting.com
@@ -2341,6 +2356,7 @@ unsualaktifity-youaccountsecured.ml
 update-acc.netflix.com.estilonutre.com.br
 update-accountapple.serveirc.com
 update-account-info.com-important-notification-com-update-login-help-account-id.infisport.com
+updateaccountinfo.radionovaera.com.br
 update-account-information.com.health.gov.ly
 update-account-information.kemaliturizm.com
 update-account-information.service-flava.co
@@ -2479,10 +2495,12 @@ verifyloginappcoc.servehttp.com
 verify-login-paypal-com.tk
 verify-my-account.net
 verify-now.autofair.co.tz
+verifynow.xyz
 verifyoffice.ga
 verifyonline.ga
 verify.payment.method.netflx.update.enallaktikoradio.com
 verifyreado.gq
+verifysecurely.website
 verify-securemail.com
 verifysecurenet.com
 verify.secure-payment-online.com
@@ -2679,6 +2697,7 @@ webdisk.verifyaccount00.tk
 webdisk.verifyaccount-com.myvnc.com
 webdisk.verifying-step.tk
 webdisk.verify-my-account.net
+webdisk.verifynow.xyz
 webdisk.verifyoffice.ga
 webdisk.verifyonline.ga
 webdisk.verify-securemail.com
@@ -2854,6 +2873,7 @@ webmail.verifyaccount00.tk
 webmail.verifyaccount-com.myvnc.com
 webmail.verifying-step.tk
 webmail.verify-my-account.net
+webmail.verifynow.xyz
 webmail.verifyoffice.ga
 webmail.verify-securemail.com
 webmail.verifystore57.gq
@@ -3312,6 +3332,7 @@ www.customerservice-support.com
 www.customersupporthelpline.in
 www.data-information-security.eu
 www.dataupdateservice-secure.com
+www.dataupdateservice-secure.net
 www.dealerportal.autotrader.accountverify.roberthlaessig.com
 www.deleteappleid.allelecreview.com
 www.demoaccount.jobmanagement.online
@@ -3339,6 +3360,7 @@ www.ebay.stock-store.site
 www.ebuk-customer-service.uk
 www.eb-uk-information-service.uk
 www.electroluxproduct.customersupport24x7.in
+www.electronicpaymentus.merchant-account-services-provider.com
 www.electronicsystemsupport.ml
 www.en.appleid.service87087068740.knth0l.com
 www.enroll-wfb-security-update.online
@@ -3370,6 +3392,7 @@ www.find-my-facebook-page-id.evirnet.com.ar
 www.findmyiphone-apple.support
 www.forgotpasswordsupportid-s.gq
 www.freenetflixaccs.handyladen24.net
+www.full-ppl-account-service.telhue.cl
 www.gamesverifyaccount023.com
 www.getmail-supportapple.info
 www.giftappleinc.ml
@@ -3436,6 +3459,7 @@ www.icloud.com.iinfo.cf
 www.icloud.com.i-login.live
 www.icloud.com.ios-sign.in
 www.icloud.com.locates.support
+www.icloud.com.login-br.site
 www.icloud.com.login-en.info
 www.icloud.com-logins.live
 www.icloud.com.login-us.site
@@ -3449,6 +3473,7 @@ www.icloud.com-support.us
 www.icloud.com-sv.xyz
 www.icloud.com.verify-apple.us
 www.icloud.isupport.care
+www.icloud.login-br.site
 www.icloud-login.in
 www.icloudlogin.wiki
 www.icloud-pending-lostmode.ml
@@ -3547,6 +3572,7 @@ www.login.mailyaho.updates.accounts.enterpricemarkingprogramming.tk
 www.login.microsoftonline.csirt-emi.com
 www.login.microsoftonline.wetrasfers.com
 www.login.myups.support
+www.login.outlooks.updates.tanzifesfahan.ir
 www.login.paypal.com.4m.net
 www.login-paypal.lazaweb.net
 www.login-paypal.paypal.lazaweb.net
@@ -3696,8 +3722,10 @@ www.pavypal.accountcenterhelpresolutioncenter.com
 www.pavypal.com-disputeresolution.me
 www.pavypal.com-intlresolution.me
 www.pavypal.com-resolutiondispute.me
+www.pavypal.com.webapps-disputecenteridactive.services
 www.pavypal.com.webapps-disputecenterid.site
 www.pavypal.com.webapps-disputeprivacyprotection.me
+www.pavypal.com.webapps-disputeprivacyprotection.site
 www.pavypal.updateeinformatioresolutioncenteer.com
 www.payapal.com.webapps-home.mpp.rslove-locked.com
 www.paycomemployeelogin.info
@@ -3766,6 +3794,7 @@ www.paypal.darmahousevilla.com
 www.paypal.dashboardstream.com
 www.paypal.de-sicherheitscenter-970488513694166-2-vkjs2.ru
 www.paypal-developer-accounts.marmorariastones.com.br
+www.paypal.ebalco.com
 www.paypal.ecofitt.ca
 www.paypal.fedco.com.gh
 www.paypalfriendsclub.art-online-rd.com
@@ -3853,6 +3882,7 @@ www.paypal-update.jogo.lusocarbono.pt
 www.paypal-update.misteriodaessencia.com.br
 www.paypal-update-your-account-information-email.nitevibezradio.com
 www.paypalverificationzone.cinemayana.com
+www.paypalverifier.playlivemobilegames.com
 www.paypal-verify.hopto.org
 www.paypal.wahyuesgroup.id
 www.paypal-webapps.atcphpt.email
@@ -4041,6 +4071,7 @@ www.support.appleid-unlock.apple.idapp-operator.info
 www.support.appleid-unlock.apple.idapp-professional.info
 www.support.appleid-unlock.apple.idapp-provider.info
 www.supportapple-locked.com
+www.support.apple.login-br.site
 www.support.apple.manage-ht862365.com
 www.supportapple.us
 www.support.check-account.motorent.nl
@@ -4066,6 +4097,7 @@ www.support.secure2ids.account.updates.info.restoremyphone.info
 www.support-secure-center.cidadegospel.com.br
 www.support-securityalert.com
 www.supportservice.com.ar
+www.support-service-customer.plateforme.mapsli.ca
 www.support-serviceofconfirminformation.com
 www.supportservice.payement-out-service.gadgets91.com
 www.support-services-logins.guss.tbthosting.com
@@ -4104,6 +4136,7 @@ www.unsualaktifity-youaccountsecured.ml
 www.update-acc.netflix.com.estilonutre.com.br
 www.update-accountapple.serveirc.com
 www.update-account-info.com-important-notification-com-update-login-help-account-id.infisport.com
+www.updateaccountinfo.radionovaera.com.br
 www.update-account-information.com.health.gov.ly
 www.update-account-information.kemaliturizm.com
 www.update-account-information.service-flava.co
@@ -4193,9 +4226,11 @@ www.verifyingsystem.ml
 www.verify-login-paypal-com.tk
 www.verify-my-account.net
 www.verify-now.autofair.co.tz
+www.verifynow.xyz
 www.verifyoffice.ga
 www.verifyonline.ga
 www.verify.payment.method.netflx.update.enallaktikoradio.com
+www.verifysecurely.website
 www.verify-securemail.com
 www.verifysecurenet.com
 www.verify-servicesupport.com
