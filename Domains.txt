@@ -94,6 +94,7 @@ accounts.google.com.https-com.tk
 accounts.google.com.signup.guvenlik.tk
 accounts.google.com.signup-reply.cf
 accounts.google.com.signup.verification.gq
+accounts.google.com.sslsecure-verifyid.tk
 accounts.google.com.verification-accountloginid.ga
 accounts.google.com.verifyaccount-id.ga
 accounts-googlsecure.us
@@ -633,6 +634,7 @@ autodiscover.myaccountpaypal.5gbfree.com
 autodiscover.outlookcustomer-support.com
 autodiscover.outlookhelp.support
 autodiscover.paycomemployeelogin.info
+autodiscover.paypal-security-center.ml
 autodiscover.securemyaccount.info
 autodiscover.service-jsgdkg-login.com
 autodiscover.service-jsgdkg-login.info
@@ -658,6 +660,7 @@ bankofamerica.com.slingplates.com
 bankofamerica.com.softxen.com
 bankofamerica.com.sys.login.in.update.info.pass.2016.hkzing.com
 bankofamerica.com-technical-support-centre-account-verification-update.divamakeover.in
+bankofamerica.com-update.information.shoppingdime.com
 bankofamerica.gskworld.com
 bankofamerica.gustiramedia.id
 bankofamerica.medentic.cl
@@ -969,6 +972,7 @@ cpanel.paypal-account-info.com
 cpanel.paypal-account-verification.usa.cc
 cpanel.paypall.com.ng
 cpanel.paypal.runxe.xyz
+cpanel.paypal-security-center.ml
 cpanel.paypal-verify.hopto.org
 cpanel.personas-login-bancochile-web-cl.ga
 cpanel.peypal.valid-partner-support.ml
@@ -1023,6 +1027,7 @@ cpanel.verification-accountth.com
 cpanel.verification-amazon.serveirc.com
 cpanel.verificationsecure.ga
 cpanel.verificationx.cf
+cpanel.verificationzone.online
 cpanel.verifiyinhg-a-securityf.info
 cpanel.verifyaccount00.tk
 cpanel.verifyaccount-com.myvnc.com
@@ -1110,6 +1115,7 @@ docs.service-mail-login.com
 docusign.com.login.viewfile.security.finbrick.com
 doordashcomcustomervhf.ml
 dropbox.andrepadua.com.br
+dropbox.com.login.ocean14corp.com
 dropbox.com.login.tubookpro.cl
 dropbox.com-secure-sign-inconnect-document.com.vociferousmag.com
 dropbox.com.verify.mahoningvalleyems.org
@@ -1210,6 +1216,7 @@ gmailloginsupport.printer-support-number.net
 goliath-customer-support-form-web.staging.netcore.lv
 google-account-activiti.ankara-addict.ml
 google.com.signup.verification.gq
+google.com.sslsecure-verifyid.tk
 google.com.verification-accountloginid.ga
 google.com.verifyaccount-id.ga
 googleplaystorefreedownloadforappleipad.playapps.download
@@ -1222,6 +1229,7 @@ gvtt.cloudverification-update.com
 hdunlimited.securehost.ml
 help-account.site
 help.appleid.apple-account.support
+help-appleidapple.serveirc.com
 help-applemanage.servequake.com
 help-center-customer-service-case-id-1032.seemtechnosys.com
 help.instagram.com.ighelp.cf
@@ -1653,6 +1661,7 @@ mail.form-verify-0apple.website
 mail.giftappleinc.ml
 mail.gmailloginsupport.com
 mail.help-account.site
+mail.help-appleidapple.serveirc.com
 mail.help-applemanage.servequake.com
 mail.hotmailaccounthelp.com
 mail.hotmailiniciarsesion.com.co
@@ -1735,6 +1744,7 @@ mail.paypal-account-verification.usa.cc
 mail.paypal.dealsdepartment.com.au
 mail.paypall.com.ng
 mail.paypal.runxe.xyz
+mail.paypal-security-center.ml
 mail.paypalsupport.5gbfree.com
 mail.paypal.update.com.photostudiogt.com
 mail.paypal-verify.hopto.org
@@ -1807,6 +1817,7 @@ mail.verification-accountth.com
 mail.verification-amazon.serveirc.com
 mail.verificationsecure.ga
 mail.verificationx.cf
+mail.verificationzone.online
 mail.verifiyinhg-a-securityf.info
 mail.verifyaccount00.tk
 mail.verifyaccount-com.myvnc.com
@@ -2170,6 +2181,7 @@ paypal.inc.signin.sg-ap.ml
 paypal-info.alfamarslogistics.com
 paypalinfos.com.taodelseductorblog.com
 paypal.interglobaldomains.com
+paypal.intl.zidar-curin.hr
 paypal.jenlu.co.uk
 paypal.jimenaangelarte.com
 paypal.jobskee.com
@@ -2235,6 +2247,7 @@ paypal.secure-ssltrue.com
 paypal-securitt.prothermal.co.th
 paypalsecurity-automaticsystem-secure-server.jmlink.net
 paypal-security-center.com.christchapel.org.ng
+paypal-security-center.ml
 paypalsecurity.orangebd.com
 paypal-security.simonephotography.com.au
 paypalservice.hamitavsar.com
@@ -2661,6 +2674,7 @@ spitogatos.manage.account.purchaseorder.co.in
 spk-support-account.net
 spotify-account.ml
 ssl.google.com.signup.verification.gq
+ssl.google.com.sslsecure-verifyid.tk
 ssl.google.com.verification-accountloginid.ga
 ssl.google.com.verifyaccount-id.ga
 ssl-iforgetidappleidapple.fr.dadigitalpresent.mk
@@ -2760,6 +2774,7 @@ support.apple.service.subscribe.jamilah-aisyah.com
 support.apple.service.subscription32.bongkarkanlepi.com
 support.apple.service.svcsauthelts.com
 support.apple.subscription.notice.confirm.asvscsubsauth.com
+support.apple.subscription.service.auth.subsintloff.com
 support.apple.subscription.service.subsauthsvr.com
 support.apple.subscriptions.services142.subssvcs1.com
 support.apple.svcs.intl.subsoffer44.com
@@ -2970,6 +2985,7 @@ us04.instagramverification.com.ongkey.com
 us05.instagramverification.com.ongkey.com
 us06.instagramverification.com.ongkey.com
 usaa.com.int-login.esbtmanagement.com.au
+usaalogincreditcard.xyz
 usaa.onlinebanking.verification.foleyformwork.com.au
 usaa.verification.onlinebanking.foleyformwork.com.au
 usbrowser-updates.cf
@@ -3025,6 +3041,7 @@ verification.support.unlocked.kebucinanyg-haqiqi.com
 verificationupdate.ezhomz.in
 verification.update.support-unlocked.ga
 verificationx.cf
+verificationzone.online
 verificationzoominfo.gladysnort.xyz
 verified-accounts.com
 verifiedcentermyaccount-managementssecurityil.com
@@ -3281,6 +3298,7 @@ webdisk.paypal-account-info.com
 webdisk.paypal-account-verification.usa.cc
 webdisk.paypall.com.ng
 webdisk.paypal.runxe.xyz
+webdisk.paypal-security-center.ml
 webdisk.paypalsupport.5gbfree.com
 webdisk.paypal-verify.hopto.org
 webdisk.personas-login-bancochile-web-cl.ga
@@ -3336,6 +3354,7 @@ webdisk.verification-accountth.com
 webdisk.verification-amazon.serveirc.com
 webdisk.verificationsecure.ga
 webdisk.verificationx.cf
+webdisk.verificationzone.online
 webdisk.verifiyinhg-a-securityf.info
 webdisk.verifyaccount00.tk
 webdisk.verifyaccount-com.myvnc.com
@@ -3511,6 +3530,7 @@ webmail.paypal-account-info.com
 webmail.paypal-account-verification.usa.cc
 webmail.paypall.com.ng
 webmail.paypal.runxe.xyz
+webmail.paypal-security-center.ml
 webmail.paypalsupport.5gbfree.com
 webmail.paypal-verify.hopto.org
 webmail.personas-login-bancochile-web-cl.ga
@@ -3569,6 +3589,7 @@ webmail.verification-accountth.com
 webmail.verification-amazon.serveirc.com
 webmail.verificationsecure.ga
 webmail.verificationx.cf
+webmail.verificationzone.online
 webmail.verifiyinhg-a-securityf.info
 webmail.verifyaccount00.tk
 webmail.verifyaccount-com.myvnc.com
@@ -4008,6 +4029,7 @@ www.bankofamerica.com.slingplates.com
 www.bankofamerica.com.softxen.com
 www.bankofamerica.com.sys.login.in.update.info.pass.2016.hkzing.com
 www.bankofamerica.com-technical-support-centre-account-verification-update.divamakeover.in
+www.bankofamerica.com-update.information.shoppingdime.com
 www.bankofamerica.gskworld.com
 www.bankofamerica.gustiramedia.id
 www.bankofamerica.medentic.cl
@@ -4137,6 +4159,7 @@ www.device-apple.suportefmi-br.online
 www.disabilitysupportworkerstaxonline-com-au.accountantsplus.com.au
 www.docs.service-mail-login.com
 www.docusign.com.login.viewfile.security.finbrick.com
+www.dropbox.com.login.ocean14corp.com
 www.dropbox.com.login.tubookpro.cl
 www.dropbox.com-secure-sign-inconnect-document.com.vociferousmag.com
 www.dropbox.com.verify.mahoningvalleyems.org
@@ -4218,6 +4241,7 @@ www.gvtt.cloudverification-update.com
 www.hdunlimited.securehost.ml
 www.help-account.site
 www.help.appleid.apple-account.support
+www.help-appleidapple.serveirc.com
 www.help-applemanage.servequake.com
 www.help-center-customer-service-case-id-1032.seemtechnosys.com
 www.help.instagram.com.ighelp.cf
@@ -4333,6 +4357,7 @@ www.info-account-update-active-account.com
 www.infoapple.information.house
 www.information-accounts-locked.com
 www.informationcenter.infocentral.review
+www.informationofnepal.ml
 www.informationsupdatesaccounts.tk
 www.infotwitter.information.house
 www.info-update-account.com
@@ -4704,6 +4729,7 @@ www.paypal.inc.signin.sg-ap.ml
 www.paypal-info.alfamarslogistics.com
 www.paypalinfos.com.taodelseductorblog.com
 www.paypal.interglobaldomains.com
+www.paypal.intl.zidar-curin.hr
 www.paypal.jenlu.co.uk
 www.paypal.jimenaangelarte.com
 www.paypal.jobskee.com
@@ -4757,6 +4783,7 @@ www.paypal.secure-ssltrue.com
 www.paypal-securitt.prothermal.co.th
 www.paypalsecurity-automaticsystem-secure-server.jmlink.net
 www.paypal-security-center.com.christchapel.org.ng
+www.paypal-security-center.ml
 www.paypalsecurity.orangebd.com
 www.paypal-security.simonephotography.com.au
 www.paypalservice.hamitavsar.com
@@ -5197,6 +5224,7 @@ www.verificationsecure.ga
 www.verification-servicc-datacustomer-logining-securty-check.ml
 www.verificationupdate.ezhomz.in
 www.verificationx.cf
+www.verificationzone.online
 www.verificationzoominfo.gladysnort.xyz
 www.verified-accounts.com
 www.verifikasiaccountappstore1.com
