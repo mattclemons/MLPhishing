@@ -176,6 +176,7 @@ amazon.com.account.alert-code54497652.cf
 amazon.com.account.alert-code56426034.ga
 amazon.com.account.alert-code72665915.ml
 amazon.com.mathhub.win
+amazon.com-securityupdate-forworldcare1.moradav1.tech
 amazon.com-securityupdate-forworldcare.suppcoz.com
 amazon.com.service.login.php.mbkidz.com
 amazon.com-servicesaccount-activity39175.com
@@ -219,6 +220,7 @@ apple-account-verification.bacodefavores.com
 apple-account-verification.engeblind.com.br
 apple-account-verifications.grandezgraficos.com
 apple-action-activation.ml
+apple-activation-accounts.tk
 apple-alertupdate.servebeer.com
 applealertupdate.serveftp.com
 apple.appleid.com.buatkombacksaja-tolong.business
@@ -470,6 +472,7 @@ apple-login-support.mondetrem.com.br
 apple.login-support.us
 apple.lvivservice.com.ua
 applemanagepurchase.serveftp.com
+applemaniacos.applemaniacos.com.br
 apple.maps.com.sign-in.services
 applemixx.rac3.com.br
 apple-mobile-id.com.login-info-identity.com
@@ -736,6 +739,7 @@ chase-verify.com
 chase-world.ml
 checkout-verification-service.backupfree.xyz
 chevychase.galaxy-garage-door-service.com
+chronoposte-service-client.ml
 citizensbank.com-verify-now.gatewaypanel.be
 click.clientmailapple19238461834.suppalrt-intl.com
 client-service-information.burnabywebconsulting.ca
@@ -844,6 +848,7 @@ cpanel.apple-account-frozen-20.tk
 cpanel.apple-account-review-1.ml
 cpanel.apple-account-review.gq
 cpanel.apple-action-activation.ml
+cpanel.apple-activation-accounts.tk
 cpanel.appleappsaccount-updateaccount.com
 cpanel.apple-helpsecure.myvnc.com
 cpanel.apple-icloud.eu
@@ -1093,6 +1098,7 @@ customer-support-team.joycedyaservice.net
 customer-support-team.serviceprovidercare.net
 customersupport.win
 customer.testdomainforaroha.online
+customer-verification.eu
 customerwebservice.ga
 customerx.service-now.com.us.cas.ms
 dankai-supporth.cf
@@ -1110,6 +1116,7 @@ de-loading-online-signin-deutschland-de.accountant
 de-login-secure-gateway-32043249849020.de
 deltaglobalservices.account.box.com.eu2.cas.ms
 deltaglobalservices.account.box.com.eu.cas.ms
+deltaglobalservices.account.box.com.us3.cas.ms
 deltaglobalservices.account.box.com.us.cas.ms
 demoaccount.jobmanagement.online
 demodemosecure.login.crasman.fi
@@ -1599,6 +1606,7 @@ mail.apple-account-frozen-20.tk
 mail.apple-account-review-1.ml
 mail.apple-account-review.gq
 mail.apple-action-activation.ml
+mail.apple-activation-accounts.tk
 mail.appleappsaccount-updateaccount.com
 mail.apple-helpsecure.myvnc.com
 mail.apple-icloud.eu
@@ -2004,6 +2012,7 @@ netflix-norge.veneskey.com
 netflix-norway.mvoruow.tel.lv
 netflixnv.cbeperu.com
 netflixoffer.pokegotricks.com
+netflix.portalnegocioseempresas.com
 netflixproaccount.store
 netflix.production.realpie.com
 netflixpromotion.swayamshah.com
@@ -2458,6 +2467,7 @@ secure-apple.auth-verification-needed-login.com
 secure.appleid.account.login.lokykkntl.com
 secure.appleid.account.login.lokykkntl.net
 secure.appleid.account.login.lokykkntl.org
+secure.appleid.account.login.lonteafrika.net
 secure.appleid.apple.payment-informations-aproved.com
 secure.appleid-aspx.start-developer.business
 secure.appleid.com.bygtrfwq.com
@@ -2821,6 +2831,7 @@ support-careappleid.myvnc.com
 support.check-account.motorent.nl
 support.com-klik.review
 support.complete-online.co.za
+support-confirmation-account.mobstarz.com
 support-confirmation-help.tk
 supportcontacagencies.ml
 support-customer-security-info.xyz
@@ -2984,6 +2995,7 @@ update-your-accounte-information.smpn1randublatung.com
 update-your-account-information.almost3mal.com
 update-your-account-information.bernietargets.com
 update-your-account-information.burnabywebconsulting.ca
+update-your-account-information.mrc.mutual-resources.co.id
 update-your-account-information.streetthinker.com
 update.your.account.loveandcompassionofchrist.com
 update-your-account.mutual-resources.co.id
@@ -3044,6 +3056,7 @@ verificationaccount737.com
 verification.account-reminder.dancuk-v4.com
 verification-accountth.com
 verification-amazon.serveirc.com
+verification.appleaccounte.manage.support.itilelicin.com
 verificationappleappstoresupport.com
 verificationapps.store
 verification-as.cf
@@ -3193,6 +3206,7 @@ webdisk.apple-account-frozen-20.tk
 webdisk.apple-account-review-1.ml
 webdisk.apple-account-review.gq
 webdisk.apple-action-activation.ml
+webdisk.apple-activation-accounts.tk
 webdisk.appleappsaccount-updateaccount.com
 webdisk.apple-helpsecure.myvnc.com
 webdisk.apple-icloud.eu
@@ -3427,6 +3441,7 @@ webmail.apple-account-frozen-20.tk
 webmail.apple-account-review-1.ml
 webmail.apple-account-review.gq
 webmail.apple-action-activation.ml
+webmail.apple-activation-accounts.tk
 webmail.appleappsaccount-updateaccount.com
 webmail.apple-helpsecure.myvnc.com
 webmail.apple-icloud.eu
@@ -3796,6 +3811,7 @@ www.amazon.com.account.alert-code54497652.cf
 www.amazon.com.account.alert-code56426034.ga
 www.amazon.com.account.alert-code72665915.ml
 www.amazon.com.mathhub.win
+www.amazon.com-securityupdate-forworldcare1.moradav1.tech
 www.amazon.com-securityupdate-forworldcare.suppcoz.com
 www.amazon.com.service.login.php.mbkidz.com
 www.amazon.com-servicesaccount-activity39175.com
@@ -3826,6 +3842,7 @@ www.apple-account-verification.bacodefavores.com
 www.apple-account-verification.engeblind.com.br
 www.apple-account-verifications.grandezgraficos.com
 www.apple-action-activation.ml
+www.apple-activation-accounts.tk
 www.apple.appleid.com-sig.in
 www.apple-appleid.support.honkanenoy.fi
 www.appleappsaccount-updateaccount.com
@@ -3974,6 +3991,7 @@ www.apple-loginsupport.com
 www.applelogin-support.com
 www.apple-login-support.mondetrem.com.br
 www.apple.lvivservice.com.ua
+www.applemaniacos.applemaniacos.com.br
 www.apple.maps.com.sign-in.services
 www.applemixx.rac3.com.br
 www.apple-mobile-id.com.login-info-identity.com
@@ -5109,6 +5127,7 @@ www.support-careappleid.myvnc.com
 www.support.check-account.motorent.nl
 www.support.com-klik.review
 www.support.complete-online.co.za
+www.support-confirmation-account.mobstarz.com
 www.support-confirmation-help.tk
 www.support-disputeverificationid.info
 www.support-disputeverification.net
@@ -5209,6 +5228,7 @@ www.update-your-accounte-information.smpn1randublatung.com
 www.update-your-account-information.almost3mal.com
 www.update-your-account-information.bernietargets.com
 www.update-your-account-information.burnabywebconsulting.ca
+www.update-your-account-information.mrc.mutual-resources.co.id
 www.update-your-account-information.streetthinker.com
 www.update.your.account.loveandcompassionofchrist.com
 www.update-your-account.mutual-resources.co.id
@@ -5355,6 +5375,9 @@ www.www.www.www.www.customerx.service-now.com.us.cas.ms
 www.www.www.www.www.www.login.microsoft.com.eu.cas.ms
 www.www.www.www.www.www.login.microsoftonline-p.com.eu.cas.ms
 www.www.www.www.www.www.nexus.microsoftonline-p.com.eu.cas.ms
+www.www.www.www.www.www.www.www.www.www.www.www.www.www.login.microsoft.com.us3.cas.ms
+www.www.www.www.www.www.www.www.www.www.www.www.www.www.login.microsoftonline-p.com.us3.cas.ms
+www.www.www.www.www.www.www.www.www.www.www.www.www.www.nexus.microsoftonline-p.com.us3.cas.ms
 www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.box.com.rs2.cas.ms
 www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.google.com.rs2.cas.ms
 www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.salesforce.com.rs2.cas.ms
@@ -5373,8 +5396,11 @@ www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.
 www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.box.com.rs2.cas.ms
 www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.google.com.rs2.cas.ms
 www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.salesforce.com.rs2.cas.ms
+www.x01.instagramverification.com.ongkey.com
+www.x02.instagramverification.com.ongkey.com
 www.xn--netflix-9y6kz98yokvczrb.xyz
 www.xn--paypa-o7a.services
+www.xyz.instagramverification.com.ongkey.com
 www.yahoo-activity.accountins.site
 www.yahoo.box-security.com
 www.yahoo.com.frennul.club
@@ -5385,6 +5411,7 @@ www.yahoosecurity.cardiff.it
 www.yahoo-update.globeedconsultancy.com
 www.yourdealconnect.com.autotradingsupport.online
 www.your-service.online
+www.z001.instagramverification.com.ongkey.com
 www.z002.instagramverification.com.ongkey.com
 www.z003.instagramverification.com.ongkey.com
 www.z004.instagramverification.com.ongkey.com
@@ -5392,11 +5419,14 @@ www.zmta.trt1.jus.br.accountupdate.verification.whakataneafc.co.nz
 www.zwm.instagramverification.com.ongkey.com
 www.zww.instagramverification.com.ongkey.com
 www.zwww.instagramverification.com.ongkey.com
+x01.instagramverification.com.ongkey.com
+x02.instagramverification.com.ongkey.com
 xfinitypaybilllogin.xyz
 xn--com-0v1e9i.apple.audio.driver.app
 xn--netflix-9y6kz98yokvczrb.xyz
 xn--paypa-o7a.services
 xp-paypalserviceaccountcenter.com
+xyz.instagramverification.com.ongkey.com
 yahoo-activity.accountins.site
 yahoo.box-security.com
 yahoo.com1827658936.ml
@@ -5412,6 +5442,7 @@ ynetflixmedia.cf
 yourdealconnect.com.autotradingsupport.online
 your-savings-accounts-now.rocks
 your-service.online
+z001.instagramverification.com.ongkey.com
 z002.instagramverification.com.ongkey.com
 z003.instagramverification.com.ongkey.com
 z004.instagramverification.com.ongkey.com
