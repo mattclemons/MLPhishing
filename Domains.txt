@@ -10,6 +10,7 @@
 8-install-now-update-player-x1.ml
 aadcdn.microsoftonline-p.com.clotero.airwatchvmware.shnpoc.net
 aadcdn.microsoftonline-p.com.office.microsoft-o365.falabellapoc.shnpoc.net
+aadcdn.microsoftonline-p.com.us3.cas.ms
 aadhaarverification.online
 aa-hbbtv.brm-1112-twitter.mango-web-clients.mango.express
 abs.twitter.com.testwitter.club
@@ -132,6 +133,7 @@ account-support-update.com
 accountsupport-updatessl.us
 account-support.vigilantsecurityforce.com
 accounts-verify-871.com
+accounts.xn--ggl-tdd6ba.ga
 accounts.yoopay.com.br
 account-update.dadigitalpresent.mk
 account-update-information.datgaatnaardenboschtoe.com
@@ -241,6 +243,8 @@ apple.appleid-secure.com-service-management-userid-0129321.com
 apple-appleid.support.honkanenoy.fi
 appleappsaccount-updateaccount.com
 appleappstoreforandroidfreedownload.playapps.download
+apple.au-icloud.com
+apple.auth-id.in
 apple-br.support
 applebycapital.com.revision.show
 applecentre.recovery.uz
@@ -832,6 +836,7 @@ confirm-account.sulaintima.com.br
 confirm-acc-sign.in-help-security.com
 confirm-acc-sign.in-security-help.com
 confirm-all-your-information.vitalenutrition.com.pe
+confirmation-details.ml
 confirmation.paypal.com.vantaiducvinh.vn
 confirmationshortlyorder.ml
 confirmation-your-account-informations.almusatravel.com
@@ -1158,6 +1163,7 @@ datingverify.cf
 dbsw-login.test.service.deutschebahn.com
 de-9ddqxnrllfgzbffz-verifcheckhtml-verifiedrequest.ml
 dealerportal.autotrader.accountverify.roberthlaessig.com
+de-amazon-center-service-sicherheits-kunden.host
 deleteappleid.allelecreview.com
 de-loading-online-signin-deutschland-de.accountant
 de-login-secure-gateway-32043249849020.de
@@ -1170,6 +1176,7 @@ demoaccount.jobmanagement.online
 demodemosecure.login.crasman.fi
 demo-paypalnew.servebeer.com
 de-service-dialog.accountant
+details.information.center.security.service.yesgluten.com
 dev.appleiq.imposium.com
 develop.bsg-account-service.intern.test.sda-se.com
 device-apple.suportefmi-br.online
@@ -1278,6 +1285,7 @@ global.americanexpress.com-login.t-online.flu.cc
 global.americanexpressonlinesecurityservice.com.jalwa.com.pk
 globalfinancesupportcom.ga
 gmail-accounts.co
+gmailaccountsignin.gmaillogin.in
 gmail.com.loginsy.pl
 gmailhelpandsupport.adobesupportaustralia.com
 gmaillogins.online
@@ -1460,6 +1468,7 @@ informationcenter.infocentral.review
 informationonlinecommunities.tk
 informationsupdatesaccounts.tk
 information-to.account.peter2.rexzetsolutions.com
+info.team.help-account.support.id048127912391293127412792311930130.assetwebhosting.com
 infotwitter.information.house
 info-update-account.com
 instacustomersupport.tk
@@ -1540,6 +1549,7 @@ ldverifylocation.services
 lforgotapple-secure.serveirc.com
 limitation-compte-paypal.sciencevital.net
 limited-acount-information.impresoseldia.com.co
+limitedservice-paypal-managed.ga
 linked.account-access.idms-fail.id-apple.df39b10519cde944d38.com
 linkedin-login.service.sparkup.fr
 listmasterverify.online
@@ -1958,6 +1968,7 @@ manage.appleid.com.check-location.info
 manage-appleid-secure-auth.tk
 manage.appleid.unlocked.webs-mobileapps-secure.com
 manage.applelb.web0bject.saccountsummary.l3d3dy5hchbszs5jb2trl04.bintang-rinjani.com
+manageapplesupporteam.com
 manage.applesuscription.webpages-homesummary.eskansumed.com
 manage.applesuscription.webpages-homesummary.gucer.mx
 manage.apple.verificationacc.supportteam.xentot.com
@@ -2130,6 +2141,7 @@ nobodyforceapple.accountant
 noreplymailappleid.me
 noreply.paypal.com.service.paypol.co
 noreply.secure.account.mail.protection.moonmusic.com.au
+noreply-service-consolabsinfo2-paris.win
 notifications.facebook.com-inbox-suport.xyz
 notifier-account.appleid.com.career.bangunbeton.com
 novalidifikasi-accounts-service-limited.com
@@ -2360,6 +2372,7 @@ pay-pal-secured-update-membe.omegawatchesreplica.com
 pay-pal-secured-update-member0.omegawatchesreplica.com
 pay-pal-secured-update-member18.omegawatchesreplica.com
 pay-pal-secured-updte-member-verif1.omegawatchesreplica.com
+pay-pal-secured-updte-member-verify05.igcassociates.com
 pay-pal-secured-updte-member-verify7.omegawatchesreplica.com
 paypalsecureinfochanging.sindicato3.cl
 paypalsecureinfochanging.vassajt.in.rs
@@ -2406,6 +2419,7 @@ paypal-v7snc3y-6ra7hrumnpuw2.us.magentosite.cloud
 paypalverificationzone.cinemayana.com
 paypalverifier.playlivemobilegames.com
 paypal-verify.hopto.org
+paypal.vpicvietphat.com
 paypal.wahyuesgroup.id
 paypal-webapps.atcphpt.email
 paypal-webapps-intl.updated-au.com
@@ -2533,6 +2547,7 @@ sec1-mobile-phone-service-client.ml
 secure0098t.store1827x.applle.com.lock-review.info
 secure01c.chase.com.joyofsound.net
 secure03a.chase.verification.disabled-account.com.radio-dj.gr
+secure03b.chase.com.urbanimage-pa.com
 secure03b.chase.view-only.com
 secure07c.chase.aool.pw
 secure1.appleid.jp.cgi-bin.menban99.itunesupdate.host
@@ -2838,6 +2853,7 @@ sslverify33.tk
 sslverify71.ga
 sslverify73.ga
 ssl.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.login.microsoftonline-p.com.us.cas.ms
+sso-secure-log-webmaiil.ml
 stargamescomlogin.review
 statementaccessoriesinstagram.cf
 statement.index-cgi-privacy.secure.subscription.payments.securessubscriptions.org
@@ -3130,6 +3146,7 @@ update-your-account-now.arihantprinters.co.in
 update-your-account-now-now.pulautidungfebritravel.com
 update-your-account-paypal.rooms-un.com
 update-your-account.pinturascuriel.eu
+update.your.account.to.be.secure.ideasfocus.com
 update-your-apple-account-to-unlock-it.almost3mal.com
 update-your-customer-information-account-id-user-1244564.michalcohen.com
 update-your-information-account.lykeiokamenonvourlon.edu.gr
@@ -3139,6 +3156,7 @@ updateyourinformationaccountppl.sarix.com
 update-your-information.com.gosecurity.is
 update-your-information-locked.tk
 update-your-itunes-information.villa-bellevue.hr
+update-your-security-limited-informations-account-service.hoppespoolandspa.com
 up.inf.verif.login.plumberbalgowlah.com.au
 us001.instagramverification.com.ongkey.com
 us002.instagramverification.com.ongkey.com
@@ -3176,6 +3194,7 @@ vapple.usa.cc
 verif-human.cf
 verifi-accountapple.serveirc.com
 verifi-account.ddns.net
+verifica.secure.posle.lt.conferma.mkl-it-service.de
 verificationaccount731.com
 verificationaccount732.com
 verificationaccount733.com
@@ -3974,6 +3993,7 @@ www.amazon.co.uk.updateamazonaccount.fpsindonesia.com
 www.amazon-customer-care-com.tk
 www.amazoncustomer-service.tk
 www.amazone.updat.account.com.govtitivitla.com
+www.amazon.fr.remboursement-commandes-cpu.online
 www.amazon.fr.remboursement-commandes-ltd.online
 www.amazonruru.twitter.mixh.jp
 www.amazon-secure.confirmboa.ga
@@ -4005,6 +4025,7 @@ www.apple.appleid.com-sig.in
 www.apple-appleid.support.honkanenoy.fi
 www.appleappsaccount-updateaccount.com
 www.appleappstoreforandroidfreedownload.playapps.download
+www.apple.au-icloud.com
 www.apple-br.support
 www.applecentre.recovery.uz
 www.applecomputers.lozil.me
@@ -4393,6 +4414,7 @@ www.dataupdateservice-secure.net
 www.dealerportal.autotrader.accountverify.roberthlaessig.com
 www.deleteappleid.allelecreview.com
 www.demoaccount.jobmanagement.online
+www.details.information.center.security.service.yesgluten.com
 www.device-apple.suportefmi-br.online
 www.disabilitysupportworkerstaxonline-com-au.accountantsplus.com.au
 www.docs.service-mail-login.com
@@ -4471,6 +4493,7 @@ www.getmail-supportapple.info
 www.giftappleinc.ml
 www.global.americanexpress.com-login.t-online.flu.cc
 www.global.americanexpressonlinesecurityservice.com.jalwa.com.pk
+www.gmailaccountsignin.gmaillogin.in
 www.gmailhelpandsupport.adobesupportaustralia.com
 www.gmailloginsupport.com
 www.gmailloginsupport.printer-support-number.net
@@ -4605,6 +4628,7 @@ www.informationcenter.infocentral.review
 www.informationofnepal.ml
 www.informationsupdatesaccounts.tk
 www.information-to.account.peter2.rexzetsolutions.com
+www.info.team.help-account.support.id048127912391293127412792311930130.assetwebhosting.com
 www.infotwitter.information.house
 www.info-update-account.com
 www.instagram.argestofados.com.br
@@ -5040,6 +5064,7 @@ www.pay-pal-secured-update-membe.omegawatchesreplica.com
 www.pay-pal-secured-update-member0.omegawatchesreplica.com
 www.pay-pal-secured-update-member18.omegawatchesreplica.com
 www.pay-pal-secured-updte-member-verif1.omegawatchesreplica.com
+www.pay-pal-secured-updte-member-verify05.igcassociates.com
 www.pay-pal-secured-updte-member-verify7.omegawatchesreplica.com
 www.paypalsecureinfochanging.sindicato3.cl
 www.paypalsecureinfochanging.vassajt.in.rs
@@ -5080,6 +5105,7 @@ www.paypal-update-your-account-information-email.nitevibezradio.com
 www.paypalverificationzone.cinemayana.com
 www.paypalverifier.playlivemobilegames.com
 www.paypal-verify.hopto.org
+www.paypal.vpicvietphat.com
 www.paypal.wahyuesgroup.id
 www.paypal-webapps.atcphpt.email
 www.paypal-webapps-intl.updated-au.com
@@ -5146,6 +5172,7 @@ www.sec1-mobile-phone-service-client.ml
 www.secure0098t.store1827x.applle.com.lock-review.info
 www.secure01c.chase.com.joyofsound.net
 www.secure03a.chase.verification.disabled-account.com.radio-dj.gr
+www.secure03b.chase.com.urbanimage-pa.com
 www.secure03b.chase.view-only.com
 www.secure07c.chase.aool.pw
 www.secure1-bpiexpressonline.ml
@@ -5466,6 +5493,7 @@ www.update-your-account-now.arihantprinters.co.in
 www.update-your-account-now-now.pulautidungfebritravel.com
 www.update-your-account-paypal.rooms-un.com
 www.update-your-account.pinturascuriel.eu
+www.update.your.account.to.be.secure.ideasfocus.com
 www.update-your-apple-account-to-unlock-it.almost3mal.com
 www.update-your-customer-information-account-id-user-1244564.michalcohen.com
 www.update-your-information-account.lykeiokamenonvourlon.edu.gr
@@ -5475,6 +5503,7 @@ www.updateyourinformationaccountppl.sarix.com
 www.update-your-information.com.gosecurity.is
 www.update-your-information-locked.tk
 www.update-your-itunes-information.villa-bellevue.hr
+www.update-your-security-limited-informations-account-service.hoppespoolandspa.com
 www.up.inf.verif.login.plumberbalgowlah.com.au
 www.us001.instagramverification.com.ongkey.com
 www.us002.instagramverification.com.ongkey.com
@@ -5492,6 +5521,7 @@ www.user-logined.online
 www.utilisateur-verification-785.cf
 www.valuemytwitteraccount.thinkfreshmarketing.com
 www.vapple.usa.cc
+www.verifica.secure.posle.lt.conferma.mkl-it-service.de
 www.verificationaccount731.com
 www.verificationaccount732.com
 www.verificationaccount733.com
