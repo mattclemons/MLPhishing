@@ -41,6 +41,7 @@ account-infoverificationapps.com
 account-infoverify.serveirc.com
 accounting-funnel.softwareasaservice.xyz
 accountinghelp.online
+accountinghelppro.online
 account-itunes.sanphamgiamcan.com.vn
 account-liemted.information.gulzarintl.com
 account.limitation.resolve.paypal.com.cpimtelangana.com
@@ -353,6 +354,7 @@ appleidcentreunlock-apple23.com
 appleidcentreunlock-apple349.com
 appleid-check-secure.ooo
 appleid-checksupport.ooo
+appleid.com-apple.net
 appleid.com-apply-notice-cancellations-accounts.usa.cc
 appleid.com-apply-purchase-notice-cancellations.usa.cc
 appleid.com-ca-index-manager-identify-purchase-account.usa.cc
@@ -599,6 +601,7 @@ apple-web-support-com.eu
 applid-accountalert.redirectme.net
 applid.appl.com.jploginprotect.cc
 applid-securedlogin.redirectme.net
+applid-support-center.surfsidepoolsnc.com
 applock-accountverify.contol1.com
 apply-for-debt-relief-order.service.gov.uk
 appmobaile.osappleid.survey-payconfirmasion.com
@@ -682,6 +685,7 @@ autodiscover.paypal-security-center.ml
 autodiscover.securemyaccount.info
 autodiscover.service-jsgdkg-login.com
 autodiscover.service-jsgdkg-login.info
+autodiscover.verifybulk.com.br
 autodiscover.verify.like2online.info
 autodiscover.verifysecurecommand.co
 autodiscover.verify-securemail.com
@@ -865,6 +869,7 @@ confirm-your-accounts-6565.gq
 confirmyourinformation-service.com
 confirmyourpaypal.serveirc.com
 confirm-your-security-information.preciousvanity.com
+connect.netflix.net.klinikachun.com
 connect.secure.wellsfargo.online.services.alert.gcarqtek.com
 consulitasair.approjasverify043bank.ar.geoshield.com.my
 contact.account.service.gmviagens.com.br
@@ -1098,6 +1103,7 @@ cpanel.verifyaccount-com.myvnc.com
 cpanel.verify-appleid-securityonline.cf
 cpanel.verify-appleid-securityonline.ga
 cpanel.verify-appleid-securityonline.tk
+cpanel.verifybulk.com.br
 cpanel.verifying-step.tk
 cpanel.verifying-updates.tk
 cpanel.verify.like2online.info
@@ -1234,6 +1240,7 @@ error.verifyoffice.ga
 e.secureaccountinfo.us
 esnetflix.cf
 esnetflix.ml
+et.einteractrasfer1-refund-paym11ents-secure-acc1ount.log1n-ac78233390486294007363.byronksmith.com
 eu.apple-pay.pg.int.ridero.eu
 facebook.com-facebook-security-alpha.serveo.net
 facebook.com-login.de
@@ -1323,6 +1330,7 @@ help.netflix.com.node-31293c64c43fa12d600ce5483b11c02322.flu.cc
 help.netflix.com.node-47328.usa.cc
 help.netflix.com.node843297.usa.cc
 help.netflix.com-paymentauthrized.node87686.usa.cc
+helpnsupport.win
 herp---------------------derp---------------------trains.tk
 home-appleid.apple.growtopia-tools.com
 home.appleid.apple.growtopia-tools.com
@@ -1390,6 +1398,7 @@ icloud.com.appleicloud.in
 icloud-com-appleid.com
 icloud.com.apple-id.id
 icloud.com.appleid.name
+icloud.com.applemap.online
 icloud.com.apple.support.findmylphone.top
 icloud.com-apple.us
 icloud.com.authid-sign.in
@@ -1939,6 +1948,7 @@ mail.verifyaccount-com.myvnc.com
 mail.verify-appleid-securityonline.cf
 mail.verify-appleid-securityonline.ga
 mail.verify-appleid-securityonline.tk
+mail.verifybulk.com.br
 mail.verifying-step.tk
 mail.verifying-updates.tk
 mail.verify.like2online.info
@@ -3104,6 +3114,7 @@ update-account-informations.naijaoxford.com
 update-account-information.web-index-intl-secure-service.gq
 update-account-issue.doagricitpays.com
 update.account.manage.center.summaryapp.webappscontact.com
+update-account-paypal.com.pguniversal.co.ke
 update.account.ppl.logtrans.ee
 update-account-restore.tk
 update-account-support.pustavanger.net
@@ -3266,6 +3277,7 @@ verify-appleid-securityonline.ga
 verify-appleid-securityonline.tk
 verify-apple.us
 verifybooks.store
+verifybulk.com.br
 verifycar.com.br
 verifycation-id-support.com.pelingaceng.lgbt
 verify.cspanel.xyz
@@ -3560,6 +3572,7 @@ webdisk.verifyaccount-com.myvnc.com
 webdisk.verify-appleid-securityonline.cf
 webdisk.verify-appleid-securityonline.ga
 webdisk.verify-appleid-securityonline.tk
+webdisk.verifybulk.com.br
 webdisk.verifying-step.tk
 webdisk.verifying-updates.tk
 webdisk.verify.like2online.info
@@ -3810,6 +3823,7 @@ webmail.verifyaccount-com.myvnc.com
 webmail.verify-appleid-securityonline.cf
 webmail.verify-appleid-securityonline.ga
 webmail.verify-appleid-securityonline.tk
+webmail.verifybulk.com.br
 webmail.verifying-step.tk
 webmail.verifying-updates.tk
 webmail.verify.like2online.info
@@ -4085,6 +4099,7 @@ www.appleid-cancelpayment-authservices.com
 www.appleid-center.ir
 www.appleidcentreunlock-apple23.com
 www.appleidcentreunlock-apple349.com
+www.appleid.com-apple.net
 www.appleid.com-apply-notice-cancellations-accounts.usa.cc
 www.appleid.com-apply-purchase-notice-cancellations.usa.cc
 www.appleid.com-ca-index-manager-identify-purchase-account.usa.cc
@@ -4249,6 +4264,7 @@ www.apple.verifications-locked.inc-support.biz
 www.apple-verifiy.vessel-auction.com
 www.apple.webapps.service.intl.update-us-webs.email
 www.apple-web-support-com.eu
+www.applid-support-center.surfsidepoolsnc.com
 www.approve-login.cf
 www.apps2id.store.icloud-apple.sayamantshitim.com
 www.apps.eng-support.apple-store26789.jurusdubaimunicipality.com
@@ -4387,6 +4403,7 @@ www.confirm-your-account.residencialvaledosossego.net
 www.confirmyourinformation-service.com
 www.confirmyourpaypal.serveirc.com
 www.confirm-your-security-information.preciousvanity.com
+www.connect.netflix.net.klinikachun.com
 www.connect.secure.wellsfargo.online.services.alert.gcarqtek.com
 www.consulitasair.approjasverify043bank.ar.geoshield.com.my
 www.contact.account.service.gmviagens.com.br
@@ -4454,6 +4471,7 @@ www.epaymentsupport.cc
 www.e-paypai-com-update-account.hotelfurfuradarbar.com
 www.error.verifyoffice.ga
 www.e.secureaccountinfo.us
+www.et.einteractrasfer1-refund-paym11ents-secure-acc1ount.log1n-ac78233390486294007363.byronksmith.com
 www.facebook.com-facebook-security-alpha.serveo.net
 www.facebook.com-login.host
 www.facebook.com.login.https.mutualmotociclista.com.ar
@@ -4561,6 +4579,7 @@ www.icloud.com.appleicloud.in
 www.icloud-com-appleid.com
 www.icloud.com.apple-id.id
 www.icloud.com.appleid.name
+www.icloud.com.applemap.online
 www.icloud.com-apple.us
 www.icloud.com.authids-sign.in
 www.icloud.com.br-web.site
@@ -5464,6 +5483,7 @@ www.update-account-information.kemaliturizm.com
 www.update-account-information.service-flava.co
 www.update-account-informations.naijaoxford.com
 www.update-account-issue.doagricitpays.com
+www.update-account-paypal.com.pguniversal.co.ke
 www.update.account.ppl.logtrans.ee
 www.update-account-support.pustavanger.net
 www.update.all-support.tk
@@ -5568,6 +5588,7 @@ www.verify-appleid-securityonline.cf
 www.verify-appleid-securityonline.ga
 www.verify-appleid-securityonline.tk
 www.verify-apple.us
+www.verifybulk.com.br
 www.verifycar.com.br
 www.verifycation-id-support.com.pelingaceng.lgbt
 www.verify.cspanel.xyz
