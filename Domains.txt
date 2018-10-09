@@ -157,6 +157,7 @@ accountverifying.cf
 accountverifylocked.com
 accountverify.me
 accountx-details.ga
+accouts-verifyapple.ddns.net
 acebookloginhelp.online
 achar10.appleidsupport.ir
 acount.support-accountverification-helpcenters.business
@@ -791,6 +792,7 @@ cloud.wp-service.ml
 cnd-account.ml
 com-accept-payments.online
 com-account-noticeid.biz
+com-account-noticeid-service.business
 com-accounts-informations.limited
 com.apple.audio.driver.app
 com-appleid.pw
@@ -1117,6 +1119,7 @@ cpanel.verifysecurecommand.co
 cpanel.verify-securemail.com
 cpanel.verifystore57.gq
 cpanel.vodafone-secureloginclient.company
+cpanel.webappappleidsecure.servebeer.com
 cpcalendars.security-update-invoice-4ppl31d.oftacenter.lentile-contact.eu
 crearcuentahotmail.com.mx
 createappleid.cf
@@ -1590,6 +1593,7 @@ loginemail.accountverifiable.website
 login.facebook.fbmessenger.bid
 login-fb-secured.xyz
 login.form.supportby.akutakmenangisimuhuhuhu.business
+logingard2020.ssservice.com.co
 login.gmail.com.msg34.site
 loginhotmail.tk
 login-icloud.diamondserver.co
@@ -1739,6 +1743,7 @@ mail.chaseonlineloginsite.info
 mail.chaseonlinesecure.cf
 mail.chasesecurityupgrade.xyz
 mail.com-account-noticeid.biz
+mail.com-account-noticeid-service.business
 mail.com-appleid.pw
 mail.com-au-index-manager-identify-purchase-account.usa.cc
 mail.com-ca-index-manager-identify-purchase-account.usa.cc
@@ -1963,6 +1968,8 @@ mail.verify-securemail.com
 mail.verifystore57.gq
 mail.vodafone-secureloginclient.company
 mailweb-account-verify.com
+mail.webappappleidsecure.servebeer.com
+mail.www.secure.www.www.www.www.www.azurecom.onmicrosoft.com.eu2.cas.ms
 mail.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.nexus.microsoftonline-p.com.us.cas.ms
 mail.yahoo.com.update-privacy-and-police.afasa.es
 mail.yandex.ru.uid.login.message.mail.security.qid.email
@@ -2193,6 +2200,7 @@ outlook.live.com.owa.hotmail.gritzapis.gr
 outlookprotectionservice.deltacontabilguarapari.com.br
 outlooks.accounts.updates.tanzifshahr.ir
 overifyread.gq
+owa.www.secure.www.www.www.www.www.azurecom.onmicrosoft.com.eu2.cas.ms
 ownerverifycontrol.online
 pages-secure1-unirecovery.cf
 pages-unisupport1-recovery.cf
@@ -2477,6 +2485,7 @@ postepay.poste.it.securelogin.online
 poypal.account.login.cefive-ci.com
 pp-customer-service.uk
 pp-information-service.uk
+ppl.update-new.informations-in-account.voipworld.com.au
 pp.pay.checkaccountinfo.securit.com.securekil.tk
 pp.pay.checkaccountinfo.securit.securekil.tk
 pp.service.custumors.pay.securekil.tk
@@ -2562,6 +2571,7 @@ secure03b.chase.view-only.com
 secure07c.chase.aool.pw
 secure1.appleid.jp.cgi-bin.menban99.itunesupdate.host
 secure1-appleinc-userarea.jadesaphire.restokguineapig.com
+secure1-apple-store-com.ax177878787878787ax17o.abundantlifeapostolicassembly.org
 secure1-bpexpressonline.ml
 secure1-bpiexpressonline.ml
 secure1.store.appie.com.idmsa-webauth.cf
@@ -2671,6 +2681,7 @@ secure-services.ml
 secure-signinapple.3utilities.com
 secure-signin.manage-account.avcdsa.com
 secure-sign.resolve-account.avcdsa.com
+secure.ssl.www.www.www.www.azurecom.onmicrosoft.com.eu2.cas.ms
 secure.store-apple-icloud.update.sayamantangshitim.com
 secure.store.apple.locked-update-privacy.com
 securesupport81.us
@@ -2733,6 +2744,7 @@ securityverification.review
 security-verifications.badogcnc.com
 security.webapps.appleishop.gq
 security.webapps.canadabigmart.ml
+security.webapps.techsupportcare.net
 seekverify.review
 seekverify.top10backgroundchecks.xyz
 separate-chase.cf
@@ -2833,6 +2845,7 @@ sign-in.appleid.com.iforgot-apps-mobiles.com
 sign-in.appleid.com-unlock-again.com
 sign-in.appleid.com-verification-info.com
 signin-appleinc.com-verificationid-2393890231564.com
+signinapple-payment.3utilities.com
 signinapple-secure.3utilities.com
 signin-auth.appleid-confirm.identity.alaaelnsr.com
 signin-auth.appleid-confirm.identity.safetycorporationsac.com
@@ -3216,6 +3229,7 @@ verification-amazon.serveirc.com
 verification.appleaccounte.manage.support.itilelicin.com
 verificationappleappleidsupport.com
 verificationappleappstoresupport.com
+verification-apple.servebeer.com
 verificationapps.store
 verification-as.cf
 verification-as.ga
@@ -3335,6 +3349,7 @@ w.com-information-system-account.com
 wdclp.security.online-banking.hsbc.com.eg
 web03.secureitsupport.us
 web-accounts-service.com
+webappappleidsecure.servebeer.com
 webapps-account-support-update-paypal.com.cuculonte.com
 webapps.manageid.mailweb-account-verify.com
 webapps-manageverifiyupdatesilcuxk.com
@@ -3586,6 +3601,7 @@ webdisk.verifysecurecommand.co
 webdisk.verify-securemail.com
 webdisk.verifystore57.gq
 webdisk.vodafone-secureloginclient.company
+webdisk.webappappleidsecure.servebeer.com
 web.facebook.com.loginsy.pl
 webhook.facebook.preprod.sg.hsbc-offerbot.industrie.co
 weblogin.verify.idpaypal.webapps-iddonation.com
@@ -3836,6 +3852,7 @@ webmail.verifysecurecommand.co
 webmail.verify-securemail.com
 webmail.verifystore57.gq
 webmail.vodafone-secureloginclient.company
+webmail.webappappleidsecure.servebeer.com
 webmail.www.www.www.www.www.www.www.www.www.login.microsoftonline-p.com.us.cas.ms
 webmail.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.login.microsoftonline-p.com.us.cas.ms
 webmail.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.login.microsoft.com.us.cas.ms
@@ -4355,6 +4372,7 @@ www.click.clientmailapple19238461834.suppalrt-intl.com
 www.client-service-information.burnabywebconsulting.ca
 www.cloud.wp-service.ml
 www.com-account-noticeid.biz
+www.com-account-noticeid-service.business
 www.com-appleid.pw
 www.com-appverifyaccount.me
 www.com-au-index-manager-identify-purchase-account.usa.cc
@@ -4726,6 +4744,7 @@ www.loginemail.accountverifiable.website
 www.login.facebook.fbmessenger.bid
 www.login-fb-secured.xyz
 www.login.form.supportby.akutakmenangisimuhuhuhu.business
+www.logingard2020.ssservice.com.co
 www.login-icloud.diamondserver.co
 www.login-icloud.me
 www.logininformatica.com.br
@@ -5154,6 +5173,7 @@ www.postepay.poste.it.securelogin.online
 www.poypal.account.login.cefive-ci.com
 www.pp-customer-service.uk
 www.pp-information-service.uk
+www.ppl.update-new.informations-in-account.voipworld.com.au
 www.pp.pay.checkaccountinfo.securit.com.securekil.tk
 www.pp.pay.checkaccountinfo.securit.securekil.tk
 www.pp.service.custumors.pay.securekil.tk
@@ -5194,6 +5214,7 @@ www.secure03a.chase.verification.disabled-account.com.radio-dj.gr
 www.secure03b.chase.com.urbanimage-pa.com
 www.secure03b.chase.view-only.com
 www.secure07c.chase.aool.pw
+www.secure1-apple-store-com.ax177878787878787ax17o.abundantlifeapostolicassembly.org
 www.secure1-bpiexpressonline.ml
 www.secure1.store.appie.com.idmsa-webauth.cf
 www.secure1-your-account-information-locked.ga
@@ -5276,6 +5297,7 @@ www.security-summary-idpaypal.com.e-clean.website
 www.security-verifications.badogcnc.com
 www.security.webapps.appleishop.gq
 www.security.webapps.canadabigmart.ml
+www.security.webapps.techsupportcare.net
 www.seekverify.top10backgroundchecks.xyz
 www.ser.pp.pay.account.pay.securekil.tk
 www.server.accountnotificationreview.ml
@@ -5624,6 +5646,7 @@ www.view-account.com-login-verifycation.info
 www.vk.com.supports.antiviruseguardinonline.xyz
 www.vodafone-secureloginclient.company
 www.w.com-information-system-account.com
+www.webappappleidsecure.servebeer.com
 www.webapps-account-support-update-paypal.com.cuculonte.com
 www.webapps.manageid.mailweb-account-verify.com
 www.webapps.notify.service.intl-servehttp-us1.email
