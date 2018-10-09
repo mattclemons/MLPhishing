@@ -33,6 +33,7 @@ account.espacocentesimo.com.br
 account.fitcore.online
 account.google.com-find.top
 account-has-been-limited.gq
+account.hopecity.online
 accountinfologin.co
 accountinfologinznservices.co.uk
 account.information.limited.mhr.com.sg
@@ -273,6 +274,7 @@ apple-error-alert.tk
 apple.fastiphone.com.br
 applefindmyiphone-online.ml
 apple.google-map.site
+apple-helpcenter.serveftp.com
 apple-helpsecure.myvnc.com
 applehillsart.toews.tk
 apple-icloud.co
@@ -496,6 +498,7 @@ apple.jponserv.ml
 applekit.ipwnosx.win
 appleld.apple.lockedsznotifcationapps-secure.org
 appleld.com.manage-secure-protocol.info
+apple-ld.gkarisa.com.mx
 appleld-store.ca.dadigitalpresent.mk
 apple.lgsupport.com
 apple-lockedcase-secure-restrictedactivity.okendan-kitabelisemuaborong.com
@@ -577,10 +580,12 @@ apple.support.com-servecenterunlocked3.com
 apple-supporthelp.servebeer.com
 apple-support-ios.club
 apple.support-log.me
+apple-support.manage-accounts-problem.com
 apple-support.reminderaccountupdate-statement.hbj89u.com
 apple-support.statementaccount-update.hbj89u.com
 apple-support-system-appleid-config-verifi-online.pesat-nabire.org
 apple-supportted.servegame.com
+apple-supportt.servegame.com
 appleton.updatedescorts.com
 apple.trackingicloud.com
 appletv.sin.ga
@@ -2155,6 +2160,7 @@ netflix.epickeys.com
 netflixgiftcardcodefree.jasapasangiklanfb.com
 netflix.giftrewardprizes.com
 netflixgratis.online
+netflix.hackauthority.com
 netflix-hd.win
 netflix.imagenesdecantantes.com
 netflix-india.cf
@@ -2378,6 +2384,7 @@ paypal-geschenk.lima-city.de
 paypal.grupoaraisa.com
 paypal.gry-vip.com
 paypal.hariomweb.info
+paypalhere.hjwc.scot
 paypal.hkb.ch
 paypalinccommunity.com.accountd-confirmdd.iidi.or.id
 paypalincommuniity.com.checkd-accound.megabronjong.com
@@ -2692,6 +2699,7 @@ secure.authenticationapple.redirectsecurelyhome.com
 secure.auth-signinappleid.com-officalupdatesecurity.com
 secure.auth-signinappleid.com-officialsecuritysupport.com
 secure.auth-signinappleid.com-officialsupporthelp.com
+secure.auth-signinappleld.com-supportupdateofficial.com
 secure.bankofamerica.com.onlineconvert.com.ng
 secure.bankofamerica.statements.details.phdnegocios.com.br
 secure.bankofamerica.statements.details.rcsbchat.com
@@ -2815,6 +2823,7 @@ securityverification.review
 security-verifications.badogcnc.com
 security.webapps.appleishop.gq
 security.webapps.canadabigmart.ml
+security.webapps.support-online.biz
 security.webapps.techsupportcare.net
 seekverify.review
 seekverify.top10backgroundchecks.xyz
@@ -2835,6 +2844,7 @@ service-account-security2018.getlaunchedtoday.com
 service-accounts.servepics.com
 service-account-update-cmd4ad4c78ac87ac.de-barones.com
 serviceaccount-verified-informationsecure.hadafholidays.com
+servicealertsupportteam.update.batonrougeonsite.com
 service-appinformationupdate.com
 service-applecom-webapps.pbonline.net
 service-appleid.servepics.com
@@ -2934,6 +2944,7 @@ sitekey.bankofamerica.com.hitcoelectricals.com
 smtp.applesupport.me
 snapchat.account.com.es
 source-notice.verifyaccountlocked45.com
+southcoast---security-update-mlqcs5q-xu3kzi5t2dxl2.us.platform.sh
 special-gift-for-you.cf
 spitogatos.manage.account.purchaseorder.co.in
 spk-support-account.net
@@ -3103,6 +3114,7 @@ support-privacy.cf
 support.problem.icloud.com.com-n.xyz
 support-redirection-moncompte.cf
 supports-appleids.myvnc.com
+support.secure2id.accounts.update.com.restoremylockediphone.com
 support.secure2id.account.update.appleid.com.nenen-susu.org
 support.secure2ids.account.update.com.info.restoremyphone.info
 support.secure2ids.account.updates.info.restoremyphone.info
@@ -3254,6 +3266,7 @@ updateyourinformationaccountppl.improntaviola.ch
 updateyourinformationaccountppl.sarix.com
 update-your-information.com.gosecurity.is
 update-your-information-locked.tk
+update-your-information-support.katiemurray.com
 update-your-itunes-information.villa-bellevue.hr
 update-your-security-limited-informations-account-service.hoppespoolandspa.com
 up.inf.verif.login.plumberbalgowlah.com.au
@@ -4296,6 +4309,7 @@ www.apple.istweb.idmsa.corp.com-login-index.galerimotor.com
 www.apple-itunesmusicverify.boleromusic.co.id
 www.apple.iverify.site
 www.applekit.ipwnosx.win
+www.apple-ld.gkarisa.com.mx
 www.appleld-store.ca.dadigitalpresent.mk
 www.apple-lockedcase-secure-restrictedactivity.okendan-kitabelisemuaborong.com
 www.apple.login-device.me
@@ -4985,6 +4999,7 @@ www.netflix-customer-center-case-id-2782-352.laxmishop.com
 www.netflixdfgdfghtdrggferyhrtytertfcertertgetfertgert2fwe.pichos.tk
 www.netflix.epickeys.com
 www.netflixgiftcardcodefree.jasapasangiklanfb.com
+www.netflix.hackauthority.com
 www.netflix.imagenesdecantantes.com
 www.netflix-infos.lima-city.de
 www.netflix.klantenservicenummernederland.com
@@ -5059,6 +5074,7 @@ www.partner-netflix.feedbuzzs.com
 www.parza-update-netflix.com.swatmobilebarikot.com
 www.pavpal.com-webappsid236172563.me
 www.pavpal.com-webappsid2365162376.me
+www.pavpal.com-webappsid23671232133.me
 www.pavypal.accountcenterhelpresolutioncenter.com
 www.pavypal.com-disputeresolution.me
 www.pavypal.com-intlresolution.me
@@ -5165,6 +5181,7 @@ www.paypal-geschenk.lima-city.de
 www.paypal.grupoaraisa.com
 www.paypal.gry-vip.com
 www.paypal.hariomweb.info
+www.paypalhere.hjwc.scot
 www.paypal.hkb.ch
 www.paypalinccommunity.com.accountd-confirmdd.iidi.or.id
 www.paypal.inc.com.webapps.user-activity.com
@@ -5366,6 +5383,7 @@ www.secure.authenticationapple.redirectsecurelyhome.com
 www.secure.auth-signinappleid.com-officalupdatesecurity.com
 www.secure.auth-signinappleid.com-officialsecuritysupport.com
 www.secure.auth-signinappleid.com-officialsupporthelp.com
+www.secure.auth-signinappleld.com-supportupdateofficial.com
 www.secure.bankofamerica.com.onlineconvert.com.ng
 www.secure.bankofamerica.statements.details.phdnegocios.com.br
 www.secure.bankofamerica.statements.details.rcsbchat.com
@@ -5426,6 +5444,7 @@ www---security-update-mlqcs5q-xu3kzi5t2dxl2.us.platform.sh
 www.security-verifications.badogcnc.com
 www.security.webapps.appleishop.gq
 www.security.webapps.canadabigmart.ml
+www.security.webapps.support-online.biz
 www.security.webapps.techsupportcare.net
 www.seekverify.top10backgroundchecks.xyz
 www.ser.pp.pay.account.pay.securekil.tk
@@ -5438,6 +5457,7 @@ www.service.account-limited.paypal.com-login.cheapelectricnow.net
 www.service-account-security2018.getlaunchedtoday.com
 www.service-account-update-cmd4ad4c78ac87ac.de-barones.com
 www.serviceaccount-verified-informationsecure.hadafholidays.com
+www.servicealertsupportteam.update.batonrougeonsite.com
 www.service-appinformationupdate.com
 www.service-applecom-webapps.pbonline.net
 www.service-appleid.servepics.com
@@ -5571,6 +5591,7 @@ www.support-paypal.disper.business
 www.support.paypal.login.zilotti.com.br
 www.support.problem.icloud.com.com-n.xyz
 www.support-redirection-moncompte.cf
+www.support.secure2id.accounts.update.com.restoremylockediphone.com
 www.support.secure2id.account.update.appleid.com.nenen-susu.org
 www.support.secure2ids.account.updates.info.restoremyphone.info
 www.support-secure-center.cidadegospel.com.br
@@ -5675,6 +5696,7 @@ www.updateyourinformationaccountppl.improntaviola.ch
 www.updateyourinformationaccountppl.sarix.com
 www.update-your-information.com.gosecurity.is
 www.update-your-information-locked.tk
+www.update-your-information-support.katiemurray.com
 www.update-your-itunes-information.villa-bellevue.hr
 www.update-your-security-limited-informations-account-service.hoppespoolandspa.com
 www.up.inf.verif.login.plumberbalgowlah.com.au
@@ -5816,6 +5838,7 @@ www.www.www.www.www.www.nexus.microsoftonline-p.com.eu.cas.ms
 www.www.www.www.www.www.www.www.www.www.www.www.www.www.login.microsoft.com.us3.cas.ms
 www.www.www.www.www.www.www.www.www.www.www.www.www.www.login.microsoftonline-p.com.us3.cas.ms
 www.www.www.www.www.www.www.www.www.www.www.www.www.www.nexus.microsoftonline-p.com.us3.cas.ms
+www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.salesforce.com.rs2.cas.ms
 www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.box.com.rs2.cas.ms
 www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.google.com.rs2.cas.ms
 www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.salesforce.com.rs2.cas.ms
