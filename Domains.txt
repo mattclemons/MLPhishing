@@ -1021,6 +1021,8 @@ b-s-g-p-96-secure-top.otp-service.dev.sda-se.com
 build-info-update.service-shortlinks.habx-dev.fr
 busines-pages-updates.gq
 businessbankingaccountcomparison.tk
+buy-adsense-accounts.cf
+buy-adsense-accounts.gq
 byareview-document.pdf-iso.webapps-security.review-2jk39w92.505arq.com.br
 caf-mon-compte-login.review
 cartruckpartscomputerchipcruisecontrol2014info.incartechsecuritydiyforspeakerssubwoofers2017.info
@@ -1105,6 +1107,7 @@ com-ca-index-manager-identify-purchase-account.usa.cc
 com-findmyphone.support
 comfirm-information-login.gq
 com-help-page-center.support
+com-icloud-account.email
 com-index-manager-alert-verify-purchases-account.usa.cc
 com-index-manager-alert-your-purchase.usa.cc
 com-index-managered-notice-purchase-account.usa.cc
@@ -1767,6 +1770,7 @@ fsecure-sslsecurity.win
 full-ppl-account-service.telhue.cl
 gamesverifyaccount023.com
 geek-squad-apple.support
+gemonlinelogin.review
 get-best-copywriting-service.review
 getmail-supportapple.info
 get-prime-smm-service.review
@@ -2056,6 +2060,7 @@ instagram.ostech.store
 instagramparainiciantes.bravusite.com.br
 instagram.photo-online.com.ua
 instagram.pirazza.com.br
+instagram.porinternet.com.ve
 instagramsecurity.gq
 instagramsecurity.thats.im
 instagramserviceaccount.usa.cc
@@ -2253,6 +2258,7 @@ login.paypalverification-accvalid.com
 login-program285-info.win
 login-relpy.cf
 login.rush-service.nl
+login.saccoma.cf
 login.sarthakdigitalpay.in
 loginsdaumnet-accounts-loginform-do.kenyaflowerassociation.site
 logins-daum-net-accounts-loginformdo.thaii.site
@@ -3078,6 +3084,7 @@ paypai.online-support.uk
 paypal1.shop.pastease.com.au
 paypal2016.data-id5g7d5f9z56d64.wheels4change.com
 paypal2.beyda.ru
+paypal.aamarsyria.com
 paypalaccount.bettaview.org
 paypal-account.catholic-yonezawa.com
 paypal-account-centre.com
@@ -3340,6 +3347,7 @@ paypalsupportwebappsaccountid404.kentotskan23.com
 paypalsupportwebappsaccountid404.kentotskan4.com
 paypal.take2me.it
 paypaltest.doitex.lv
+paypaltestsubmit.safechkout.net
 paypal.tk.com.altazi.com
 paypal.tllab.co.uk
 paypaltocashencashment.itsayhovietifullife.com
@@ -3606,6 +3614,7 @@ secure-apple.verify.tips4travel.mx
 secure-apps.japan-verification.com
 secure-appswebidmsa.com-verify.danurasih.com
 secureapp.unlockedaccount.apple2id.com.shipment-dildo.net
+secure-appwebidmsa.com-verify.loginaspx.com
 secure-appwebsidmsa.com-verify.m18br3x.com
 secure.authenticationapple.redirectsecurelyhome.com
 secure.auth-signinappleid.com-officalupdatesecurity.com
@@ -4049,12 +4058,15 @@ support.apple.help.com-sv.club
 support.apple-icloud.eu
 support.apple.iczero.info
 support-appleid.apple.unlock.idapp-acquired.info
+support-appleid.apple.unlock.idmsa-acquired.info
+support-appleid.apple.unlock.idmsa-acquire.info
 support-appleid.apple.unlock.mobile-acquired.me
 support-appleid.apple.unlock.mobile-additional.me
 support.appleid.apple.websapps-center.tk
 support.appleid.billinginformations.com
 support-appleid-com.propinsidkijakarta.com
 support.appleid.com.statement-previews.me
+support.appleid.inct.us
 supportappleid.serveirc.com
 support.appleid.sign-inauth-service2479.com
 support.appleid-unlock.apple.idapp-insurance.info
@@ -4163,6 +4175,7 @@ supporto-icloud.com
 supportonlineaccount-verificationid.com
 support-online.ga
 support-payments.charitycheckout.co.uk
+supportpaypal.aba.ae
 support-paypalaccountservice.mailrapor.robertobravo.com
 support.paypalaccountservice.mailrapor.robertobravo.com
 support.paypal-account.verification-center.zaex8un0.com
@@ -4424,6 +4437,7 @@ ventura.alertasecurity.com.br
 verif-apps-appleid.nellakayunemnsung.com
 verif-compte-info-loggin.ml
 verife-appleappleid.servebeer.com
+verifed-badge-center.cf
 verif-human.cf
 verifi-accountapple.serveirc.com
 verifi-account.ddns.net
@@ -4485,6 +4499,7 @@ verify4dating.cf
 verify9-youfanpaqes.ml
 verifyaboutyourtaccountsid-983.com
 verify-accesslogin.servehttp.com
+verify-accontapple.serveirc.com
 verifyaccount00.tk
 verify-accountappsid.com
 verifyaccount-com.myvnc.com
@@ -4605,6 +4620,7 @@ webapps-secure-login-verifyidentity.info
 webapps-secure-login-verifyidentity.net
 webapps.secure.update.account.sayamantangfecesim.com
 webapps-secure-userid-verification.com
+webapps-update-information-verify-limited.paiyapapal.com
 webcloudidsupportupdatemarksincontrlsupp.acc-helpid.org
 webdisk.1800customerservicehitbtcsupport.com
 webdisk.account-alert.host
@@ -6217,6 +6233,7 @@ www.global.americanexpress.com-login.t-online.flu.cc
 www.global.americanexpress.com-mcyr.intl-en.cf
 www.global.americanexpressonlinesecurityservice.com.jalwa.com.pk
 www.gmailaccountsignin.gmaillogin.in
+www.gmailcom-loginsignin.com
 www.gmail.customerservice-support.com
 www.gmailhelpandsupport.adobesupportaustralia.com
 www.gmailloginsupport.com
@@ -6412,6 +6429,7 @@ www.instagram.com-security.co
 www.instagram.com.vrfd.ga
 www.instagram.com.vrfy.ml
 www.instagram.davivilela.com.br
+www.instagram-de-support-passwort.lima-city.de
 www.instagram.gfreire.com.br
 www.instagram.ghts.com.br
 www.instagram.hospedeseusite.ml
@@ -6424,6 +6442,7 @@ www.instagram.mycroft.com.br
 www.instagram.ostech.store
 www.instagramparainiciantes.bravusite.com.br
 www.instagram.pirazza.com.br
+www.instagram.porinternet.com.ve
 www.instagramsecurity.thats.im
 www.instagramserviceaccount.usa.cc
 www.instagramservice.mail-services.site
@@ -6833,6 +6852,7 @@ www.paypa.com.secureaccounts.info
 www.paypail-confirm.it
 www.paypal1.shop.pastease.com.au
 www.paypal2016.data-id5g7d5f9z56d64.wheels4change.com
+www.paypal.aamarsyria.com
 www.paypalaccount.bettaview.org
 www.paypal-account.catholic-yonezawa.com
 www.paypal-account-info.com
@@ -7421,6 +7441,8 @@ www.support.apple.help.com-sv.club
 www.support.apple-icloud.eu
 www.support.apple.iczero.info
 www.support-appleid.apple.unlock.idapp-acquired.info
+www.support-appleid.apple.unlock.idmsa-acquired.info
+www.support-appleid.apple.unlock.idmsa-acquire.info
 www.support-appleid.apple.unlock.mobile-acquired.me
 www.support-appleid.apple.unlock.mobile-additional.me
 www.support.appleid.apple.websapps-center.tk
@@ -7471,6 +7493,7 @@ www.support.netflix.lwlantz.com
 www.support-netflixservices.com
 www.supporto.datacominformatica.it
 www.supporto-icloud.com
+www.supportpaypal.aba.ae
 www.support-paypalaccountservice.mailrapor.robertobravo.com
 www.support.paypalaccountservice.mailrapor.robertobravo.com
 www.support.paypal-account.verification-center.zaex8un0.com
@@ -7757,6 +7780,7 @@ www.webapps.notify.service.intl-servehttp-us1.email
 www.webapps-secure-login-verifyidentity.info
 www.webapps-secure-login-verifyidentity.net
 www.webapps.secure.update.account.sayamantangfecesim.com
+www.webapps-update-information-verify-limited.paiyapapal.com
 www.web.facebook.com.auth.secure-id.finewoodenthings.com
 www.weblogin.amazon-service.webid-interface97234.com
 www.weblogin.apple-service.webid-interface97234.com
