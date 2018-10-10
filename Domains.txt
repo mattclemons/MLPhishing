@@ -241,6 +241,7 @@ amazon-secureline.ml
 amazon-service.webid-interface97234.com
 amazon-webapps-service-cgi.pbonline.net
 americanexpress.com-login.date-reg.flu.cc
+americanexpress.com-login.get-log.flu.cc
 americanexpress.com-login.t-online.flu.cc
 americanexpress.com-login.ucp-us.flu.cc
 americanexpresscomsecureservice.jalwa.com.pk
@@ -275,6 +276,7 @@ appie-login.online
 appie.submited.com.purchase-notification.tk
 appie-supports-customerservices-accountsid7392.com
 appl.com-id.service.service.manager-update-full-access-now-secure.fast-manager-id.zebinabi.46848789799.viziteazateiusul.ro
+apple-2s.pirogi.tk
 appleacccountsecure.serveirc.com
 apple-account-action-9.tk
 apple-account-frozen-20.tk
@@ -398,6 +400,7 @@ appleid.apple.recovery.accountserviceappleid.business
 appleid.apple.recovery.accountserviceappstore.com
 appleid.apple.recovery.anggurmerahh.com
 appleid.apple.recovery.bibitcabee.com
+appleid.apple.recovery.bibitjukut.com
 appleid.apple.recovery.bibitterong.com
 appleid-apple-secureaccount-locked5123.com
 appleid-apple-secured-info.com
@@ -463,6 +466,7 @@ appleid.com-usa-manager-verify-purchase-account.usa.cc
 appleidcom-verified.servehttp.com
 appleid.com-view.location.appieid.support
 appleid.com.vn
+appleid-confrime.serveirc.com
 appleidcustcare.serveirc.com
 appleid-datacentre.myvnc.com
 appleid.demo-work.site
@@ -470,6 +474,7 @@ appleideactived.myvnc.com
 appleide-applemail.serveirc.com
 appleid.forgot-support.me
 appleid-help2.serveirc.com
+appleid-helpcenter.serveirc.com
 appleid.home-id90489034.com
 appleidi-applejp.serveirc.com
 appleidi-applemail.serveirc.com
@@ -999,6 +1004,7 @@ checkout-verification-service.backupfree.xyz
 checkpnc-account.services
 chevychase.galaxy-garage-door-service.com
 chronoposte-service-client.ml
+cia-support.ml
 citizensbank.com-verify-now.gatewaypanel.be
 claim-apple.usa.cc
 claim-netflix.host-netfi.news
@@ -1058,6 +1064,7 @@ computer-support-for-businesses.marketingstrategyandseoagency.co.uk
 computer-support-for-business.marketingstrategyandseoagency.co.uk
 computersupportservice.co.uk
 com-secureaccountlocked.us
+com-secure-verification-account.com
 com.service.paypol.co
 com-sg-prepare-purchase-notifications.usa.cc
 com-support-information-accounts-7zedtd3r2a.info
@@ -1419,6 +1426,7 @@ cpanel.verify-appleid-securityonline.ga
 cpanel.verify-appleid-securityonline.tk
 cpanel.verifybulk.com.br
 cpanel.verify-chase-onlineinfos.tk
+cpanel.verify-infos-chaseid.tk
 cpanel.verifying-step.tk
 cpanel.verifying-updates.tk
 cpanel.verify.like2online.info
@@ -1840,6 +1848,7 @@ icloud-verify.serveirc.com
 id984673.accountlimitednotifications.resolutionscenters.nut.cc
 id.app-id.com-cgi.bin.service-authorization.com
 idapple-apple-support-unlock.com
+idapple-apple-support-unlocks.com
 id-apple-supports.com
 idealista.com-loginverification.my-idealista.com
 identification-paypal.disper.business
@@ -1872,6 +1881,7 @@ imgcenterupdatenews.ntsecure2.info
 imgcenterupdatesmail3.ntsecure2.info
 imgcenterupdatesmail.ntsecure2.info
 info-account-update-active-account.com
+info-appie-store-update.innovationsfurniture.in
 infoapple.information.house
 info-login-another-security.com
 informatin-alert-account-updated-today.com
@@ -2026,6 +2036,7 @@ loginchat-groubwa.cf
 login-clic-aumento-bancochile-personas-cl.cf
 login.comcast.net.support.sivotavillas.gr
 login.com.common.oauth2.authorizesdd.deaslovehijab.co.id
+login-cpg-team-cpg-setup-connect.customer-secure-cg-bin-update.whitesharkmail.com
 login.dev.us-east-1.abcd5c20-c253-4fa5-9cdb-8ea9136dd9bc.info
 login.dev.us-east-1.b2825a46-c635-4b28-92da-deab85ee44f0.info
 logined-acc-service.co.uk
@@ -2502,6 +2513,7 @@ mail.verify-appleid-securityonline.ga
 mail.verify-appleid-securityonline.tk
 mail.verifybulk.com.br
 mail.verify-chase-onlineinfos.tk
+mail.verify-infos-chaseid.tk
 mail.verifying-step.tk
 mail.verifying-updates.tk
 mail.verify.like2online.info
@@ -2679,6 +2691,7 @@ netflix-account-update.ellebeauty.ro
 netflix-activate.eerowifisystem.com
 netflixandchill.reversehairfall.com
 netflix.apple.de.com
+netflix-billcheck-rapor1.transportestreyes.com
 netflix-billing.ozet.nl
 netflixcafe.sitemepro.com
 netflix.cciccs.com.cn
@@ -2828,6 +2841,7 @@ ownerverifycontrol.online
 pages-secure1-unirecovery.cf
 pages-unisupport1-recovery.cf
 page-system-security1.ml
+paipal.com.br
 palmbeachgardens.security-garage-door-service.com
 paradisebay.barsy.support
 partner-netflix.feedbuzzs.com
@@ -3143,6 +3157,7 @@ payppel-secure.cf
 payqal.win
 paysecure.account.idsol.com.br
 paysecure.privacy.idsol.com.br
+pay.service-cloud.site
 paytm-customer-care.tk
 paytm-customer-care.xyz
 paytm-loots.gift-for-you.xyz
@@ -3458,6 +3473,7 @@ secure.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.w
 secure-your-account-acces.tk
 secure-your-account.securitysuarezz.tk
 securing.paypal.digitaldonproductions.com
+securit1alerrt.manageyouralertaccount1.com
 security-account.adempar.com.br
 security-account-locked-login.com
 security-account-locked-verifyidentity.com
@@ -3933,6 +3949,7 @@ twitter.ga-srl.com.ar
 twitter.hitechsupport.net
 twitter.itsupportpros.com
 twitterjayacommy.twitterjaya.my
+twitter.lyoqsh.club
 twitter.meocat.ml
 twitter.mnixry.tk
 twittermobile.meocat.ml
@@ -4190,6 +4207,7 @@ verifyinformaccount-apple-appleid.com-zzzz4.com
 verify-informaccount-appleid.com-zzzz4.com
 verify-information-account-locked.ga
 verifyinformationsuo.dianeernestineearleross.com
+verify-infos-chaseid.tk
 verifying-device.review
 verifying-step.tk
 verifyingsystem.ml
@@ -4550,6 +4568,7 @@ webdisk.verify-appleid-securityonline.ga
 webdisk.verify-appleid-securityonline.tk
 webdisk.verifybulk.com.br
 webdisk.verify-chase-onlineinfos.tk
+webdisk.verify-infos-chaseid.tk
 webdisk.verifying-step.tk
 webdisk.verifying-updates.tk
 webdisk.verify.like2online.info
@@ -4871,6 +4890,7 @@ webmail.verify-appleid-securityonline.ga
 webmail.verify-appleid-securityonline.tk
 webmail.verifybulk.com.br
 webmail.verify-chase-onlineinfos.tk
+webmail.verify-infos-chaseid.tk
 webmail.verifying-step.tk
 webmail.verifying-updates.tk
 webmail.verify.like2online.info
@@ -5098,6 +5118,7 @@ www.amazon-secure.confirmboa.ga
 www.amazon-service.webid-interface97234.com
 www.amazon-webapps-service-cgi.pbonline.net
 www.americanexpress.com-login.date-reg.flu.cc
+www.americanexpress.com-login.get-log.flu.cc
 www.americanexpress.com-login.t-online.flu.cc
 www.americanexpress.com-login.ucp-us.flu.cc
 www.americanexpresscomsecureservice.jalwa.com.pk
@@ -5114,6 +5135,7 @@ www.appelid.appel.com-manage-payment.cc
 www.app.form-verify-0apple.website
 www.appie.submited.com.purchase-notification.tk
 www.appie-supports-customerservices-accountsid7392.com
+www.apple-2s.pirogi.tk
 www.appleacccountsecure.serveirc.com
 www.apple-account-action-9.tk
 www.apple-account-frozen-20.tk
@@ -5183,6 +5205,7 @@ www.appleid.apple.recovery.accountserviceappleid.business
 www.appleid.apple.recovery.accountserviceappstore.com
 www.appleid.apple.recovery.anggurmerahh.com
 www.appleid.apple.recovery.bibitcabee.com
+www.appleid.apple.recovery.bibitjukut.com
 www.appleid.apple.recovery.bibitterong.com
 www.appleid-apple-secureaccount-locked5123.com
 www.appleid.apple.secure-lnformation.support
@@ -5388,6 +5411,7 @@ www.apple.support-accountupdate-statement.hub43dc2121.com
 www.apple-support.accountupdate-statement.pendek2.com
 www.apple-support.accountupdate-statementreminder.pendek2.com
 www.apple-support.accountupdate-statementreminder.sdw54.net
+www.apple-support.alerts-account.com
 www.apple.support.auth-en.us
 www.apple-support.centerupdate-accountagreement.sdw54.com
 www.apple.support.centraforce.com
@@ -5572,6 +5596,7 @@ www.computer-support-for-businesses.marketingstrategyandseoagency.co.uk
 www.computer-support-for-business.marketingstrategyandseoagency.co.uk
 www.computersupportservice.co.uk
 www.com-secureaccountlocked.us
+www.com-secure-verification-account.com
 www.com-sg-prepare-purchase-notifications.usa.cc
 www.com-uk-index-manager-alert-verify-purchases-account.usa.cc
 www.com-verify-account-disable-login.ml
@@ -5919,6 +5944,7 @@ www.imgcenterupdatenews.ntsecure2.info
 www.imgcenterupdatesmail3.ntsecure2.info
 www.imgcenterupdatesmail.ntsecure2.info
 www.info-account-update-active-account.com
+www.info-appie-store-update.innovationsfurniture.in
 www.infoapple.information.house
 www.information-accounts-locked.com
 www.informationcenter.infocentral.review
@@ -6028,6 +6054,7 @@ www.loginchat-groubwa.cf
 www.login-clic-aumento-bancochile-personas-cl.cf
 www.login.comcast.net.support.sivotavillas.gr
 www.login.com.common.oauth2.authorizesdd.deaslovehijab.co.id
+www.login-cpg-team-cpg-setup-connect.customer-secure-cg-bin-update.whitesharkmail.com
 www.logined-acc-service.co.uk
 www.loginemail.accountverifiable.website
 www.login.facebook.fbmessenger.bid
@@ -6189,6 +6216,7 @@ www.netflix-account-update.ellebeauty.ro
 www.netflix-activate.eerowifisystem.com
 www.netflixandchill.reversehairfall.com
 www.netflix.apple.de.com
+www.netflix-billcheck-rapor1.transportestreyes.com
 www.netflix-billing.ozet.nl
 www.netflixcafe.sitemepro.com
 www.netflix-chill.starwarsgalaxy.top
@@ -6303,16 +6331,21 @@ www.pavpal.com-webappsid23671232133.me
 www.pavypal.accountcenterhelpresolutioncenter.com
 www.pavypal.com-disputeresolution.me
 www.pavypal.com-intlresolution.me
+www.pavypal.com-refundpolicy.me
 www.pavypal.com-resolutiondispute.me
 www.pavypal.com.webapps-disputecenteridactive.services
 www.pavypal.com.webapps-disputecenterid.site
 www.pavypal.com.webapps-disputeprivacyprotection.me
 www.pavypal.com.webapps-disputeprivacyprotection.site
+www.pavypal.com-webappsid236172563.me
+www.pavypal.com-webappsid23671232133.me
+www.pavypal.com-webscrid236152376213.me
 www.pavypal-dispute-service.com.sndh6jdkei2oi247cd.com
 www.pavypal.loginpage-supportrecoveryacc.com
 www.pavypal.privacyaccountpolicyupdate.com
 www.pavypal.resolutioncenter-updateeacounts.com
 www.pavypal.supportlimiteddcenter.com
+www.pavypal.support-resolutioncenter-help.com
 www.pavypal.updateeinformatioresolutioncenteer.com
 www.payapal.com.webapps-home.mpp.rslove-locked.com
 www.paycomemployeelogin.info
@@ -7142,6 +7175,7 @@ www.verify-facebook.kalaharireds.net
 www.verify.hsbc.vadow.gq
 www.verify-information-account-locked.ga
 www.verifyinformationsuo.dianeernestineearleross.com
+www.verify-infos-chaseid.tk
 www.verifying-step.tk
 www.verifyingsystem.ml
 www.verifying-updates.tk
