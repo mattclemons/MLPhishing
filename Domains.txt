@@ -221,6 +221,7 @@ amazon-service.webid-interface97234.com
 amazon-webapps-service-cgi.pbonline.net
 americanexpress.com-login.date-reg.flu.cc
 americanexpress.com-login.t-online.flu.cc
+americanexpress.com-login.ucp-us.flu.cc
 americanexpresscomsecureservice.jalwa.com.pk
 americanexpress.com-service.night-us.flu.cc
 americanexpress.com-us.verify-myc.flu.cc
@@ -325,6 +326,7 @@ appleid-activate.myftp.org
 appleidactived.myvnc.com
 appleidalert.services
 appleid-alertslock.serveirc.com
+appleid-allerts.serveirc.com
 appleid-appdisabled.myvnc.com
 appleid.appelid.ml
 appleid-appiecom.serveirc.com
@@ -364,6 +366,7 @@ appleid.apple.recovery.anggurmerahh.com
 appleid.apple.recovery.bibitcabee.com
 appleid.apple.recovery.bibitterong.com
 appleid-apple-secureaccount-locked5123.com
+appleid-apple-secured-info.com
 appleid.apple.secure-lnformation.support
 appleid-apple-secureverify.com
 appleid.apple.serviceid78678.com
@@ -397,6 +400,7 @@ appleid-check-secure.ooo
 appleid-checksupport.ooo
 appleid.com-apple.net
 appleid.com-apply-notice-cancellations-accounts.usa.cc
+appleid.com-apply-notice-verified-accounts.usa.cc
 appleid.com-apply-purchase-notice-cancellations.usa.cc
 appleid.com-apply-verify-cancellations-purchase-acc.usa.cc
 appleid.com-ca-index-manager-identify-purchase-account.usa.cc
@@ -454,6 +458,7 @@ appleid.login-support.us
 appleid-logon.apple-log.com.verifiyinhg-a-securityf.info
 appleid-logonapp.servehttp.com
 appleid-logon.serveirc.com
+appleid.lwlantz.com
 appleidmailsuspecious.me
 appleid-mailvalidation.tuyulbangor.com
 appleid.manage.com.signin.report
@@ -489,6 +494,7 @@ appleid.sign-ld.com
 appleid.soporte-lat.com
 appleidstorehelp.serveirc.com
 apple-id-support-account.com
+appleid-support.co
 appleid.supportid20312.com
 appleid.supportid20323.com
 appleid.supportid293.com
@@ -833,6 +839,7 @@ beta.ru.apple-pay.pg.int.ridero.eu
 bienvenidosnetflix.imagenesdecantantes.com
 bigpond-emailsupport.attemail-customer-service.com
 bill-accounts-tls.hidrotubosmg.com.br
+billing.account.netflx.com.update-netflix.com
 billpayments.appleid.com.xsecure07.com
 bimmernavupdates.accountant
 binance.com-login.cropac.club
@@ -869,6 +876,7 @@ chaseaccountverificationsettings.puspawarna.com
 chase.com.facilveiculos.com.br
 chase.com.mathematicalsysteminfo.usa.cc
 chase.com.online.server.chaseonline.com.ihsanaktas.av.tr
+chase-customer.online
 chase.home-access.gq
 chase.onlinebanking.com-internetbanking.com.informweb.com.br
 chaseonline.chase.com7identity.ga
@@ -922,6 +930,7 @@ com-information-system-account.com
 com-login-account-other.com
 com-login.in
 com-noticeid-manage-service.business
+com-noticeid-service.center
 comofuncionanetflix.online
 com-online.support
 companysupportggmd.ml
@@ -1027,6 +1036,7 @@ cpanel.apple-icloud.eu
 cpanel.appleicloud.in
 cpanel.appleidactived.myvnc.com
 cpanel.appleid-alertslock.serveirc.com
+cpanel.appleid-allerts.serveirc.com
 cpanel.appleid-apple.dynv6.net
 cpanel.appleid.apple.locked-account-support.com
 cpanel.appleid-apple.manageweb2appworld.com
@@ -1153,6 +1163,7 @@ cpanel.microsoft-security-alert-990.ml
 cpanel.microsoft-support-alert-89.cf
 cpanel.movil.facebook.com-in.help
 cpanel.m-phone-secure-service.cf
+cpanel.m-phone-secure-service.ml
 cpanel.myaccount.com.my
 cpanel.myaccountds.secureds2.appleid-apple.donotreplymail234133.com
 cpanel.myaccountds.secureds2.appleid-apple.supported-icloud-service.com
@@ -1302,6 +1313,7 @@ customer-support1org.ga
 customer-support.biz
 customer.support.ebay.org-us.net
 customersupporthelpline.in
+customersupport-number.in-facebook.com
 customersupportservice.info
 customer-support-team.ausstellerservice.business
 customer-support-team.autboxclothing.business
@@ -1352,6 +1364,7 @@ doordashcomcustomervhf.ml
 dropbox.andrepadua.com.br
 dropbox.com.login.ocean14corp.com
 dropbox.com.login.tubookpro.cl
+dropbox.com.login.yondemli.com
 dropbox.com-secure-sign-inconnect-document.com.vociferousmag.com
 dropbox.com.verify.mahoningvalleyems.org
 dropbox.com.verify.rccgregion22usheringministry.org
@@ -1404,6 +1417,7 @@ esnetflix.cf
 esnetflix.ml
 et.einteractrasfer1-refund-paym11ents-secure-acc1ount.log1n-ac78233390486294007363.byronksmith.com
 eu.apple-pay.pg.int.ridero.eu
+ezmyaccount.nytimes.com.proxy.chemeketa.edu
 facebook.account.com.rain.co.id
 facebook.com-facebook-security-alpha.serveo.net
 facebook.com-login.de
@@ -1508,6 +1522,7 @@ help.netflix.com.node-47328.usa.cc
 help.netflix.com.node843297.usa.cc
 help.netflix.com-paymentauthrized.node87686.usa.cc
 helpnsupport.win
+help-service-information.oasys.tn
 herp---------------------derp---------------------trains.tk
 home-appleid.apple.growtopia-tools.com
 home.appleid.apple.growtopia-tools.com
@@ -1752,6 +1767,7 @@ itunes-locked-account-support.daveferrie.com
 itunesnge.ml
 itunesphoneacc.ga
 itunes-storeapple-locked.arhavidikyamacmuzesi.org
+itunes-support.us
 iverify.mobileio.ga
 java-online-job-supports-from-india.it-brains.in
 jenkins-pipeline.bsg-account-service.intern.test.sda-se.com
@@ -1835,6 +1851,7 @@ login.microsoftonline.com.office.microsoft-o365.falabellapoc.shnpoc.net
 login.microsoftonline.com.office.natixis.myshn.net
 login.microsoftonline.com.office.proxyauto.myshn.net
 login.microsoftonline.com.office.skyhigh4898.skyhigh4898.shnpoc.net
+login.microsoftonline.com.office.test.skyhigh5227.shnpoc.net
 login.microsoftonline.com.us.cas.ms
 login.microsoftonline.csirt-emi.com
 login.microsoftonline-p.com.us.cas.ms
@@ -1850,6 +1867,7 @@ login.netflix-index.com
 login.office365.com.cgi-sys.email
 loginonlinedatabasesurveybtstcomverifyidsessions723425342.stlucia-ksa.com
 login.outlook.evilginx.pwned.fun
+login.outlook.live.com.logina.accountsgooglecom.us
 login.outlooks.office.updates.jahantanzif.ir
 login.outlooks.updates.tanzifesfahan.ir
 login-payment.service-iccloud-rese-pay.com
@@ -1943,6 +1961,7 @@ mail.appleicloud.in.md-112.webhostbox.net
 mail.appleida-applemail.serveirc.com
 mail.appleidactived.myvnc.com
 mail.appleid-alertslock.serveirc.com
+mail.appleid-allerts.serveirc.com
 mail.appleid-apple.dynv6.net
 mail.appleid.apple.locked-account-support.com
 mail.appleid-apple.manageweb2appworld.com
@@ -2099,6 +2118,7 @@ mail.microsoft-security-alert-990.gq
 mail.microsoft-security-alert-990.ml
 mail.microsoft-support-alert-89.cf
 mail.m-phone-secure-service.cf
+mail.m-phone-secure-service.ml
 mail.myaccount.com.my
 mail.myaccountds.secureds2.appleid-apple.donotreplymail234133.com
 mail.myaccountds.secureds2.appleid-apple.supported-icloud-service.com
@@ -2131,6 +2151,7 @@ mail.paypal-account-verification.usa.cc
 mail.paypal.dealsdepartment.com.au
 mail.paypal.ecodriversbr.com.br
 mail.paypall.com.ng
+mail.paypal.peka9.com
 mail.paypal.runxe.xyz
 mail.paypal-secure-support.tk
 mail.paypal-security-center.ml
@@ -2294,6 +2315,7 @@ martinssupportservice.com.br
 mcrosoft-support-helplines.tk
 mdsystems---ch---updates-gv2zwpa-j4j3yv6ct2s3c.eu.platform.sh
 mejoresseriesnetflix.dosanunciosyvolvemos.com
+members-account-paypalx.com.confirmation-information.updtae-login.publicadjusterexperts.com
 member-verification-update-account-confirmation-service.alabamaatv.net
 membre-conformation-account-login.eekos.net
 metadata-pypal.tk
@@ -2331,6 +2353,7 @@ mobodemo.apple-service.biz
 movienetflix.cf
 movil.facebook.com-in.help
 m-phone-secure-service.cf
+m-phone-secure-service.ml
 msbonline.accounts-information.com
 m.security-appleid.com
 msoutlooksecuredemailmaintenanceplatform.sysjrd.com.ve
@@ -2705,6 +2728,7 @@ paypal.onlineverification.smart-login.usa.cc
 paypal.oyadincer.com
 paypal.ozsayin.net
 paypal.peacefulplushes.com
+paypal.peka9.com
 paypal.penepo-connect.com
 paypal.perfectadvisory.in
 paypalphp.angelleye.com
@@ -2779,6 +2803,7 @@ paypal.update.com.destinosantacruz.com
 paypal.update.com.photostudiogt.com
 paypal-update.jogo.lusocarbono.pt
 paypal-update.misteriodaessencia.com.br
+paypal.update.service.cgi-webapps-ca.com
 paypal-update-your-account-information-email.nitevibezradio.com
 paypal-v7snc3y-6ra7hrumnpuw2.us.magentosite.cloud
 paypal.venozacoffee.co.uk
@@ -2793,6 +2818,7 @@ paypal.webapps.sagarsolanki.ml
 paypal.webservicess.org
 paypal.webshaper.com.my
 paypal.wikimedia.ca
+paypal.x.com.information-confirmation.update-login.publicadjusterexperts.com
 paypal.xenudo.com
 paypal.z6creation.net
 paypa.refundsecurity.update.milregalitos.com
@@ -3003,6 +3029,7 @@ secure.bankofamerica.statements.details.phdnegocios.com.br
 secure.bankofamerica.statements.details.rcsbchat.com
 secure.bankofamerica.statements.myaccounts.cestabasicadf.com.br
 secure-barclays.verify.tips4travel.mx
+secure-chaseonline-account.yunkui.ru
 secured-access-account-reactivation.online
 secured-access-account-reactivation.online.cp-50.webhostbox.net
 secure.dementia-care-and-support.co.uk
@@ -3146,6 +3173,7 @@ server2.weblogin.appleid-ldapple.hold-account-webreview.com
 server.accountnotificationreview.ml
 serverpaypaleurope.sytes.net
 server-paypal.servebeer.com
+servicc-netle-verification-datacustomer-logining-securty-ccss.ml
 servicc-verification-datacustomer-logining-securty-ccssc.tk
 service.123-support.nl
 service-accountess.co.uk
@@ -3154,6 +3182,7 @@ service-account-information.fadilkenthod.com
 service-account-information-help-support.lemindo.com
 service.account-limited.paypal.com-login.cheapelectricnow.net
 service-account-login.authentication.abubabama.com
+service-account.mostarbus.ba
 service-account-security2018.getlaunchedtoday.com
 service-accounts.servepics.com
 service-account-update-cmd4ad4c78ac87ac.de-barones.com
@@ -3214,11 +3243,14 @@ seucre.recovery-account.weblogin.authentication-dasboard.com
 sharepoint.APAC.microsoftonline.com.clotero.airwatchvmware.shnpoc.net
 sharepoint.APAC.microsoftonline.com.office.microsoft-o365.falabellapoc.shnpoc.net
 sharepoint.APAC.microsoftonline.com.office.skyhigh4898.skyhigh4898.shnpoc.net
+sharepoint.APAC.microsoftonline.com.office.test.skyhigh5227.shnpoc.net
 sharepoint.EMEA.microsoftonline.com.clotero.airwatchvmware.shnpoc.net
 sharepoint.EMEA.microsoftonline.com.office.microsoft-o365.falabellapoc.shnpoc.net
 sharepoint.EMEA.microsoftonline.com.office.skyhigh4898.skyhigh4898.shnpoc.net
+sharepoint.EMEA.microsoftonline.com.office.test.skyhigh5227.shnpoc.net
 sharepoint.microsoftonline.com.office.microsoft-o365.falabellapoc.shnpoc.net
 sharepoint.microsoftonline.com.office.skyhigh4898.skyhigh4898.shnpoc.net
+sharepoint.microsoftonline.com.office.test.skyhigh5227.shnpoc.net
 shopallthingsapples.co.za.allthingsapples.co.za
 shop.applebyscheese.co.uk.dwheatley-pk76gra-45kvkqx5he5dm.eu.platform.sh
 sicher-kunde-verify.ga
@@ -3286,6 +3318,7 @@ ssl.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.login.microsofto
 sso-secure-log-webmaiil.ml
 stargamescomlogin.review
 statementaccessoriesinstagram.cf
+statement.id-manage-account.statementpayment.com
 statement.index-cgi-privacy.secure.subscription.payments.securessubscriptions.org
 statement-update-accounts.suport-activitys.com
 statementverificationsecurity.ga
@@ -3480,6 +3513,7 @@ support-update-information.com
 support-update.information.happyplacetea.com
 support-update-information.ttelectric.com
 support.update.your.account.store2id.itun3s.com.my-phonehelp.com
+support-verfybadgeonline.cf
 support.verifications.io
 support-verify-payment.d0f262a9c560.com
 support-webnetworksecurity.site
@@ -3807,6 +3841,7 @@ vk-accounts-systembot.tk
 vk.com.login.php.security-check.rsp-type.token.page.p5f4hj.top
 vk.com.supports.antiviruseguardinonline.xyz
 vodafone-secureloginclient.company
+wallet-login.blocckchainn.info.confirmation-acc.cgi-login.publicadjusterexperts.com
 w.com-information-system-account.com
 wdclp.security.online-banking.hsbc.com.eg
 web03.secureitsupport.us
@@ -3853,6 +3888,7 @@ webdisk.apple-icloud.eu
 webdisk.appleicloud.in
 webdisk.appleidactived.myvnc.com
 webdisk.appleid-alertslock.serveirc.com
+webdisk.appleid-allerts.serveirc.com
 webdisk.appleid-apple.dynv6.net
 webdisk.appleid.apple.locked-account-support.com
 webdisk.appleid-apple.manageweb2appworld.com
@@ -3979,6 +4015,7 @@ webdisk.microsoft-security-alert-990.ml
 webdisk.microsoft-support-alert-89.cf
 webdisk.movil.facebook.com-in.help
 webdisk.m-phone-secure-service.cf
+webdisk.m-phone-secure-service.ml
 webdisk.myaccount.com.my
 webdisk.myaccountds.secureds2.appleid-apple.donotreplymail234133.com
 webdisk.myaccountds.secureds2.appleid-apple.supported-icloud-service.com
@@ -4131,6 +4168,7 @@ webmail.apple-icloud.eu
 webmail.appleicloud.in
 webmail.appleidactived.myvnc.com
 webmail.appleid-alertslock.serveirc.com
+webmail.appleid-allerts.serveirc.com
 webmail.appleid-apple.dynv6.net
 webmail.appleid.apple.locked-account-support.com
 webmail.appleid-apple.manageweb2appworld.com
@@ -4259,6 +4297,7 @@ webmail.microsoft-security-alert-990.ml
 webmail.microsoft-support-alert-89.cf
 webmail.movil.facebook.com-in.help
 webmail.m-phone-secure-service.cf
+webmail.m-phone-secure-service.ml
 webmail.myaccount.com.my
 webmail.myaccountds.secureds2.appleid-apple.donotreplymail234133.com
 webmail.myaccountds.secureds2.appleid-apple.supported-icloud-service.com
@@ -4575,6 +4614,7 @@ www.amazon-service.webid-interface97234.com
 www.amazon-webapps-service-cgi.pbonline.net
 www.americanexpress.com-login.date-reg.flu.cc
 www.americanexpress.com-login.t-online.flu.cc
+www.americanexpress.com-login.ucp-us.flu.cc
 www.americanexpresscomsecureservice.jalwa.com.pk
 www.americanexpress.com-service.night-us.flu.cc
 www.americanexpress.com-us.verify-myc.flu.cc
@@ -4631,6 +4671,7 @@ www.appleida-applemail.serveirc.com
 www.apple-id-account-login-secure.tk
 www.appleidactived.myvnc.com
 www.appleid-alertslock.serveirc.com
+www.appleid-allerts.serveirc.com
 www.appleid.appelid.ml
 www.appleid.apple.accounts-secure-pages.com
 www.appleid.apple.adampreble.com
@@ -4670,6 +4711,7 @@ www.appleidcentreunlock-apple23.com
 www.appleidcentreunlock-apple349.com
 www.appleid.com-apple.net
 www.appleid.com-apply-notice-cancellations-accounts.usa.cc
+www.appleid.com-apply-notice-verified-accounts.usa.cc
 www.appleid.com-apply-purchase-notice-cancellations.usa.cc
 www.appleid.com-apply-verify-cancellations-purchase-acc.usa.cc
 www.appleid.com-ca-index-manager-identify-purchase-account.usa.cc
@@ -4940,6 +4982,7 @@ www.chaseaccountverificationsettings.puspawarna.com
 www.chase.com.facilveiculos.com.br
 www.chase.com.mathematicalsysteminfo.usa.cc
 www.chase.com.online.server.chaseonline.com.ihsanaktas.av.tr
+www.chase-customer.online
 www.chase.home-access.gq
 www.chase.onlinebanking.com-internetbanking.com.informweb.com.br
 www.chaseonline.chase.com.elegantinternational.biz
@@ -4981,6 +5024,7 @@ www.com-information-system-account.com
 www.com-login-account-other.com
 www.com-login.in
 www.com-noticeid-manage-service.business
+www.com-noticeid-service.center
 www.com-online.support
 www.company-support.store
 www.com.paypal.verify.your.account.sinharinha.com.br
@@ -5041,6 +5085,7 @@ www.customerservice.skoolpay.com.ng
 www.customerservice-support.com
 www.customer-support.biz
 www.customersupporthelpline.in
+www.customersupport-number.in-facebook.com
 www.customer.testdomainforaroha.online
 www.customerx.service-now.com.us.cas.ms
 www.data-information-security.eu
@@ -5057,6 +5102,7 @@ www.docs.service-mail-login.com
 www.docusign.com.login.viewfile.security.finbrick.com
 www.dropbox.com.login.ocean14corp.com
 www.dropbox.com.login.tubookpro.cl
+www.dropbox.com.login.yondemli.com
 www.dropbox.com-secure-sign-inconnect-document.com.vociferousmag.com
 www.dropbox.com.verify.mahoningvalleyems.org
 www.dropbox.com.verify.rccgregion22usheringministry.org
@@ -5174,6 +5220,7 @@ www.help.netflix.com.node-31293c64c43fa12d600ce5483b11c02322.flu.cc
 www.help.netflix.com.node-47328.usa.cc
 www.help.netflix.com.node843297.usa.cc
 www.help.netflix.com-paymentauthrized.node87686.usa.cc
+www.help-service-information.oasys.tn
 www.home-appleid.apple.growtopia-tools.com
 www.home.appleid.apple.growtopia-tools.com
 www.homepage-accounting-service-form.tk
@@ -5413,6 +5460,7 @@ www.login-my-account.online
 www.login-myaccount.shopingorder.com
 www.login.myups.support
 www.loginonlinedatabasesurveybtstcomverifyidsessions723425342.stlucia-ksa.com
+www.login.outlook.live.com.logina.accountsgooglecom.us
 www.login.outlooks.office.updates.jahantanzif.ir
 www.login.outlooks.updates.tanzifesfahan.ir
 www.login-payment.service-iccloud-rese-pay.com
@@ -5481,6 +5529,7 @@ www.mapsconnect.apple.auth-en.us
 www.martinssupportservice.com.br
 www---mdsystems---ch---updates-gv2zwpa-j4j3yv6ct2s3c.eu.platform.sh
 www.mejoresseriesnetflix.dosanunciosyvolvemos.com
+www.members-account-paypalx.com.confirmation-information.updtae-login.publicadjusterexperts.com
 www.member-verification-update-account-confirmation-service.alabamaatv.net
 www.membre-conformation-account-login.eekos.net
 www.metrobankonline.co.uk.onlineupdate.secure.ioso.ch
@@ -5505,6 +5554,7 @@ www.mobile.paypal.verificarion-account.support.xahxief5jei.center
 www.mobodemo.apple-service.biz
 www.movil.facebook.com-in.help
 www.m-phone-secure-service.cf
+www.m-phone-secure-service.ml
 www.msoutlooksecuredemailmaintenanceplatform.sysjrd.com.ve
 www.my-account.ap-signing.info
 www.myaccount.com.my
@@ -5790,6 +5840,7 @@ www.paypal.onlineverification.smart-login.usa.cc
 www.paypal.oyadincer.com
 www.paypal.ozsayin.net
 www.paypal.peacefulplushes.com
+www.paypal.peka9.com
 www.paypal.perfectadvisory.in
 www.paypalphp.angelleye.com
 www.paypal.portais.com
@@ -5859,6 +5910,7 @@ www.paypal.update.com.destinosantacruz.com
 www.paypal.update.com.photostudiogt.com
 www.paypal-update.jogo.lusocarbono.pt
 www.paypal-update.misteriodaessencia.com.br
+www.paypal.update.service.cgi-webapps-ca.com
 www.paypal-update-your-account-information-email.nitevibezradio.com
 www.paypal.venozacoffee.co.uk
 www.paypalverificationzone.cinemayana.com
@@ -5870,6 +5922,7 @@ www.paypal-webapps.atcphpt.email
 www.paypal-webapps-intl.updated-au.com
 www.paypal.webapps.sagarsolanki.ml
 www.paypal.webservicess.org
+www.paypal.x.com.information-confirmation.update-login.publicadjusterexperts.com
 www.paypa.refundsecurity.update.milregalitos.com
 www.paypay-nl.ga
 www.paypay-security.usa.cc
@@ -6049,11 +6102,13 @@ www.seekverify.top10backgroundchecks.xyz
 www.ser.pp.pay.account.pay.securekil.tk
 www.server.accountnotificationreview.ml
 www.serverpaypaleurope.sytes.net
+www.servicc-netle-verification-datacustomer-logining-securty-ccss.ml
 www.servicc-verification-datacustomer-logining-securty-ccssc.tk
 www.service-accountess.co.uk
 www.service-account-info-mail.ebizkerala.com
 www.service-account-information-help-support.lemindo.com
 www.service.account-limited.paypal.com-login.cheapelectricnow.net
+www.service-account.mostarbus.ba
 www.service-account-security2018.getlaunchedtoday.com
 www.service-account-update-cmd4ad4c78ac87ac.de-barones.com
 www.serviceaccount-verified-informationsecure.hadafholidays.com
@@ -6432,6 +6487,7 @@ www.verify-your-account.bzcontadores.com
 www.view-account.com-login-verifycation.info
 www.vk.com.supports.antiviruseguardinonline.xyz
 www.vodafone-secureloginclient.company
+www.wallet-login.blocckchainn.info.confirmation-acc.cgi-login.publicadjusterexperts.com
 www.w.com-information-system-account.com
 www.webappappleidsecure.servebeer.com
 www.webapps-account-support-update-paypal.com.cuculonte.com
