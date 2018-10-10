@@ -32,6 +32,7 @@ account.apllpled-informati0nnlogincgib.wlegop.com
 accountappleid.serveirc.com
 accountapplesecure.serveirc.com
 account.billing.netflix.com.server-netflix.com
+account.cloud.lifestylesupports.com.au
 account-craigslist-confirm.longbeachgardencare.com.au
 accountdropbox-support.life
 account.espacocentesimo.com.br
@@ -256,6 +257,7 @@ appleacccountsecure.serveirc.com
 apple-account-action-9.tk
 apple-account-frozen-20.tk
 apple-account-frozen.ga
+apple.accountinformation.review
 apple-account-review-1.ml
 apple-account-review.gq
 appleaccountsecure.ddns.net
@@ -478,6 +480,7 @@ appleid.php-bz765.com
 appleid-purchaseyourorder.putepoteis.com
 appleid-puschase782.serveirc.com
 appleid-report.myftp.biz
+appleid-restore.us
 appleid-safe.tk
 appleids-applejp.serveirc.com
 appleid-secure2help.serveirc.com
@@ -893,6 +896,7 @@ chase.security-update-your-info.ibibrass.com
 chasesecurityupgrade.interac-carrier.xyz
 chasesecurityupgrade.xyz
 chase-service-verification.mudahmall.com
+chase.validation.verification.bereganursing.ac.tz
 chase-verifications.mudahmall.com
 chase.verification.wiems.org
 chase-verify.com
@@ -948,6 +952,7 @@ completesupportservice.co.uk
 comp-service.tk
 compte-verification557.tk
 computerdatasecurity.win
+computersupportservice.co.uk
 com-secureaccountlocked.us
 com.service.paypol.co
 com-sg-prepare-purchase-notifications.usa.cc
@@ -1043,6 +1048,7 @@ cpanel.appleid-apple.manageweb2appworld.com
 cpanel.appleid.apple.secure-lnformation.support
 cpanel.appleid-icloudmx.info
 cpanel.appleid-notif.serveirc.com
+cpanel.appleid-restore.us
 cpanel.appleidservice.centeredhgai.com
 cpanel.appleidservice.ddnsking.com
 cpanel.appleidsupport.ir
@@ -1082,6 +1088,7 @@ cpanel.com-index-managered-verifyed-purchases-accounts.usa.cc
 cpanel.com-index-reviews-manager-cancel-purchase-account.usa.cc
 cpanel.com-information-system-account.com
 cpanel.compte-verification557.tk
+cpanel.computersupportservice.co.uk
 cpanel.com-secureaccountlocked.us
 cpanel.com-sg-prepare-purchase-notifications.usa.cc
 cpanel.com-uk-index-manager-alert-verify-purchases-account.usa.cc
@@ -1911,6 +1918,7 @@ login.yahoo.com1389734723.ml
 login.yahoo.com1897623.ga
 login.yahoo.com.msg32.site
 login.yahooservice.ormco.ro
+loginyahoo.smalldoll.ga
 login-yahoo-verify.smalldoll.ga
 logs.in.payxpal.info.ayam-grepek-maknyus-enak.com
 mac-apple-support.us
@@ -1971,6 +1979,7 @@ mail.appleidi-applejp.serveirc.com
 mail.appleidi-applemail.serveirc.com
 mail.appleid-icloudmx.info
 mail.appleid-notif.serveirc.com
+mail.appleid-restore.us
 mail.appleidservice.centeredhgai.com
 mail.appleidservice.ddnsking.com
 mail.appleidsupport.ir
@@ -2019,6 +2028,7 @@ mail.com-information-system-account.com
 mail.com-noticeid-manage-service.business
 mail.company-support.store
 mail.compte-verification557.tk
+mail.computersupportservice.co.uk
 mail.com-secureaccountlocked.us
 mail.com-sg-prepare-purchase-notifications.usa.cc
 mail.com-uk-index-manager-alert-verify-purchases-account.usa.cc
@@ -3130,6 +3140,7 @@ security-account.adempar.com.br
 security-account-locked-login.com
 security-account-locked-verifyidentity.com
 security-account-login.com
+security-accounts-update.vitrosigalas.com
 security-account-verifyidentity.com
 security-alert-404.win
 security-appleincc.serveirc.com
@@ -3460,6 +3471,7 @@ support.google.com.accounts.answer.728291250992932177993997545455464570806953199
 support-haseh-team.ml
 supporthelp-account.toysandtoys.us
 support-icloud.fr
+support.id-manage.account.statement-access.com
 supportincservice.com.bh-24.webhostbox.net
 support-information-customer.chatoriaunty.com
 supportinfo-updateaccountdata.com
@@ -3584,6 +3596,7 @@ unlock.data.safe.your.account.verifying-updates.tk
 unlocked1dapple.serveftp.com
 unlocked-account-access-priority.news-important.com
 unlocked-icloud-supportapps.bantimurung.com
+unlocked-update.ga
 unlocked-userid-websupportpage.com
 unlock-mylockedaccount.accou4nts.com.restorelocked-myphone.info
 unlock.your.apple.account.id.verify.security.matriarestaurante.com
@@ -3895,6 +3908,7 @@ webdisk.appleid-apple.manageweb2appworld.com
 webdisk.appleid.apple.secure-lnformation.support
 webdisk.appleid-icloudmx.info
 webdisk.appleid-notif.serveirc.com
+webdisk.appleid-restore.us
 webdisk.appleidservice.centeredhgai.com
 webdisk.appleidservice.ddnsking.com
 webdisk.appleidsupport.ir
@@ -3934,6 +3948,7 @@ webdisk.com-index-managered-verifyed-purchases-accounts.usa.cc
 webdisk.com-index-reviews-manager-cancel-purchase-account.usa.cc
 webdisk.com-information-system-account.com
 webdisk.compte-verification557.tk
+webdisk.computersupportservice.co.uk
 webdisk.com-secureaccountlocked.us
 webdisk.com-sg-prepare-purchase-notifications.usa.cc
 webdisk.com-uk-index-manager-alert-verify-purchases-account.usa.cc
@@ -4175,6 +4190,7 @@ webmail.appleid-apple.manageweb2appworld.com
 webmail.appleid.apple.secure-lnformation.support
 webmail.appleid-icloudmx.info
 webmail.appleid-notif.serveirc.com
+webmail.appleid-restore.us
 webmail.appleidservice.centeredhgai.com
 webmail.appleidservice.ddnsking.com
 webmail.appleidsupport.ir
@@ -4215,6 +4231,7 @@ webmail.com-index-managered-verifyed-purchases-accounts.usa.cc
 webmail.com-index-reviews-manager-cancel-purchase-account.usa.cc
 webmail.com-information-system-account.com
 webmail.compte-verification557.tk
+webmail.computersupportservice.co.uk
 webmail.com-secureaccountlocked.us
 webmail.com-sg-prepare-purchase-notifications.usa.cc
 webmail.com-uk-index-manager-alert-verify-purchases-account.usa.cc
@@ -4632,6 +4649,7 @@ www.appleacccountsecure.serveirc.com
 www.apple-account-action-9.tk
 www.apple-account-frozen-20.tk
 www.apple-account-frozen.ga
+www.apple.accountinformation.review
 www.apple-account-review-1.ml
 www.apple-account-review.gq
 www.appleaccountsecure.ddns.net
@@ -4764,6 +4782,7 @@ www.appleid-noreply.mail-noreply.com
 www.appleid-notif.serveirc.com
 www.appleid-online-membersaklek.com
 www.appleid-paymentapps-authservices.com
+www.appleid-restore.us
 www.appleid-safe.tk
 www.appleid-securityapp.disaattanpakaudisini.com
 www.appleid-securityapp.ituhantubapanyameninggal.com
@@ -4996,6 +5015,7 @@ www.chase.security-update-your-info.ibibrass.com
 www.chasesecurityupgrade.interac-carrier.xyz
 www.chasesecurityupgrade.xyz
 www.chase-service-verification.mudahmall.com
+www.chase.validation.verification.bereganursing.ac.tz
 www.chase-verifications.mudahmall.com
 www.chase.verification.wiems.org
 www.chase-verify.com
@@ -5030,6 +5050,7 @@ www.company-support.store
 www.com.paypal.verify.your.account.sinharinha.com.br
 www.completesupportservice.co.uk
 www.compte-verification557.tk
+www.computersupportservice.co.uk
 www.com-secureaccountlocked.us
 www.com-sg-prepare-purchase-notifications.usa.cc
 www.com-uk-index-manager-alert-verify-purchases-account.usa.cc
@@ -5487,6 +5508,7 @@ www.login.usaa.support.info.online.domenicopaulon.com
 www.login.verifyoffice.ga
 www.login.yahoo.com1389734723.ml
 www.login.yahooservice.ormco.ro
+www.loginyahoo.smalldoll.ga
 www.login-yahoo-verify.smalldoll.ga
 www-logi-php-secure-com.netflixverifikasionaccount.ml
 www.mac-apple-support.us
@@ -6077,6 +6099,7 @@ www.security-account.adempar.com.br
 www.security-account-locked-login.com
 www.security-account-locked-verifyidentity.com
 www.security-account-login.com
+www.security-accounts-update.vitrosigalas.com
 www.security-account-verifyidentity.com
 www.securityapple.wickedweaver.com
 www.security-as-a-service.io
@@ -6324,6 +6347,7 @@ www.unlock.data.safe.your.account.entidad-verified.tk
 www.unlock.data.safe.your.account.verifying-step.tk
 www.unlock.data.safe.your.account.verifying-updates.tk
 www.unlocked-icloud-supportapps.bantimurung.com
+www.unlocked-update.ga
 www.unlock-mylockedaccount.accou4nts.com.restorelocked-myphone.info
 www.unlock.your.apple.account.id.verify.security.matriarestaurante.com
 www.unsualaktifity-youaccountsecured.ml
