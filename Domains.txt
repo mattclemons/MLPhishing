@@ -190,6 +190,7 @@ adsense-login.cf
 albasec.supportandservice.center
 alert-loginapple.serveirc.com
 alertpayment.updated.milmag.ro
+alertsecurity.cf
 all-customer-service.us
 allert01-loginapplemanagelocked.tk
 allinformationupdate.ml
@@ -307,6 +308,7 @@ apple-error-alert.tk
 apple.fastiphone.com.br
 applefindmyiphone-online.ml
 apple.google-map.site
+applegroup.1burn.tk
 apple-helpcenter.serveftp.com
 apple-helpsecure.myvnc.com
 applehillsart.toews.tk
@@ -456,6 +458,7 @@ appleid-ios-secure-verify.appeltda.com
 appleid-ios-secure-verify-info.appeltda.com
 appleidjp-applemail.serveirc.com
 appleidkey.servicez-paypa.com
+appleid.lcloudsign.com
 appleid-locked-account.com.acegfxradiohosting.com
 apple.id-login.com
 appleid-loginordereview.putepoteis.com
@@ -482,6 +485,7 @@ appleid-paymentid.serveirc.com
 appleid.php-bz765.com
 appleid-purchaseyourorder.putepoteis.com
 appleid-puschase782.serveirc.com
+appleid-recoverypurchase.com
 appleid-report.myftp.biz
 appleid-restore.us
 appleid-safe.tk
@@ -833,6 +837,7 @@ bankofamerica.gustiramedia.id
 bankofamerica.medentic.cl
 bankofamerica.myaccount.nationalscenter.net
 bankofamerica.onlinebanking.aamalrecruitment.com
+bankofamericaonline.ddns.net
 bankofamerica-routingnumber.us.healthcabins.com
 bankofamericasecure.extremeconnect.com.br
 barclayssecureonlineverificationpage.abusalma.net
@@ -853,6 +858,7 @@ billpayments.appleid.com.xsecure07.com
 bimmernavupdates.accountant
 binance.com-login.cropac.club
 bittrex.com.account.login1.frpfiles.com
+bittrex.com-account.plascamil.club
 bloginformaticamicrocamp.com.br
 blog---md-systems---ch---updates-gv2zwpa-j4j3yv6ct2s3c.eu.platform.sh
 blue-apple.alt-design-dev.co.uk
@@ -885,6 +891,7 @@ chaseaccount.ga
 chaseaccount.tk
 chaseaccountverificationsettings.puspawarna.com
 chase.com.facilveiculos.com.br
+chase.com.inspireracingclub.co.uk
 chase.com.mathematicalsysteminfo.usa.cc
 chase.com.online.server.chaseonline.com.ihsanaktas.av.tr
 chase-customer.online
@@ -932,6 +939,7 @@ com-auth-verification-service-sign.com
 com-auth-verification-sign-account.com
 com-ca-index-manager-identify-purchase-account.usa.cc
 com-findmyphone.support
+comfirm-information-login.gq
 com-index-manager-alert-verify-purchases-account.usa.cc
 com-index-manager-alert-your-purchase.usa.cc
 com-index-managered-notice-purchase-account.usa.cc
@@ -1017,6 +1025,7 @@ consulitasair.approjasverify043bank.ar.geoshield.com.my
 contact.account.service.gmviagens.com.br
 contact-os.apple.acc-support.idsm.planpakistan.org
 contasnetflixgratis.ga
+correohotmail.com.co
 costumer-service-verification.pedelectric.com.au
 cpanel.accountalert.usa.cc
 cpanel.account-helpjacques-online.com
@@ -1371,6 +1380,7 @@ dev.appleiq.imposium.com
 develop.bsg-account-service.intern.test.sda-se.com
 device-apple.suportefmi-br.online
 disabilitysupportworkerstaxonline-com-au.accountantsplus.com.au
+disablelogin-acces.cf
 discover-prior-full-stack-service.review
 discover-top-marketing-service.review
 discover-top-seo-service.review
@@ -1631,6 +1641,7 @@ icloud.com.ifinder.gq
 icloud.com.iinfo.cf
 icloud.com.i-login.live
 icloud.com.i-logins.live
+icloud.com-i-logs.review
 icloud.com.inc-web.site
 icloud.com.ios-sign.in
 icloud.com.locates.support
@@ -2418,6 +2429,7 @@ myaccounts.secure.bankofamerica.statements.cestabasicadf.com.br
 myaccount.stdctd.online
 myaccount.summary.logindevice.verifcarcuenue2youngsickboy.com
 myaccountsverifications.com
+myaccounts-verify.capitalone.com
 myaccount-webbaps-updates-security-information.paiyapapal.com
 myaccount-webbaps-verify-security-information.paiyapapal.com
 my.acc.secure-intl.ld-supportpages.com
@@ -3379,6 +3391,7 @@ staticweb.summarybankofamerica.usscalemasters.org
 statmenth.informationsignin-access.privacy.search-details.net
 steamverify.xyz
 store.appleld.com.dadigitalpresent.mk
+store-applesupportinvoice.com
 store.ebay.de.isduk.in
 store.ebay.de.rgsales.in
 store.ro-service.xyz
@@ -3675,6 +3688,7 @@ update-id-ay8bi6q1o5-account-supporte.ga
 update-information-accont.celticbhoys.co.uk
 update-informationmanage-account-confirmationcenter-access.com
 updateinformation-manage-account-confirmationcenter-access.com
+updateinformation-manageaccount-confirmationcenter-access.com
 update-informations-account.gq
 update-information-safety-and-security.mirestauracion.net
 update.myaccount.hostdcenter.net
@@ -3715,6 +3729,7 @@ update-your-information-support.katiemurray.com
 update-your-itunes-information.villa-bellevue.hr
 update-your-security-limited-informations-account-service.hoppespoolandspa.com
 up.inf.verif.login.plumberbalgowlah.com.au
+upload.service-und-support.de
 us001.instagramverification.com.ongkey.com
 us002.instagramverification.com.ongkey.com
 us003.instagramverification.com.ongkey.com
@@ -4728,6 +4743,7 @@ www.applecustomersupport.co.uk
 www.appleenglishschoolcom.smarthost.pl
 www.apple.fastiphone.com.br
 www.apple.google-map.site
+www.applegroup.1burn.tk
 www.apple-helpsecure.myvnc.com
 www.applehillsart.toews.tk
 www.apple-icloud.co
@@ -4834,6 +4850,7 @@ www.appleid-noreply.mail-noreply.com
 www.appleid-notif.serveirc.com
 www.appleid-online-membersaklek.com
 www.appleid-paymentapps-authservices.com
+www.appleid-recoverypurchase.com
 www.appleid-restore.us
 www.appleid-safe.tk
 www.appleid-securityapp.disaattanpakaudisini.com
@@ -5035,6 +5052,7 @@ www.bill-accounts-tls.hidrotubosmg.com.br
 www.billpayments.appleid.com.xsecure07.com
 www.binance.com-login.cropac.club
 www.bittrex.com.account.login1.frpfiles.com
+www.bittrex.com-account.plascamil.club
 www.bloginformaticamicrocamp.com.br
 www.blue-apple.alt-design-dev.co.uk
 www.boardspot.org.views-updates-urq7a7y-f4bty3iy6olng.us.platform.sh
@@ -5053,6 +5071,7 @@ www.cgi-bin.update-acccount.service.login.meyersmovers.com
 www.change-paypal-account.meubemimovel.com.br
 www.chaseaccountverificationsettings.puspawarna.com
 www.chase.com.facilveiculos.com.br
+www.chase.com.inspireracingclub.co.uk
 www.chase.com.mathematicalsysteminfo.usa.cc
 www.chase.com.online.server.chaseonline.com.ihsanaktas.av.tr
 www.chase-customer.online
@@ -5356,6 +5375,7 @@ www.icloud.com.id-verify.co
 www.icloud.com.iinfo.cf
 www.icloud.com.i-login.live
 www.icloud.com.i-logins.live
+www.icloud.com-i-logs.review
 www.icloud.com.inc-web.site
 www.icloud.com.ios-sign.in
 www.icloud.com.lcloud-device.online
@@ -6260,6 +6280,7 @@ www.statementverificationsecurity.ga
 www.staticweb.activite.summarybankofamerica.usscalemasters.org
 www.staticweb.summarybankofamerica.usscalemasters.org
 www.store.appleld.com.dadigitalpresent.mk
+www.store-applesupportinvoice.com
 www.store.ebay.de.isduk.in
 www.store.ebay.de.rgsales.in
 www.submit-information-account.ml
@@ -6474,6 +6495,7 @@ www.update-your-information-support.katiemurray.com
 www.update-your-itunes-information.villa-bellevue.hr
 www.update-your-security-limited-informations-account-service.hoppespoolandspa.com
 www.up.inf.verif.login.plumberbalgowlah.com.au
+www.upload.service-und-support.de
 www.us001.instagramverification.com.ongkey.com
 www.us002.instagramverification.com.ongkey.com
 www.us003.instagramverification.com.ongkey.com
