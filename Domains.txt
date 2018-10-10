@@ -808,6 +808,7 @@ azureoutlookoffice365accountmaintenance.megatemplates.com.br
 backend.happy-service.ml
 background-check-service-for-employers.science
 badapple.colorexpert.com.my
+bankeadebayo.alistonlinebusinessmanagers.com.ng
 bankofamerica.005us.eyclienthubx.com
 bankofamerica24h-about.ambrosiagrp.com
 bankofamerica48h.online.retrob.cl
@@ -870,6 +871,8 @@ case-id.pp-927-026-531.intl.verify.cassialignea.pt
 cdn2.sendgridmail-webapps.appleidapplecontrol.gerbangnaslim.com
 centerverifiedaccssecuritymanagementsilkui.com
 central-support-appple.com.increstn.email
+cgi-apps-apple-service.serversns.creightonlinza.com
+cgi-bin.update-acccount.service.login.3459030783429047239047893758934-resolve.account89247824862.id123e78624.shoppingdireto.com.br
 cgi-bin.update-acccount.service.login.meyersmovers.com
 change-paypal-account.meubemimovel.com.br
 chaseaccount.cf
@@ -1377,6 +1380,7 @@ dropbox.com.verify.mahoningvalleyems.org
 dropbox.com.verify.rccgregion22usheringministry.org
 dropbox.login.uc372.my
 dropboxupdate.krg01.stgn.wandera.biz
+ealerts-account-update.template.sichost.com
 ebay.biketeile-service.com
 ebay.com.cgi.bin.sing-now.kre8ive.co.uk
 ebay.com-honda-foreman-es-4x4-power-sterring.42577842879354.sale
@@ -1815,6 +1819,7 @@ login-accountingsecurity.com
 login.account.pacifico929.com.ar
 login.accounts.com.yesterdayorfuture.com
 login.accounts-go0gle.com.yesterdayorfuture.com
+login.aol.com.privacypanel.tk
 login-appieid.club
 login-applepayment.3utilities.com
 login-applesupport.com
@@ -1856,6 +1861,7 @@ login-microsoftofficeonline.bfvdcd.host
 login.microsoftonline.com.clotero.airwatchvmware.shnpoc.net
 login.microsoftonline.com.office.microsoft-o365.falabellapoc.shnpoc.net
 login.microsoftonline.com.office.natixis.myshn.net
+login.microsoftonline.com.office.o365.dineshtest.shnpoc.net
 login.microsoftonline.com.office.proxyauto.myshn.net
 login.microsoftonline.com.office.skyhigh4898.skyhigh4898.shnpoc.net
 login.microsoftonline.com.office.test.skyhigh5227.shnpoc.net
@@ -2405,6 +2411,7 @@ myappleid.recentsubsrciption.goodmood-recent.com
 myappleid.servebeer.com
 myappleld.account.securepageapps.ongoing.casa
 my-apple-locked.xz-sec.viip.win
+my-netflix-account.batmankristaletlokantasi.com
 mypaypalaccount.access-summary.diewekemarin.com
 mypaypal.account.secureloginpage.haikuinginmarah.com
 mypaypalaccount.summary.ld.itilisasion.com
@@ -2742,6 +2749,7 @@ paypal.peka9.com
 paypal.penepo-connect.com
 paypal.perfectadvisory.in
 paypalphp.angelleye.com
+paypalplus.lakedrops.com
 paypal.portais.com
 paypal.portal-auth.com
 paypal.prnb.co.uk
@@ -2791,6 +2799,7 @@ paypalsid45e2s4eops47edksecksupportdllse4checklog.ramu.info.np
 paypal.sosgroup.co.za
 paypal.southtown-homebrew.com
 paypal.spaceexperts.co.in
+paypal.sulli.work
 paypalsupport.5gbfree.com
 paypalsupportaccountlimitedresolvecenter404.kentotskan14.com
 paypalsupportaccountlimitedwebappsid404.kentotskan11.com
@@ -3092,6 +3101,7 @@ secure-payppel.ml
 secure-payypal.ml
 secure-server.0krng2fpxdt.ml
 secure-server.0krng2fpxdy.ml
+secure.server.netflix.rainbowthanka.com
 secure.service-appinformationupdate.com
 secure-services.ml
 secure-signinapple.3utilities.com
@@ -3253,13 +3263,16 @@ setting-update-data-login-for-unlocked-myaccounts.usa.cc
 seucre.recovery-account.weblogin.authentication-dasboard.com
 sharepoint.APAC.microsoftonline.com.clotero.airwatchvmware.shnpoc.net
 sharepoint.APAC.microsoftonline.com.office.microsoft-o365.falabellapoc.shnpoc.net
+sharepoint.APAC.microsoftonline.com.office.o365.dineshtest.shnpoc.net
 sharepoint.APAC.microsoftonline.com.office.skyhigh4898.skyhigh4898.shnpoc.net
 sharepoint.APAC.microsoftonline.com.office.test.skyhigh5227.shnpoc.net
 sharepoint.EMEA.microsoftonline.com.clotero.airwatchvmware.shnpoc.net
 sharepoint.EMEA.microsoftonline.com.office.microsoft-o365.falabellapoc.shnpoc.net
+sharepoint.EMEA.microsoftonline.com.office.o365.dineshtest.shnpoc.net
 sharepoint.EMEA.microsoftonline.com.office.skyhigh4898.skyhigh4898.shnpoc.net
 sharepoint.EMEA.microsoftonline.com.office.test.skyhigh5227.shnpoc.net
 sharepoint.microsoftonline.com.office.microsoft-o365.falabellapoc.shnpoc.net
+sharepoint.microsoftonline.com.office.o365.dineshtest.shnpoc.net
 sharepoint.microsoftonline.com.office.skyhigh4898.skyhigh4898.shnpoc.net
 sharepoint.microsoftonline.com.office.test.skyhigh5227.shnpoc.net
 shopallthingsapples.co.za.allthingsapples.co.za
@@ -3652,6 +3665,7 @@ update-your-account-information.bernietargets.com
 update-your-account-information.burnabywebconsulting.ca
 update-your-account-information.mrc.mutual-resources.co.id
 update-your-account-information.streetthinker.com
+update-your-account-information.yeayourcan.com
 update.your.account.loveandcompassionofchrist.com
 update-your-account.mutual-resources.co.id
 update-your-account-now.arihantprinters.co.in
@@ -4952,6 +4966,7 @@ www.auth.verification-apple-confirmation.g100404.org
 www.auth-verification-needed-login.com
 www.azureoutlookoffice365accountmaintenance.megatemplates.com.br
 www.badapple.colorexpert.com.my
+www.bankeadebayo.alistonlinebusinessmanagers.com.ng
 www.bankofamerica24h-about.ambrosiagrp.com
 www.bankofamerica48h.online.retrob.cl
 www.bankofamerica.aktekelektromekanik.com
@@ -4995,6 +5010,7 @@ www.caf-mon-compte-login.review
 www.cartruckpartscomputerchipcruisecontrol2014info.incartechsecuritydiyforspeakerssubwoofers2017.info
 www.carts.information.pa.y.pal.signin.kristinahotel.co.id
 www.case-id.pp-927-026-531.intl.verify.cassialignea.pt
+www.cgi-apps-apple-service.serversns.creightonlinza.com
 www.cgi-bin.update-acccount.service.login.meyersmovers.com
 www.change-paypal-account.meubemimovel.com.br
 www.chaseaccountverificationsettings.puspawarna.com
@@ -5599,6 +5615,7 @@ www.myappleid.recentsubsrciption.goodmood-recent.com
 www.myappleid.servebeer.com
 www.myappleld.account.securepageapps.ongoing.casa
 www.my-apple-locked.xz-sec.viip.win
+www.my-netflix-account.batmankristaletlokantasi.com
 www.mypaypal.account.secureloginpage.haikuinginmarah.com
 www.my.telstra.com.au-myaccount-home.tahiramandarino.co.uk
 www.myverifiypaypalinc.co.nz
@@ -6082,6 +6099,7 @@ www.secure-online-apple.cf
 www.secure-onlinedropbox.rxen.top
 www.secure-paypai-verification.com
 www.secure.paypal.com.theabyss.com.ng
+www.secure.server.netflix.rainbowthanka.com
 www.secure.service-appinformationupdate.com
 www.secure.store-apple-icloud.update.sayamantangshitim.com
 www.secure.uni-formeonline.com.br
@@ -6386,6 +6404,7 @@ www.update-your-account-information.bernietargets.com
 www.update-your-account-information.burnabywebconsulting.ca
 www.update-your-account-information.mrc.mutual-resources.co.id
 www.update-your-account-information.streetthinker.com
+www.update-your-account-information.yeayourcan.com
 www.update.your.account.loveandcompassionofchrist.com
 www.update-your-account.mutual-resources.co.id
 www.update-your-account-now.arihantprinters.co.in
