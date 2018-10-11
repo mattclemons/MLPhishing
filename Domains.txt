@@ -414,6 +414,7 @@ appleid.apple.growtopia-tools.com
 appleidappleid.com-secureconfirmati0n.verify-y0urpaymentdetails.com
 appleid-appleidto.myvnc.com
 appleid-apple.idyz009.com
+appleid.apple.issues-billing.com
 appleid.apple.ketiaksenjamlai.com
 appleid.apple.lckedapptot.com
 appleid.apple.llocked.com
@@ -809,6 +810,7 @@ appleverify-accountlocked.com.aocmoevnerb.flights
 apple.verify.jennymovers.com
 appleverify-lockedaccount.fsfdgbkbjks.com
 appleverify-lockedaccount.newjerseyengg.com
+appleverifylocked.com.bangsaddddmemeek.flights
 apple-verifypayment.serveirc.com
 appleverify.ppkbusinessmanagementnewjerseyengg.com
 appleverify.us
@@ -1166,6 +1168,7 @@ confirm-acc-sign.in-help-security.com
 confirm-acc-sign.in-security-help.com
 confirm-all-your-information.vitalenutrition.com.pe
 confirm-apple.bitly.vip
+confirmation-account.expressotecnologia.com
 confirmation-account-manager.dexaminst.com
 confirmation-account-required-attempt.com
 confirmationapple.servehttp.com
@@ -1661,6 +1664,7 @@ ebay.com-honda-foreman-es-4x4-power-sterring.42577842879354.sale
 ebay.com-item-apple-iphone-x-256gb-factory-unlocked.ytfhn.pw
 ebay.com-item.site
 ebay.com-itm-2001-winnebago-rialta-22hd.sxrps.review
+ebay.com-itm-2004-sea-doo-sportster-4tec-15ft.prxt.tools
 ebay.com-itm-2008-7-x-12-food-concession-trailer.gxc.sale
 ebay.com-itm-2011-yamaha-custom-gas-golf-cart.pxir.top
 ebay.com-itm-2011-yamaha-custom-golf-cart.nklo.review
@@ -2807,6 +2811,7 @@ microsoft-support-alert-89.cf
 microverify.online
 mijn-ing-nl-login-mobielbankieren.club
 minformation-page.ml
+miniapple.rwtec.com.br
 mjpaypal.com.potdomains.com
 ml.com.secure-onlinebanking.access.com.informweb.com.br
 mobile.appleid.com.resolution-center.02ed25abb3dd9a20aea5eff0b9695b1d.morrodesaopaulo.party
@@ -3481,6 +3486,7 @@ redirection-manageappleid.termtakbb.com
 redirecto-netflix.node05102018010204.usa.cc
 redirect.serviceapp-secureinformation.com
 redirect.support-disputeverification.net
+refund-apple-session5255565225879456456.cf
 register-account.ga
 relogin.mail.singout.session.timeout.relogin.account.acquarioceara.com.br
 reminder-for-customer-your-accoun-hash-been-locked.ga
@@ -3651,6 +3657,7 @@ secureid-your-account.services
 secure-infos-apple.cf
 secure.intl-service-paypall.com
 secure.itunes.storeapple.abcgoruntuleme.com.tr
+secure.itunes.storeapple.dhakait.org
 secure.itunes.storeapple-locked.caveshine.com
 secure.itunes-storeapple-locked.com.arhavidikyamacmuzesi.org
 securel-activitysign.in-help-security.com
@@ -3861,6 +3868,7 @@ service-und-support.de
 service.update-account.angelnethost.com
 serviceupdateaccounts.cf
 service.update-ppl.account-5436778594758493.taffiecomms.com
+service-validating-support.expertencounters.co.za
 service-verification.fr
 service-verifizierung-azkunde-dsgvo.bid
 serviceverifyaccounticloud.usa.cc
@@ -5379,6 +5387,7 @@ www1.instagramverification.com.ongkey.com
 www.1login.comcast.net.defaultwebpage.cgi.bestfantasy.com.br
 www.258615987350.signin.aws.amazon.com.rs2.cas.ms
 www2.chase.com.companyhoou.ml
+www2.chase.com.hohooo-kiiiii000.ml
 www2.instagramverification.com.ongkey.com
 www.3d-secure.netflix-story-film.cf
 www3.instagramverification.com.ongkey.com
@@ -6056,6 +6065,7 @@ www.confirm-acc-sign.in-help-security.com
 www.confirm-acc-sign.in-security-help.com
 www.confirm-all-your-information.vitalenutrition.com.pe
 www.confirm-apple.bitly.vip
+www.confirmation-account.expressotecnologia.com
 www.confirmation-account-manager.dexaminst.com
 www.confirmation.paypal.com.vantaiducvinh.vn
 www.confirmation-transaction-applestore.com
@@ -6140,6 +6150,7 @@ www.ebay.com-honda-foreman-es-4x4-power-sterring.42577842879354.sale
 www.ebay.com-item-apple-iphone-x-256gb-factory-unlocked.ytfhn.pw
 www.ebay.com-item.site
 www.ebay.com-itm-2001-winnebago-rialta-22hd.sxrps.review
+www.ebay.com-itm-2004-sea-doo-sportster-4tec-15ft.prxt.tools
 www.ebay.com-itm-2008-7-x-12-food-concession-trailer.gxc.sale
 www.ebay.com-itm-2011-yamaha-custom-gas-golf-cart.pxir.top
 www.ebay.com-itm-2011-yamaha-custom-golf-cart.nklo.review
@@ -6645,6 +6656,7 @@ www.microsoft-security-alert-990.ml
 www.microsoft-support-alert-89.cf
 www.microverify.online
 www.mijn-ing-nl-login-mobielbankieren.club
+www.miniapple.rwtec.com.br
 www.mjpaypal.com.potdomains.com
 www.ml.com.secure-onlinebanking.access.com.informweb.com.br
 www.mobile.appleid.com.resolution-center.02ed25abb3dd9a20aea5eff0b9695b1d.morrodesaopaulo.party
@@ -7244,6 +7256,7 @@ www.secure.help.webapp.verify.center.mpp.hulahoopcanada.ca
 www.secureid-your-account.services
 www.secure-infos-apple.cf
 www.secure.itunes.storeapple.abcgoruntuleme.com.tr
+www.secure.itunes.storeapple.dhakait.org
 www.secure.itunes.storeapple-locked.caveshine.com
 www.secure.itunes-storeapple-locked.com.arhavidikyamacmuzesi.org
 www.securel-activitysign.in-help-security.com
@@ -7351,6 +7364,7 @@ www.service-support.pl
 www.service-und-support.de
 www.service.update-account.angelnethost.com
 www.service.update-ppl.account-5436778594758493.taffiecomms.com
+www.service-validating-support.expertencounters.co.za
 www-service-verification.egtechglobal.com
 www.serviceverifyaccounticloud.usa.cc
 www.setting.manage.appleid.webssecure-unlocked.info
@@ -7799,6 +7813,7 @@ www.ww5.instagramverification.com.ongkey.com
 www.www1.identity-verification.bmomobile.ca.personal.elnegro.com.br
 www.www1.instagramverification.com.ongkey.com
 www.www2.chase.com.companyhoou.ml
+www.www2.chase.com.hohooo-kiiiii000.ml
 www.www2.instagramverification.com.ongkey.com
 www.www3.instagramverification.com.ongkey.com
 www.www6.rbc.com.webapp.ukv0.signin.logon.xhtml.appstore.aw
