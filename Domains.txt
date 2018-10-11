@@ -28,6 +28,8 @@ acc0unts.go0gle.com.signin.v2.identifier.service.mobeasy.com.br
 acc0unt-verify1-toproccesopening-acc0unt.bjimoooore-272.info
 acc0unt-verify1-toproccesopening-acc0unt.bjimoooore-273.info
 accept.managementsupport.nl.mage2cloud.nl
+accept.verstegenfoodservice.com.kiwicloud.nl
+accept.verstegenfreshservice.com.kiwicloud.nl
 access-account-been-locked.tk
 accesslocked-appleid.gleeze.com
 accntappleiddsble.serveirc.com
@@ -228,6 +230,10 @@ albasec.supportandservice.center
 alert-loginapple.serveirc.com
 alertpayment.updated.milmag.ro
 alertsecurity.cf
+alexa-comms-mobile-service.amazon.co.jp
+alexa-comms-mobile-service.amazon.com.br
+alexa-comms-mobile-service.amazon.com.mx
+alexa-comms-mobile-service.amazon.in
 all-customer-service.us
 allert01-loginapplemanagelocked.tk
 allinformationupdate.ml
@@ -258,6 +264,7 @@ amazone.netflixori.top
 amazone.updat.account.com.govtitivitla.com
 amazon.for-free.ga
 amazon-informations.ml
+amazonlogin.ml
 amazonruru.twitter.mixh.jp
 amazon-secure.confirmboa.ga
 amazon-secureline.ml
@@ -417,6 +424,8 @@ appleid.apple-com-verification.resolver.cgi-bin.peterbaker.tv
 appleid-apple.dynv6.net
 appleid.apple.growtopia-tools.com
 appleidappleid.com-secureconfirmati0n.verify-y0urpaymentdetails.com
+appleid.apple.id.sign-in.b52c96bea30646abf8170f333bbd42b90.saludydiscapacidad.com.ar
+appleid.apple.id.sign-in.b52c96bea30646abf8170f333bbd42b9.saludydiscapacidad.com.ar
 appleid-appleidto.myvnc.com
 appleid-apple.idyz009.com
 appleid.apple.issues-billing.com
@@ -463,6 +472,7 @@ appleid-apple-verify-accountsecure-locked.com
 appleid-apple.verify.manageweb2appworld.com
 appleid-apple.w-a-b-s.com
 appleid-apple.web2scurepp.com
+appleid-applr.com.cloud-activity.info
 appleid.assistenzamail.com
 appleid.be
 appleid-cancelpayment-authapps.com
@@ -630,6 +640,7 @@ appleid.uvkola.com
 appleid-validatesecured.serveuser.com
 appleid-verfiy.serveirc.com
 appleid-verif-account.pgucert.ir
+apple-id.verification233229944551190122784569562165194153.login.toolscomputerstore.com
 appleid.verification.akbidibtisamaulia.ac.id
 appleid-verification-mailconfirmations-account-informations.com
 appleid-verif-id.recrutamentointeligente.com.br
@@ -1066,6 +1077,7 @@ chase.onlinebanking.com-internetbanking.com.informweb.com.br
 chaseonline.chase.com7identity.ga
 chaseonline.chase.com.elegantinternational.biz
 chaseonline.chase.com.facilveiculos.com.br
+chaseonline.chase.com.logon.aspxlobrbglogon.saidanails.gr
 chaseonline.equiform.com.br
 chase-online.king-author.com
 chaseonlineloginsite.allelecreview.com
@@ -1223,6 +1235,7 @@ connect.securelwellsfargo.corn.authlogin.present.confortocomclasse.com.br
 connect.securewellsfargo.authloginlpresent.confortocomclasse.com.br
 connect.securewellsfargo.cornlauth.loginpresent.confortocomclasse.com.br
 connect.secure.wellsfargo.online.services.alert.gcarqtek.com
+conseguirseguidorestwitter.comousarsnapchat.net
 consulitasair.approjasverify043bank.ar.geoshield.com.my
 contact.account.service.gmviagens.com.br
 contact-home-pay-pal-verify-card-of-account.256512335468443.fdsfs4534534565465456sfsd.icmawushu.com
@@ -1401,6 +1414,7 @@ cpanel.limeiraappleservice.com.br
 cpanel.listmasterverify.online
 cpanel.locked-appleverif.serveirc.com
 cpanel.login-accountingsecurity.com
+cpanel.login-acc-service.shop
 cpanel.login-applesupport.com
 cpanel.login-aumento-bancochile-persona-cl-chile.ga
 cpanel.login-aumento-bancochile-personas-cl-wps.cf
@@ -1559,6 +1573,7 @@ cpanel.verifying-step.tk
 cpanel.verifying-updates.tk
 cpanel.verify.like2online.info
 cpanel.verify-my-account.net
+cpanel.verifyn.cf
 cpanel.verifynow.xyz
 cpanel.verifyoffice.ga
 cpanel.verifyonline.ga
@@ -1645,6 +1660,7 @@ deltaglobalservices.account.box.com.us.cas.ms
 demoaccount.jobmanagement.online
 demodemosecure.login.crasman.fi
 demo-paypalnew.servebeer.com
+desbloquearnetflix.flixnyt.dk
 de-service-dialog.accountant
 details.information.center.security.service.yesgluten.com
 dev.appleiq.imposium.com
@@ -1679,6 +1695,7 @@ ebay.com-item-apple-iphone-x-256gb-factory-unlocked.ytfhn.pw
 ebay.com-item.site
 ebay.com-itm-2001-winnebago-rialta-22hd.sxrps.review
 ebay.com-itm-2004-sea-doo-sportster-4tec-15ft.prxt.tools
+ebay.com-itm-2004-winnebago-rialta-insurance.item-12144875.bid
 ebay.com-itm-2008-7-x-12-food-concession-trailer.gxc.sale
 ebay.com-itm-2011-yamaha-custom-gas-golf-cart.pxir.top
 ebay.com-itm-2011-yamaha-custom-golf-cart.nklo.review
@@ -1973,6 +1990,7 @@ icloud.com.signin-id.care
 icloud.com.signins.review
 icloud.com.signin.viewlocation.us
 icloud.com-site.services
+icloud.com.support-app.review
 icloud.com-supported.in
 icloud.com.support-en.live
 icloud.com-support.us
@@ -2187,6 +2205,7 @@ login.account.pacifico929.com.ar
 login.accounts.com.yesterdayorfuture.com
 login.accounts-go0gle.com.yesterdayorfuture.com
 login-account-verification.simplyflowerpower.com.au
+login-acc-service.shop
 loginalert.club
 login.aol.com.privacypanel.tk
 login-appieid.club
@@ -2544,6 +2563,7 @@ mail.limeiraappleservice.com.br
 mail.listmasterverify.online
 mail.locked-appleverif.serveirc.com
 mail.login-accountingsecurity.com
+mail.login-acc-service.shop
 mail.login-applesupport.com
 mail.login-aumento-bancochile-persona-cl-chile.ga
 mail.login-aumento-bancochile-personas-cl-wps.cf
@@ -2740,6 +2760,7 @@ mail.verifying-step.tk
 mail.verifying-updates.tk
 mail.verify.like2online.info
 mail.verify-my-account.net
+mail.verifyn.cf
 mail.verifynow.xyz
 mail.verifyoffice.ga
 mail.verifyonline.ga
@@ -2841,6 +2862,7 @@ mijn-ing-nl-login-mobielbankieren.club
 minformation-page.ml
 miniapple.rwtec.com.br
 mjpaypal.com.potdomains.com
+mkt-instagram.setap.com.br
 ml.com.secure-onlinebanking.access.com.informweb.com.br
 mobile.appleid.com.resolution-center.02ed25abb3dd9a20aea5eff0b9695b1d.morrodesaopaulo.party
 mobile.approve-login.cf
@@ -2956,6 +2978,7 @@ netflix.hackauthority.com
 netflix-hd.win
 netflixify.procoloringpages.com
 netflix.imagenesdecantantes.com
+netflix-im-ausland.flixnyt.dk
 netflix-india.cf
 netflix.insta-prime.site
 netflix.klantenservicenummernederland.com
@@ -2983,6 +3006,7 @@ netflix.reactivar.ml
 netflix.recargascol.com
 netflix-restart-membership-z44.magyar-telekom-hu.ga
 netflixreview.aamenus.com
+netflix.secure.online.accounts.do.mobeasy.com.br
 netflixshows.online
 netflix.slnhanmoodo.net
 netflix.smorenburg.me
@@ -3672,6 +3696,7 @@ secure.bankofamerica.statements.details.phdnegocios.com.br
 secure.bankofamerica.statements.details.rcsbchat.com
 secure.bankofamerica.statements.myaccounts.affirmativeaction.cl
 secure.bankofamerica.statements.myaccounts.cestabasicadf.com.br
+secure.bankofamerica.statements.myaccounts.orbitaccounting.co.za
 secure.bank.suntrust.support-update-info.jeromyshingongo.com
 secure-barclays.verify.tips4travel.mx
 securecentreicloud.info
@@ -3689,6 +3714,7 @@ secure-dropbox.file.cfcontable.com
 secured-service-update.com
 secured.store.app.le.com.appsverify-62182749922.com
 secured-update-your-information-secured-update-your-information.fenixrental.com.ar
+securedverifyactivity.com
 secure.employer.verificationexchange.equifax.ca
 securefargocustomerupdate.online
 secure-fortnite-store-season-5-battle-pass-free.cf
@@ -3860,6 +3886,7 @@ serviceaccount-verified-informationsecure.hadafholidays.com
 servicealertsupportteam.update.batonrougeonsite.com
 service-appinformationupdate.com
 service-applecom-webapps.pbonline.net
+service-apple.decoramos.com.uy
 service-appleid.servepics.com
 service-apple.myvnc.com
 service-apple.pbonline.net
@@ -4092,6 +4119,7 @@ support-appieid-customerservice-accountid6981.com
 support-appieid-customerservice-accountid7201.com
 support-appieid-customerservice-accountid7203.com
 support-appieid-customerservice-accountid7204.com
+support-appieid-customerservice-accountid7205.com
 support-appieid-customerservice-accountid7230.com
 support-appieid-customerservice-accountid7456.com
 support-appieid-customerservice-accountid8162.com
@@ -4301,6 +4329,8 @@ tegegnebayuhotel.bests-service.com
 te-management-support.be
 tescoupdate.onlinesecure.ivisionworld.com.tw
 teste-netflix.portalnegocioseempresas.com
+test.verstegenfoodservice.com.kiwicloud.nl
+test.verstegenfreshservice.com.kiwicloud.nl
 thetwitterreklamgq.10urjaa15.ga
 thor-account-service-cf-rp.swisscomcloud.com
 tipsforsolveanyissue.club.autotradingsupport.online
@@ -4622,6 +4652,7 @@ verify-microsoft.c1usersonline.com
 verify-my-account.net
 verifymyage.club
 verify.nature.com.ezproxy.lib.ouhk.edu.hk
+verifyn.cf
 verify-now.autofair.co.tz
 verifynow.xyz
 verifyoffice.ga
@@ -4850,6 +4881,7 @@ webdisk.limeiraappleservice.com.br
 webdisk.listmasterverify.online
 webdisk.locked-appleverif.serveirc.com
 webdisk.login-accountingsecurity.com
+webdisk.login-acc-service.shop
 webdisk.login-applesupport.com
 webdisk.login-aumento-bancochile-persona-cl-chile.ga
 webdisk.login-aumento-bancochile-personas-cl-wps.cf
@@ -5008,6 +5040,7 @@ webdisk.verifying-step.tk
 webdisk.verifying-updates.tk
 webdisk.verify.like2online.info
 webdisk.verify-my-account.net
+webdisk.verifyn.cf
 webdisk.verifynow.xyz
 webdisk.verifyoffice.ga
 webdisk.verifyonline.ga
@@ -5197,6 +5230,7 @@ webmail.limeiraappleservice.com.br
 webmail.listmasterverify.online
 webmail.locked-appleverif.serveirc.com
 webmail.login-accountingsecurity.com
+webmail.login-acc-service.shop
 webmail.login-applesupport.com
 webmail.login-aumento-bancochile-persona-cl-chile.ga
 webmail.login-aumento-bancochile-personas-cl-wps.cf
@@ -5361,6 +5395,7 @@ webmail.verifying-step.tk
 webmail.verifying-updates.tk
 webmail.verify.like2online.info
 webmail.verify-my-account.net
+webmail.verifyn.cf
 webmail.verifynow.xyz
 webmail.verifyoffice.ga
 webmail.verifysecure72.cf
@@ -5681,6 +5716,8 @@ www-appleid-apple-com.veriifying-accounts-locked.tk
 www-appleid-apple-com.veriifying-accounts-unlocked.ml
 www.appleid-apple.dynv6.net
 www.appleid.apple.growtopia-tools.com
+www.appleid.apple.id.sign-in.b52c96bea30646abf8170f333bbd42b90.saludydiscapacidad.com.ar
+www.appleid.apple.id.sign-in.b52c96bea30646abf8170f333bbd42b9.saludydiscapacidad.com.ar
 www.appleid.apple.locked-account-support.com
 www.appleid-apple.mainid-89798.com
 www.appleid.apple.makefor365.com
@@ -5705,6 +5742,7 @@ www.appleid.apple.ukv.me
 www.appleid.apple.unlocked.com.preferences.biz
 www.appleid-apple-verify-accountsecure-locked.com
 www.appleid-apple.verify.manageweb2appworld.com
+www.appleid-applr.com.cloud-activity.info
 www.appleid-cancelpayment-authapps.com
 www.appleid-cancelpayment-authservice.com
 www.appleid-cancelpayment-authservices.com
@@ -6052,6 +6090,7 @@ www.chase.home-access.gq
 www.chase.onlinebanking.com-internetbanking.com.informweb.com.br
 www.chaseonline.chase.com.elegantinternational.biz
 www.chaseonline.chase.com.facilveiculos.com.br
+www.chaseonline.chase.com.logon.aspxlobrbglogon.saidanails.gr
 www.chaseonline.equiform.com.br
 www.chase-online.king-author.com
 www.chaseonlineloginsite.allelecreview.com
@@ -6160,6 +6199,7 @@ www.connect.securelwellsfargo.corn.authlogin.present.confortocomclasse.com.br
 www.connect.securewellsfargo.authloginlpresent.confortocomclasse.com.br
 www.connect.securewellsfargo.cornlauth.loginpresent.confortocomclasse.com.br
 www.connect.secure.wellsfargo.online.services.alert.gcarqtek.com
+www.conseguirseguidorestwitter.comousarsnapchat.net
 www.consulitasair.approjasverify043bank.ar.geoshield.com.my
 www.contact.account.service.gmviagens.com.br
 www.contact-home-pay-pal-verify-card-of-account.256512335468443.fdsfs4534534565465456sfsd.icmawushu.com
@@ -6195,6 +6235,7 @@ www.dealerportal.autotrader.accountverify.roberthlaessig.com
 www.deleteappleid.allelecreview.com
 www.dell.customerservice-support.com
 www.demoaccount.jobmanagement.online
+www.desbloquearnetflix.flixnyt.dk
 www.details.information.center.security.service.yesgluten.com
 www.device-apple.suportefmi-br.online
 www.disabilitysupportworkerstaxonline-com-au.accountantsplus.com.au
@@ -6217,6 +6258,7 @@ www.ebay.com-item-apple-iphone-x-256gb-factory-unlocked.ytfhn.pw
 www.ebay.com-item.site
 www.ebay.com-itm-2001-winnebago-rialta-22hd.sxrps.review
 www.ebay.com-itm-2004-sea-doo-sportster-4tec-15ft.prxt.tools
+www.ebay.com-itm-2004-winnebago-rialta-insurance.item-12144875.bid
 www.ebay.com-itm-2008-7-x-12-food-concession-trailer.gxc.sale
 www.ebay.com-itm-2011-yamaha-custom-gas-golf-cart.pxir.top
 www.ebay.com-itm-2011-yamaha-custom-golf-cart.nklo.review
@@ -6424,6 +6466,7 @@ www.icloud.com.login-br.site
 www.icloud.com.login-en.info
 www.icloud.com.login-es.review
 www.icloud.com-logins.live
+www.icloud.com-logins.tech
 www.icloud.com.login-us.site
 www.icloud.com.maps-apple.ltd
 www.icloud.com.signed.ml
@@ -6431,6 +6474,7 @@ www.icloud.com.signin-id.care
 www.icloud.com.signins.review
 www.icloud.com.signin.viewlocation.us
 www.icloud.com-site.services
+www.icloud.com.support-app.review
 www.icloud.com-support.us
 www.icloud.com.support-us.me
 www.icloud.com-sv.xyz
@@ -6593,6 +6637,7 @@ www.locked-apps-icloud-confirm.com
 www.login-accountingsecurity.com
 www.login.account.pacifico929.com.ar
 www.login-account-verification.simplyflowerpower.com.au
+www.login-acc-service.shop
 www.login-applesupport.com
 www.login-aumento-bancochile-persona-cl-chile.ga
 www.login-aumento-bancochile-personas-cl-wps.cf
@@ -6734,6 +6779,7 @@ www.microverify.online
 www.mijn-ing-nl-login-mobielbankieren.club
 www.miniapple.rwtec.com.br
 www.mjpaypal.com.potdomains.com
+www.mkt-instagram.setap.com.br
 www.ml.com.secure-onlinebanking.access.com.informweb.com.br
 www.mobile.appleid.com.resolution-center.02ed25abb3dd9a20aea5eff0b9695b1d.morrodesaopaulo.party
 www.mobile.approve-login.cf
@@ -6810,6 +6856,7 @@ www.netflixgiftcardcodefree.jasapasangiklanfb.com
 www.netflix.hackauthority.com
 www.netflixify.procoloringpages.com
 www.netflix.imagenesdecantantes.com
+www.netflix-im-ausland.flixnyt.dk
 www.netflix-infos.lima-city.de
 www.netflix.insta-prime.site
 www.netflix.klantenservicenummernederland.com
@@ -6832,6 +6879,7 @@ www.netflix.reactivar.ml
 www.netflix.recargascol.com
 www.netflix-restart-membership-z44.magyar-telekom-hu.ga
 www.netflixreview.aamenus.com
+www.netflix.secure.online.accounts.do.mobeasy.com.br
 www.netflix.slnhanmoodo.net
 www.netflix.specialtv.us
 www.netflix-story.cf
@@ -7324,6 +7372,7 @@ www.secure.bankofamerica.statements.details.phdnegocios.com.br
 www.secure.bankofamerica.statements.details.rcsbchat.com
 www.secure.bankofamerica.statements.myaccounts.affirmativeaction.cl
 www.secure.bankofamerica.statements.myaccounts.cestabasicadf.com.br
+www.secure.bankofamerica.statements.myaccounts.orbitaccounting.co.za
 www.secure.bank.suntrust.support-update-info.jeromyshingongo.com
 www.secure-barclays.verify.tips4travel.mx
 www.secured-access-account-reactivation.online
@@ -7423,6 +7472,7 @@ www.serviceaccount-verified-informationsecure.hadafholidays.com
 www.servicealertsupportteam.update.batonrougeonsite.com
 www.service-appinformationupdate.com
 www.service-applecom-webapps.pbonline.net
+www.service-apple.decoramos.com.uy
 www.service-appleid.servepics.com
 www.service-apple.pbonline.net
 www.service-apple-updates.com
@@ -7849,6 +7899,7 @@ www.verify.lunos.users.login.vetkatpark.com
 www.verify-microsoft.c1usersonline.com
 www.verify-my-account.net
 www.verifymyage.club
+www.verifyn.cf
 www.verify-now.autofair.co.tz
 www.verifynow.xyz
 www.verifyoffice.ga
