@@ -131,6 +131,7 @@ account.service.rketech.com
 account-service.security.jgncuwkasw.com
 account-servicesinfo.xyz
 account-service.technicalsupportresources.com
+accountservice.updateservice.at
 accountservice-verif-az-inc.bid
 accounts.google.com.accountsettings.site
 accounts.google.com.https-com.tk
@@ -154,6 +155,7 @@ accounts.logins.gq
 accounts.login.t-online.network
 accounts.login.ymail.webdeb.com
 accounts.mail.ru.inbox-mail.online
+accounts-nex-pay.servepay.uk
 accountspayablesoftware.review
 accounts-problem.tk
 accounts.ramitsupport.com
@@ -526,6 +528,7 @@ appleid-incsupport.serveirc.com
 apple.id.inside-support-apple.us
 appleid-ios-secure-verify.appeltda.com
 appleid-ios-secure-verify-info.appeltda.com
+appleid-itunesrecovery.com
 appleidjp-applemail.serveirc.com
 appleidkey.servicez-paypa.com
 appleid.lcloudsign.com
@@ -1221,6 +1224,7 @@ contact-os.apple.acc-support.idsm.planpakistan.org
 contactushelpandsupport.win
 contasnetflixgratis.ga
 correohotmail.com.co
+correo-hotmail.com.mx
 costumer.account.update.verification.siclife-gh.com
 costumer-service-verification.pedelectric.com.au
 cpanel.1800customerservicehitbtcsupport.com
@@ -1238,6 +1242,7 @@ cpanel.accountservice-apple.usa.cc
 cpanel.account-servicecontact.co.uk
 cpanel.account-service-contact.org
 cpanel.account-servicesinfo.xyz
+cpanel.accountservice.xyz
 cpanel.accounts-secure-pages.com
 cpanel.account-suport.online
 cpanel.account-supports.co
@@ -1902,6 +1907,7 @@ https.pay-palaccountactivation.id-9829839s837r6s4g4555s33eh23kk43.mio-conto-onli
 https.secure.apple.verification.departement.b23.idv.tw
 https.securityverification.paypal.com.mapleleaf.com.au
 https.update-information-myaccount.kostegal.com
+https.www.amazon.com-ssl-wenotice-dunusual-id520019860052432-has-been-limited.aberturasaguilasdelsur.com.ar
 https.www.dropbox.com-sign-in-veiw-file.com.reisenoronha.com.br
 https.www.netflix.com.au.login.kokimasak.com
 humanverificationonline.giftcardsonline.space
@@ -1925,6 +1931,7 @@ icloud.com.br-web.site
 icloud.com-check.review
 icloud.com-co.xyz
 icloud.com.en-us.support
+icloud.com.findmydevice.support
 icloud.com-findmyphone.support
 icloud.com-find.review
 icloud.com.fmi-signin.us
@@ -2036,6 +2043,7 @@ info-update-account.com
 instacustomersupport.tk
 instagram.1bayenes.tk
 instagram.accounts.name
+instagramaccountverified.com
 instagram.agreste360graus.com.br
 instagramapp.clappaws.cc
 instagram.argestofados.com.br
@@ -2281,6 +2289,7 @@ logintohotmail.com
 login-to-update-your-account-info-management-page-109875.soloparati.pe
 login-to-update-your-account-info-management-page.lexan.livenet.pl
 login-to-update-your-account-info-management-page.trabajosenacrilico.com
+login-to-your-accountpaypal.auth-securel-acc.info
 login.updateadobe.ml
 login-update.aitechseguranca.com.br
 login.usaa.support.info.online.domenicopaulon.com
@@ -2299,6 +2308,7 @@ loginyahoo.smalldoll.ga
 login-yahoo-verify.smalldoll.ga
 logs.in.payxpal.info.ayam-grepek-maknyus-enak.com
 longviewpower.accounts-information.com
+luno.updates.loadbtx.cf
 mac-apple-support.us
 mail.1800customerservicehitbtcsupport.com
 mail.access-account-been-locked.tk
@@ -2974,6 +2984,7 @@ netflix-verification.edecnepal.org
 netflix-verification.net
 netflix-verify.3utilities.com
 netflix-verify-account-online.digitaltv28macas.com
+netflix.wallser.us
 netflix.websupportnotification.com
 networkfirewallprotectionattacksystemsupporterroralert.xyz
 networkfirewallsupportsystemprotectionattackerroralert.xyz
@@ -3189,6 +3200,7 @@ paypal.com.webapps.secureweb-update.com
 paypal.com.webapps-websrc.login-submit-dispatch.0dab0733ea018c1f2b303851051b3657ff9a8e70fbefb471bc4.83458ee6a7f4c0722f4570dab0788ea.fonsecabogados.com
 paypal.com.worldwide.cgi-bin.webscr.cmd-login-submit.dispatch.5885d80a13c0db1f8e263.condividiamo.net
 paypal.com-your-account-have-a-problems.fft.hk
+paypal-confirm.account.suspended.login.in.sondelamatat.co.za
 paypal-confirmation.login-info-identity.com
 paypal-confirmations.login-info-identity.com
 paypal-con-verification.nordastraet.xyz
@@ -3453,6 +3465,7 @@ problem.ldapple.help.com-rn.info
 prod.security-as-a-service.io
 purchase.api.2kcoretech.online
 purchase-appleid.servegame.com
+purchase-app-storecare.ml
 purchaseessay.premiumaccountinghelp.net
 purchase-order.confirmation.newusa-comusersaw.net
 purchaseprednisonefordogsonlinewithoutaprescription.ga
@@ -3628,8 +3641,10 @@ secure.auth-signinappleid.com-officialsecuritysupport.com
 secure.auth-signinappleid.com-officialsupporthelp.com
 secure.auth-signinappleld.com-supportupdateofficial.com
 secure.bankofamerica.com.onlineconvert.com.ng
+secure.bankofamerica.statements.details.affirmativeaction.cl
 secure.bankofamerica.statements.details.phdnegocios.com.br
 secure.bankofamerica.statements.details.rcsbchat.com
+secure.bankofamerica.statements.myaccounts.affirmativeaction.cl
 secure.bankofamerica.statements.myaccounts.cestabasicadf.com.br
 secure.bank.suntrust.support-update-info.jeromyshingongo.com
 secure-barclays.verify.tips4travel.mx
@@ -4028,6 +4043,7 @@ support-account.bahrainvolunteers.com
 support.account.bahrainvolunteers.com
 support-account.bromo174.id
 support-account-centers.com
+support.account.centre.automails361.com
 support-account.cursodeporteiroonline.xyz
 support-account-custmer-update-info.ainaliraq.com
 support-accountlocked-apple-info.wepps-secure3544.dynv6.net
@@ -4158,6 +4174,7 @@ support.google.com.accounts.answer.728291250992932177993997545455464570806953199
 support-haseh-team.ml
 supporthelp-account.toysandtoys.us
 support-icloud.fr
+support-idapple.gq
 support.id-manage.account.statement-access.com
 supportincservice.com.bh-24.webhostbox.net
 support-information-customer.chatoriaunty.com
@@ -4536,6 +4553,7 @@ verify-appleadmin.serveirc.com
 verify-appleid-securityonline.cf
 verify-appleid-securityonline.ga
 verify-appleid-securityonline.tk
+verify.apples.validlogin.confm.birbhumchemicals.com
 verify-apple.us
 verify.bing.com.aroma-company.be
 verifybooks.store
@@ -4608,6 +4626,7 @@ visa.com.update.account.details.gino.gs
 vk-accounts-systembot.tk
 vk-account-systembot.tk
 vk.com.login.php.security-check.rsp-type.token.page.p5f4hj.top
+vk.com.support.home.php.securitycheck.respinsen-type.tokens.vk-php.gdn
 vk.com.supports.antiviruseguardinonline.xyz
 vk.com.supports.antivirusserviceonlines.xyz
 vodafone-secureloginclient.company
@@ -4645,6 +4664,7 @@ webdisk.accountservice-apple.usa.cc
 webdisk.account-servicecontact.co.uk
 webdisk.account-service-contact.org
 webdisk.account-servicesinfo.xyz
+webdisk.accountservice.xyz
 webdisk.accounts-secure-pages.com
 webdisk.account-suport.online
 webdisk.account-supports.co
@@ -4987,6 +5007,7 @@ webmail.accountservice-apple.usa.cc
 webmail.account-servicecontact.co.uk
 webmail.account-service-contact.org
 webmail.account-servicesinfo.xyz
+webmail.accountservice.xyz
 webmail.accounts-secure-pages.com
 webmail.account-suport.online
 webmail.account-supports.co
@@ -5454,7 +5475,9 @@ www.account-service.eu
 www.accountservice-live.be
 www.account.service.rketech.com
 www.account-servicesinfo.xyz
+www.accountservice.updateservice.at
 www.accounts.login.ymail.webdeb.com
+www.accounts-nex-pay.servepay.uk
 www.accountspayablesoftware.review
 www.accounts-problem.tk
 www.accounts.ramitsupport.com
@@ -5696,6 +5719,7 @@ www.appleid-imap.mail-noreply.com
 www.apple.id.inside-support-apple.us
 www.appleid-ios-secure-verify.appeltda.com
 www.appleid-ios-secure-verify-info.appeltda.com
+www.appleid-itunesrecovery.com
 www.appleid-locked-account.com.acegfxradiohosting.com
 www.apple.id-login.com
 www.appleid-logon.apple-log.com.verifiyinhg-a-securityf.info
@@ -6319,6 +6343,7 @@ www.https.pay-palaccountactivation.id-9829839s837r6s4g4555s33eh23kk43.mio-conto-
 www.https.secure.apple.verification.departement.b23.idv.tw
 www.https.securityverification.paypal.com.mapleleaf.com.au
 www.https.update-information-myaccount.kostegal.com
+www.https.www.amazon.com-ssl-wenotice-dunusual-id520019860052432-has-been-limited.aberturasaguilasdelsur.com.ar
 www.https.www.dropbox.com-sign-in-veiw-file.com.reisenoronha.com.br
 www.https.www.netflix.com.au.login.kokimasak.com
 www.humanverificationonline.giftcardsonline.space
@@ -6335,6 +6360,7 @@ www.icloud.com-apple.us
 www.icloud.com.authids-sign.in
 www.icloud.com.br-web.site
 www.icloud.com-co.xyz
+www.icloud.com.findmydevice.support
 www.icloud.com-findmyphone.support
 www.icloud.com-find.review
 www.icloud.com.found.location-service.online
@@ -6585,6 +6611,7 @@ www.logintohotmail.com
 www.login-to-update-your-account-info-management-page-109875.soloparati.pe
 www.login-to-update-your-account-info-management-page.lexan.livenet.pl
 www.login-to-update-your-account-info-management-page.trabajosenacrilico.com
+www.login-to-your-accountpaypal.auth-securel-acc.info
 www.login.updateadobe.ml
 www.login-update.aitechseguranca.com.br
 www.login.usaa.support.info.online.domenicopaulon.com
@@ -6594,6 +6621,7 @@ www.login.yahooservice.ormco.ro
 www.loginyahoo.smalldoll.ga
 www.login-yahoo-verify.smalldoll.ga
 www-logi-php-secure-com.netflixverifikasionaccount.ml
+www.luno.updates.loadbtx.cf
 www.mac-apple-support.us
 www.mail.google.ru-login-cgi-auth.email
 www.mail-inc-account.com.bh-ht-3.webhostbox.net
@@ -6634,6 +6662,8 @@ www.manage.your.account.id.com.en-accountservice.ga
 www.manage.your.account.id.com.en-client-portal.ga
 www.manage.your.account.id.com.en-client-portal.gq
 www.manage.your.account.id.com.en-portal-service.ga
+www.manage.your.account.id.com.en-portal-service.gq
+www.manage.your.account.id.com.en-service-portal.ga
 www.manage.your.id.cloud.verification.com.en-portalcheck.ga
 www.maps-apple.usa.cc
 www.mapsconnect.apple.auth-en.us
@@ -6950,6 +6980,7 @@ www.paypal.com.webapps.mascarasiriarte.com.ar
 www.paypal.com.webapps.paypal.safety.and.security.veloxcreative.com
 www.paypal.com.webapps-websrc.login-submit-dispatch.0dab0733ea018c1f2b303851051b3657ff9a8e70fbefb471bc4.83458ee6a7f4c0722f4570dab0788ea.fonsecabogados.com
 www.paypal.com-your-account-have-a-problems.fft.hk
+www.paypal-confirm.account.suspended.login.in.sondelamatat.co.za
 www.paypal-confirmation.login-info-identity.com
 www.paypal-confirmations.login-info-identity.com
 www.paypal-con-verification.nordastraet.xyz
@@ -7237,8 +7268,10 @@ www.secure.auth-signinappleid.com-officialsecuritysupport.com
 www.secure.auth-signinappleid.com-officialsupporthelp.com
 www.secure.auth-signinappleld.com-supportupdateofficial.com
 www.secure.bankofamerica.com.onlineconvert.com.ng
+www.secure.bankofamerica.statements.details.affirmativeaction.cl
 www.secure.bankofamerica.statements.details.phdnegocios.com.br
 www.secure.bankofamerica.statements.details.rcsbchat.com
+www.secure.bankofamerica.statements.myaccounts.affirmativeaction.cl
 www.secure.bankofamerica.statements.myaccounts.cestabasicadf.com.br
 www.secure.bank.suntrust.support-update-info.jeromyshingongo.com
 www.secure-barclays.verify.tips4travel.mx
@@ -7425,6 +7458,7 @@ www.support-account.aql-inc.com
 www.support-account.bahrainvolunteers.com
 www.support.account.bahrainvolunteers.com
 www.support-account.bromo174.id
+www.support.account.centre.automails361.com
 www.support-account.cursodeporteiroonline.xyz
 www.support-account-custmer-update-info.ainaliraq.com
 www.support-account-service-information-important.diisikali.com
@@ -7736,6 +7770,7 @@ www.verify-and-update.apple.account-susspended.com.valsorim.net
 www.verify-appleid-securityonline.cf
 www.verify-appleid-securityonline.ga
 www.verify-appleid-securityonline.tk
+www.verify.apples.validlogin.confm.birbhumchemicals.com
 www.verify-apple.us
 www.verify.bing.com.aroma-company.be
 www.verifybulk.com.br
