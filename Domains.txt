@@ -76,6 +76,7 @@ account-liemted.information.gulzarintl.com
 account.limitation.resolve.paypal.com.cpimtelangana.com
 account-limitediously.online
 accountlimitednotifications.resolutionscenters.nut.cc
+account-limited-update-info.grafotech.com.br
 account-limted-info.ml
 account.live.acc-login.com
 account.live.com.accountsettings.site
@@ -129,6 +130,8 @@ accountservice-apple.usa.cc
 account-servicecontact.co.uk
 account-service-contact.org
 account-service.eu
+account-service-info.email
+account-service-infos-online.org
 accountservice-live.be
 account-service.pw
 account.service.rketech.com
@@ -653,6 +656,7 @@ appleid.verifyaccountdetails.com
 appleid.verify.akbidibtisamaulia.ac.id
 appleid-verify.online
 appleid.verifys-account-securess.com
+appleid-verifyuser.serveirc.com
 appleid-veriv.serveirc.com
 appleidvertification-apple.store
 appleid.vividtechnology.co.uk
@@ -856,6 +860,7 @@ apprecovery-appleinc-store.informan-mync.com
 approve-login.cf
 apps2id.store.icloud-apple.sayamantshitim.com
 apps-apple-service-problem.memekswag.info
+appsecurepayment-recoveryupdate.com
 apps.eng-support.apple-store126789.jurusdubaimunicipality.com
 apps.eng-support.apple-store226789.jurusdubaimunicipality.com
 apps.eng-support.apple-store26789.jurusdubaimunicipality.com
@@ -964,6 +969,7 @@ autodiscover.netflixsweeps.win
 autodiscover.outlookcustomer-support.com
 autodiscover.outlookhelp.support
 autodiscover.paycomemployeelogin.info
+autodiscover.paypall.com.br
 autodiscover.paypal-security-center.ml
 autodiscover.pcsmyaccount-pcsmstaercard-fr.nut.cc
 autodiscover.securemyaccount.info
@@ -1024,6 +1030,7 @@ bigpond-emailsupport.attemail-customer-service.com
 bill-accounts-tls.hidrotubosmg.com.br
 billing.account.netflx.com.update-netflix.com
 billpayments.appleid.com.xsecure07.com
+billpayments.appleid.com.xsecure08.com
 bimmernavupdates.accountant
 binance.com-login.cropac.club
 bittrex.com.account.login1.frpfiles.com
@@ -1488,6 +1495,7 @@ cpanel.payment-service.icloud.daniacantik.com
 cpanel.paypal-account-info.com
 cpanel.paypal-account-verification.usa.cc
 cpanel.paypal.ecodriversbr.com.br
+cpanel.paypall.com.br
 cpanel.paypall.com.ng
 cpanel.paypal.runxe.xyz
 cpanel.paypal-security-center.ml
@@ -1675,6 +1683,7 @@ details.information.center.security.service.yesgluten.com
 dev.appleiq.imposium.com
 develop.bsg-account-service.intern.test.sda-se.com
 device-apple.suportefmi-br.online
+device.login.microsoftonline.com.us2.cas.ms
 disabilitysupportworkerstaxonline-com-au.accountantsplus.com.au
 disablelogin-acces.cf
 discover-prior-full-stack-service.review
@@ -1686,6 +1695,7 @@ docusign.com.login.viewfile.security.finbrick.com
 doordashcomcustomervhf.ml
 dropboxaccess.accountabilitynetwork.co.uk
 dropbox.andrepadua.com.br
+dropbox.com.login.dimocktaxes.com
 dropbox.com.login.ocean14corp.com
 dropbox.com.login.tubookpro.cl
 dropbox.com.login.yondemli.com
@@ -1728,6 +1738,7 @@ ebay.stock-store.site
 ebuk-customer-service.uk
 eb-uk-information-service.uk
 educate-supported.ml
+effect-extra-analytic-service.review
 effect-leading-ppc-service.review
 effect-prior-web-service.review
 electroluxproduct.customersupport24x7.in
@@ -1904,6 +1915,7 @@ hotmailentraremail.com.br
 hotmailentrar.online
 hotmailiniciarsesion.com.co
 hotmail.live.com.redirect.unik-be.tk
+hotmaillogin2018.com
 hotmailloginaccountemail.com
 hotmailloginaz.com
 hotmaillogin.co.uk
@@ -1963,6 +1975,7 @@ icloud-com-appleid.com
 icloud.com.apple-id.id
 icloud.com.appleid.name
 icloud.com.applemap.online
+icloud.com.apple-service.co
 icloud.com.apple.support.findmylphone.top
 icloud.com-apple.us
 icloud.com.authid-sign.in
@@ -2101,6 +2114,7 @@ instagram.com-security.co
 instagram.com.vrfd.ga
 instagram.com.vrfy.ml
 instagram.davivilela.com.br
+instagram.downstudo.ml
 instagram.gfreire.com.br
 instagram.ghts.com.br
 instagramhelp.com.tr.ht
@@ -2117,6 +2131,7 @@ instagramparainiciantes.bravusite.com.br
 instagram.photo-online.com.ua
 instagram.pirazza.com.br
 instagram.porinternet.com.ve
+instagram.quickforms.online
 instagramsecurity.gq
 instagramsecurity.thats.im
 instagramserviceaccount.usa.cc
@@ -2330,6 +2345,7 @@ login.server.net-accounting.de
 loginservice.com.br
 login-smart-service.usa.cc
 login.support-accountverification-helpcenters.net
+login.supportersvereniginghelmondsport.nl
 login-support-mukbang-authorize.actreportsdaily.net
 logintohotmail.com
 login-to-update-your-account-info-management-page-109875.soloparati.pe
@@ -2345,6 +2361,7 @@ login.verifyoffice.ga
 log-in-websecure.loginaustria.com
 log-in-websecure.loginautriche.com
 log-in-websecure.loginvienna.net
+login.webservicesvap.com.mx
 login.windturbineservice.nl
 login.yahoo.com1389734723.ml
 login.yahoo.com1897623.ga
@@ -2646,10 +2663,12 @@ mail.paymentdisputesverificationid.info
 mail.paymentdisputesverificationids.info
 mail.payment-service.icloud.daniacantik.com
 mail.paymentverification.us
+mail.paypak.com.pk
 mail.paypal-account-info.com
 mail.paypal-account-verification.usa.cc
 mail.paypal.dealsdepartment.com.au
 mail.paypal.ecodriversbr.com.br
+mail.paypall.com.br
 mail.paypall.com.ng
 mail.paypal.peka9.com
 mail.paypal.runxe.xyz
@@ -3073,6 +3092,9 @@ nsw---security-update-mlqcs5q-xu3kzi5t2dxl2.us.platform.sh
 ntcpayme.merchant-account-services-provider.com
 nznetflix.usa-ip-address.com
 o2-loginsecure.company
+octubre-login-aumento-cl-bancochile.cf
+octubre-login-aumento-cl-bancochile.ga
+octubre-login-aumento-cl-bancochile.gq
 offerfortomorrow.club.autotradingsupport.online
 offers-paypel.ml
 office365.com.login.support.kidstoadopt.com
@@ -3158,6 +3180,7 @@ paypail-confirm.it
 paypail-security.ml
 paypai.online-gb.info
 paypai.online-support.uk
+paypak.com.pk
 paypal1.shop.pastease.com.au
 paypal2016.data-id5g7d5f9z56d64.wheels4change.com
 paypal2.beyda.ru
@@ -3184,6 +3207,7 @@ paypal.ahg.af
 paypalamericas-io.invisionapp.com
 paypalamericas-support.invisionapp.com
 paypal.ausautopartsonline.com.au
+paypal-authorizet-account-verify.mutumonline.com
 paypal.auth-sslsecure.com
 paypal.aws1-test.syrupme.net
 paypal.backup.weblinknepal.com
@@ -3310,6 +3334,7 @@ paypal.kabylie-gouv.org
 paypal.kibin.com
 paypal.kubwa.de
 paypal.laghaim.online
+paypall.com.br
 paypall.com.embalet.com.br
 paypall.com.ng
 paypal.libertystreetgeek.net
@@ -3429,6 +3454,7 @@ pay.pal.support.scecurite-update.your.account-please.benouver.com.br
 paypalsupportwebappsaccountid404.kentotskan23.com
 paypalsupportwebappsaccountid404.kentotskan4.com
 paypal.take2me.it
+paypaltest8128731823123.securechkout.com
 paypaltest.doitex.lv
 paypaltestsubmit.safechkout.net
 paypal.tk.com.altazi.com
@@ -4123,6 +4149,7 @@ support.account.centre.automails361.com
 support-account.cursodeporteiroonline.xyz
 support-account-custmer-update-info.ainaliraq.com
 support-accountlocked-apple-info.wepps-secure3544.dynv6.net
+support.account-login.paypal.com-country.international
 support-account-service-information-important.diisikali.com
 support-accountservice-verificatinid4272836.com
 support.accounts.mailtrkr.com
@@ -4145,6 +4172,7 @@ support-appieid-customerservice-accountid7456.com
 support-appieid-customerservice-accountid8162.com
 support.appield.com.securesafee.net
 support-apple.account-updatestatement.hbj89u.com
+support-apple.alerts-account.com
 support-apple.app
 support.apple.appleid.com.problem-paymentorder.me
 support-apple.appleid.com-sign-in.securelockedappsv.com
@@ -4500,7 +4528,9 @@ updateyourinformationaccountppl.improntaviola.ch
 updateyourinformationaccountppl.sarix.com
 update-your-information.com.gosecurity.is
 update-your-information-locked.tk
+update-your-information-login.ubamaresol.com.br
 update-your-information-support.katiemurray.com
+update-your-information.ubamaresol.com.br
 update-your-itunes-information.villa-bellevue.hr
 update-your-security-limited-informations-account-service.hoppespoolandspa.com
 update-your-service-account-to-support.eireanngroup.com
@@ -4707,6 +4737,7 @@ verify.user.motelcorpoealma.com.br
 verify-whatsapp.ml
 verify-y0urpaymentdetails.com
 verify-you-order-icloud-upgrade-storage.usa.cc
+verify-your-account.amigoimpex.com
 verify-your-account.barisalad.com
 verify-your-account.bzcontadores.com
 verify-youraccountt.serveirc.com
@@ -4975,6 +5006,7 @@ webdisk.payment-service.icloud.daniacantik.com
 webdisk.paypal-account-info.com
 webdisk.paypal-account-verification.usa.cc
 webdisk.paypal.ecodriversbr.com.br
+webdisk.paypall.com.br
 webdisk.paypall.com.ng
 webdisk.paypal.runxe.xyz
 webdisk.paypal-security-center.ml
@@ -5324,6 +5356,7 @@ webmail.payment-service.icloud.daniacantik.com
 webmail.paypal-account-info.com
 webmail.paypal-account-verification.usa.cc
 webmail.paypal.ecodriversbr.com.br
+webmail.paypall.com.br
 webmail.paypall.com.ng
 webmail.paypal.runxe.xyz
 webmail.paypal-security-center.ml
@@ -5541,6 +5574,7 @@ www.account-liemted.information.gulzarintl.com
 www.account.limitation.resolve.paypal.com.cpimtelangana.com
 www.account-limitediously.online
 www.accountlimitednotifications.resolutionscenters.nut.cc
+www.account-limited-update-info.grafotech.com.br
 www.account-logine-info.co.uk
 www.account-login.gamrxtreme.com
 www.accountloginverify.com
@@ -5574,6 +5608,7 @@ www.accountservice-apple.usa.cc
 www.account-servicecontact.co.uk
 www.account-service-contact.org
 www.account-service.eu
+www.account-service-info-online.club
 www.accountservice-live.be
 www.account.service.rketech.com
 www.account-servicesinfo.xyz
@@ -6018,6 +6053,7 @@ www.apple-web-support-com.eu
 www.applid-support-center.surfsidepoolsnc.com
 www.approve-login.cf
 www.apps2id.store.icloud-apple.sayamantshitim.com
+www.appsecurepayment-recoveryupdate.com
 www.apps.eng-support.apple-store126789.jurusdubaimunicipality.com
 www.apps.eng-support.apple-store226789.jurusdubaimunicipality.com
 www.apps.eng-support.apple-store26789.jurusdubaimunicipality.com
@@ -6083,6 +6119,7 @@ www.bienvenidosnetflix.imagenesdecantantes.com
 www.bigpond-emailsupport.attemail-customer-service.com
 www.bill-accounts-tls.hidrotubosmg.com.br
 www.billpayments.appleid.com.xsecure07.com
+www.billpayments.appleid.com.xsecure08.com
 www.binance.com-login.cropac.club
 www.bittrex.com.account.login1.frpfiles.com
 www.bittrex.com-account-login.ironblindados.xyz
@@ -6275,6 +6312,7 @@ www.disabilitysupportworkerstaxonline-com-au.accountantsplus.com.au
 www.docs.service-mail-login.com
 www.docusign.com.login.viewfile.security.finbrick.com
 www.dropboxaccess.accountabilitynetwork.co.uk
+www.dropbox.com.login.dimocktaxes.com
 www.dropbox.com.login.ocean14corp.com
 www.dropbox.com.login.tubookpro.cl
 www.dropbox.com.login.yondemli.com
@@ -6434,6 +6472,7 @@ www.hotmailcustomerservice.com
 www.hotmailentraremail.com.br
 www.hotmailiniciarsesion.com.co
 www.hotmail.live.com.redirect.unik-be.tk
+www.hotmaillogin2018.com
 www.hotmailloginaccountemail.com
 www.hotmaillogin.co.uk
 www.hotmaillogin.guide
@@ -6475,6 +6514,7 @@ www.icloud-com-appleid.com
 www.icloud.com.apple-id.id
 www.icloud.com.appleid.name
 www.icloud.com.applemap.online
+www.icloud.com.apple-service.co
 www.icloud.com-apple.us
 www.icloud.com.authids-sign.in
 www.icloud.com.br-web.site
@@ -6591,6 +6631,7 @@ www.instagram.com.vrfd.ga
 www.instagram.com.vrfy.ml
 www.instagram.davivilela.com.br
 www.instagram-de-support-passwort.lima-city.de
+www.instagram.downstudo.ml
 www.instagram.gfreire.com.br
 www.instagram.ghts.com.br
 www.instagram.hospedeseusite.ml
@@ -6732,6 +6773,7 @@ www.login.securedoffice.ml
 www.login.secure.dropboxx.victhal.com
 www.loginservice.com.br
 www.login-smart-service.usa.cc
+www.login.supportersvereniginghelmondsport.nl
 www.login-support-mukbang-authorize.actreportsdaily.net
 www.logintohotmail.com
 www.login-to-update-your-account-info-management-page-109875.soloparati.pe
@@ -6742,6 +6784,7 @@ www.login.updateadobe.ml
 www.login-update.aitechseguranca.com.br
 www.login.usaa.support.info.online.domenicopaulon.com
 www.login.verifyoffice.ga
+www.login.webservicesvap.com.mx
 www.login.yahoo.com1389734723.ml
 www.login.yahooservice.ormco.ro
 www.loginyahoo.smalldoll.ga
@@ -6954,6 +6997,9 @@ www.ns1.verification.account.login-appleid.waldowesley.com
 www.ntcpayme.merchant-account-services-provider.com
 www.nznetflix.usa-ip-address.com
 www.o2-loginsecure.company
+www.octubre-login-aumento-cl-bancochile.cf
+www.octubre-login-aumento-cl-bancochile.ga
+www.octubre-login-aumento-cl-bancochile.gq
 www.offerfortomorrow.club.autotradingsupport.online
 www.office365.com.login.support.kidstoadopt.com
 www.office365verificationtest.ml
@@ -7027,6 +7073,7 @@ www.paypa.com.manage-account.me
 www.paypa.com.paypa-manage.me
 www.paypa.com.secureaccounts.info
 www.paypail-confirm.it
+www.paypak.com.pk
 www.paypal1.shop.pastease.com.au
 www.paypal2016.data-id5g7d5f9z56d64.wheels4change.com
 www.paypal.aamarsyria.com
@@ -7045,6 +7092,7 @@ www.paypal.acuteschool.com
 www.paypaladder.epickeys.com
 www.paypal.ahg.af
 www.paypal.ausautopartsonline.com.au
+www.paypal-authorizet-account-verify.mutumonline.com
 www.paypal.auth-sslsecure.com
 www.paypal.backup.weblinknepal.com
 www.paypal.billing.wizkidhosting.com
@@ -7155,6 +7203,7 @@ www.paypal.jimenaangelarte.com
 www.paypal.jobskee.com
 www.paypal.kibin.com
 www.paypal.laghaim.online
+www.paypall.com.br
 www.paypall.com.embalet.com.br
 www.paypall.com.ng
 www.paypal.libertystreetgeek.net
@@ -7843,7 +7892,9 @@ www.updateyourinformationaccountppl.improntaviola.ch
 www.updateyourinformationaccountppl.sarix.com
 www.update-your-information.com.gosecurity.is
 www.update-your-information-locked.tk
+www.update-your-information-login.ubamaresol.com.br
 www.update-your-information-support.katiemurray.com
+www.update-your-information.ubamaresol.com.br
 www.update-your-itunes-information.villa-bellevue.hr
 www.update-your-security-limited-informations-account-service.hoppespoolandspa.com
 www.update-your-service-account-to-support.eireanngroup.com
@@ -7964,6 +8015,7 @@ www.verifystore57.gq
 www.verifysupportacoun.servepics.com
 www.verify.user.motelcorpoealma.com.br
 www.verify-y0urpaymentdetails.com
+www.verify-your-account.amigoimpex.com
 www.verify-your-account.barisalad.com
 www.verify-your-account.bzcontadores.com
 www.view-account.com-login-verifycation.info
